@@ -1,3 +1,193 @@
 {
-	"name": "Anton Punith"
+	"basics": {
+		"name": "Anton Punith",
+		"email": "antonpunith@gmail.com",
+		"phone": "0478006189"
+	},
+	"headlines": [
+		{
+			"active": false,
+			"text": "Versatile UI developer with over 9 years of experience in front-end development in web and mobile."
+		},
+		{
+			"active": true,
+			"text": "Versatile Front End developer with over 9 years of experience in front-end development in web and mobile."
+		}
+	],
+	"objectives": [
+		{
+			"active": true,
+			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The Ideal position should challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constant self-improvement."
+		}
+	],
+	"summary": [
+		{
+			"active":true,
+			"text": "Expert in HTML5, XHTML, CSS, CSS3, LESS CSS, JavaScript, jQuery, AJAX and JSON."
+		},
+		{
+			"active":true,
+			"text": "Experience with React, Alt js and ES6 standards."
+		},
+		{
+			"active":true,
+			"text": "Build automation with Node, Grunt, Gulp and Webpack."
+		},
+		{
+			"active":true,
+			"text": "An earnest believer in clean coding standards, semantic HTML and CSS and conventions, W3C standards and best practices."
+		},
+		{
+			"active":true,
+			"text": "In-depth knowledge in Responsive Web Design techniques, cross-browser compatibility and browser quirks, Accessibility, cross device compatibility, SEO, site optimization."
+		},
+		{
+			"active":true,
+			"text": "Knowledge of other MV* frameworks like Angular, Backbone and templating like moustache, handlebars JS."
+		},
+		{
+			"active":true,
+			"text": "Worked in various development models including Agile Development (Scrum) - as scrum master."
+		},
+		{
+			"active":true,
+			"text": "Experience writing unit tests. "
+		},
+		{
+			"active":true,
+			"text": "Good understanding of git repositories and git process."
+		},
+		{
+			"active":true,
+			"text": "Built HTML5 applications with RESTful services. "
+		},
+		{
+			"active":true,
+			"text": "Expert at design tools like Photoshop and Illustrator."
+		}
+	],
+	"skills": [
+		{
+			"title": "Operating Systems",
+			"values": ["Mac", "Linux", "Windows"]
+		},
+		{
+			"title": "Languages / Frameworks",
+			"values": ["XHTML/HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "XML", "PHP", "MySQL", "LESS CSS", "SASS", "Twitter Bootstrap", "React", "Grunt", "Gulp", "Webpack", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
+		},
+		{
+			"title": "IDE & Software",
+			"values": ["Photoshop", "Illustrator", "Sublime Text"]
+		},
+		{
+			"title": "Version Tools",
+			"values": ["Git", "Git CLI", "SourceTree", "SVN"]
+		},
+		{
+			"title": "PHP CMS",
+			"values": ["SilverStripe", "WordPress", "Drupal", "Magento", "Joomla", "Zencart"]
+		}
+	],
+	"projects": [
+		{
+			"title": "Persuit",
+			"active": true,
+			"showFull": true,
+			"role": "Front-end Developer",
+			"headline": "This is still under development and is a revolutionary approach at professional services. This started as a backbone app and we later migrated to React.js.",
+			"responsibilities": [
+				"Build simple to complex features with new or existing components in react according to the specs.",
+				"Style various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
+				"Adhere to coding and development process standards. Create pull request and review other pull requests.",
+				"Introduced the team to agile and scrum methodology and adopted a hybrid process meeting the project needs.",
+				"Write unit tests for testable features."
+			],
+			"technologies": ["React with Alt", "Node", "Webpack", "ES6 using Babel", "SASS"]
+		},
+		{
+			"title": "Griffith Hack",
+			"link": "http://www.griffithhack.com/",
+			"visibleLink": "griffithhack.com",
+			"active": true,
+			"showFull": true,
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "",
+			"responsibilities": [
+				""
+			],
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
+		},
+		{
+			"title": "Whitbread Insurance Brokers",
+			"link": "http://whitbread.com.au/",
+			"visibleLink": "whitbread.com.au",
+			"active": true,
+			"showFull": true,
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "",
+			"responsibilities": [
+				""
+			],
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
+		},
+		{
+			"title": "ShineWing",
+			"link": "http://shinewing.com.au/",
+			"visibleLink": "shinewing.com.au",
+			"active": true,
+			"showFull": true,
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "",
+			"responsibilities": [
+				""
+			],
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
+		}
+	],
+	"projectLinks": [
+		{
+			"visibleLink": "victorianopera.com.au/",
+			"link": "http://victorianopera.com.au/"
+		},
+		{
+			"visibleLink": "thermeco.com.au/",
+			"link": "http://thermeco.com.au/"
+		},
+		{
+			"visibleLink": "landers.com.au/",
+			"link": "http://landers.com.au/"
+		},
+		{
+			"visibleLink": "enchantedball.com.au/",
+			"link": "http://enchantedball.com.au/"
+		},
+		{
+			"visibleLink": "eurowindow.com.au/",
+			"link": "http://eurowindow.com.au/"
+		},
+		{
+			"visibleLink": "landers.com.au/",
+			"link": "http://landers.com.au/"
+		},
+		{
+			"visibleLink": "vaccho.org.au/",
+			"link": "http://vaccho.org.au/"
+		},
+		{
+			"visibleLink": "globalenglish.com/",
+			"link": "http://globalenglish.com/"
+		},
+		{
+			"visibleLink": "ayurvedapura.com/",
+			"link": "http://ayurvedapura.com/"
+		},
+		{
+			"visibleLink": "apps.globalenglish.com/lingo/",
+			"link": "http://apps.globalenglish.com/lingo/"
+		},
+		{
+			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts/",
+			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/"
+		}
+	]
 }

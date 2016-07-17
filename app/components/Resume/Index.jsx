@@ -1,5 +1,11 @@
 import React from 'react';
-import styles from './styles.scss';
+import Header from './components/Header';
+import Headline from './components/Headline';
+import Objective from './components/Objective';
+import Summary from './components/Summary';
+import Skills from './components/Skills';
+import Projects from './components/Projects';
+import ProjectLinks from './components/ProjectLinks';
 
 export default React.createClass({
 
@@ -9,11 +15,15 @@ export default React.createClass({
 
 		let { data } = this.props;
 
-		console.log(data);
-
 		return (
-			<div className="title-shadow">
-				{data.name}!
+			<div>
+				<Header basics={data.basics} />
+				<Headline headlines={data.headlines} />
+				<Objective objectives={data.objectives} />
+				<Summary summary={data.summary} />
+				<Skills skills={data.skills} />
+				<Projects projects={data.projects} />
+				<ProjectLinks projectLinks={data.projectLinks} />
 			</div>
 		);
 	}

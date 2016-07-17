@@ -62,7 +62,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: 'node_modules/html-webpack-template/index.ejs',
-      title: 'React Speed Coding',
+      title: 'Anton Punith | Web developer',
       appMountId: 'app',
       inject: false
     }),

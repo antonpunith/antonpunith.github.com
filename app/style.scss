@@ -1,9 +1,12 @@
-$color: blue;
+@import url(https://fonts.googleapis.com/css?family=Tinos:400,400italic);
+
 
 body {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 100%;
-  color: $color;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: 'Tinos', serif;
 }
 
 .title-shadow {
