@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import World from './components/World.jsx';
+import Resume from './components/Resume';
+import data from './data/resume.json';
 
 ReactDOM.render(
-  <World greet="Hello" />,
+  <Resume data={data} />,
   document.getElementById('app')
 );

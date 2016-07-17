@@ -36,6 +36,11 @@ module.exports = {
         test: /\.scss$/,
         loaders: ['style', 'css', 'sass'],
         include: APP
+      },
+      {
+        test: /\.json$/,
+        exclude: /node_modules/,
+        loader: 'json'
       }
     ]
   },

@@ -1,6 +1,10 @@
 import React from 'react';
 import Hello from './Hello.jsx';
 
+const resume = {
+  'name' : 'Anton'
+};
+
 export default class World extends React.Component {
   constructor(props) {
     super(props);
@@ -20,7 +24,7 @@ export default class World extends React.Component {
   render() {
     return (
       <div>
-        <Hello greet={ this.state.greet } message="World!" />
+        <Hello resume={resume} greet={ this.state.greet } message="World!" />
         <a href="#" onClick={ this.slangGreet }>
           Slang greeting
         </a> OR <a href="#" onClick={ this.hindiGreet }>

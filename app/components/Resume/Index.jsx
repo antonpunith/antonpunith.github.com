@@ -1,16 +1,19 @@
 import React from 'react';
+import styles from './styles.scss';
 
 export default React.createClass({
 
-	displayName: 'Hello',
+	displayName: 'Resume',
 
 	render () {
-		const {
-			greet, message, resume
-		} = this.props;
+
+		let { data } = this.props;
+
+		console.log(data);
+
 		return (
 			<div className="title-shadow">
-				{greet} {message} {resume.name}
+				{data.name}!
 			</div>
 		);
 	}
