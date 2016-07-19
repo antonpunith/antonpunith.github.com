@@ -15,7 +15,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { objectives } = this.props;
+		const { objectives } = this.props;
 		return (
 			<div>
 				<h2>Objective</h2>

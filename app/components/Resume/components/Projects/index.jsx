@@ -5,7 +5,18 @@ import styles from './styles.scss';
 export default React.createClass({
 	displayName: 'Projects',
 
-	renderResponsibilities (responsibility, key) {
+	renderResponsibilities (project) {
+		if(!project.responsibilities || !project.responsibilities.length) {
+			return null;
+		}
+		return (
+			<ul>
+			{project.responsibilities.map(this.renderResponsibilityItem)}
+			</ul>
+		);
+	},
+
+	renderResponsibilityItem (responsibility, key) {
 		return (
 			<li key={key}>
 				{responsibility}
@@ -22,23 +33,39 @@ export default React.createClass({
 		);
 	},
 
-	renderProjects (project, key) {
+	renderRole (project) {
+		if (!project.role) {
+			return null;
+		}
+		return (<h4 className={styles.projectHeader}>Role: {project.role}</h4>);
+	},
+
+	renderTechnologies (project) {
+		if (!project.technologies || !project.technologies.length) {
+			return null
+		}
 		return (
-			<div key={key}>
-				<h3 className={styles.projectTitle}><strong>{project.title}</strong> {this.renderProjectLink(project)}</h3>
-				<h4 className={styles.projectHeader}>Role: {project.role}</h4>
-				{project.headline}
-				<ul>
-				{project.responsibilities.map(this.renderResponsibilities)}
-				</ul>
+			<div>
 				<h4 className={styles.projectHeader}>Technology</h4>
 				{toSentence(project.technologies)}
 			</div>
 		);
 	},
 
+	renderProjects (project, key) {
+		return (
+			<div key={key}>
+				<h3 className={styles.projectTitle}><strong>{project.title}</strong> {this.renderProjectLink(project)}</h3>
+				{this.renderRole(project)}
+				{project.headline}
+				{this.renderResponsibilities(project)}
+				{this.renderTechnologies(project)}
+			</div>
+		);
+	},
+
 	render () {
-		let { projects } = this.props;
+		const { projects } = this.props;
 		return (
 			<div>
 				<h2>Projects</h2>

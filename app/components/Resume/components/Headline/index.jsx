@@ -16,7 +16,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { headlines } = this.props;
+		const { headlines } = this.props;
 		return (
 			<h3>
 				{headlines.map(this.renderHeadlines)}

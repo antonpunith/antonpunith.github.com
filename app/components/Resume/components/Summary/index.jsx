@@ -15,7 +15,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { summary } = this.props;
+		const { summary } = this.props;
 		return (
 			<div>
 				<h2>Summary</h2>

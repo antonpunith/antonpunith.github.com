@@ -11,7 +11,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { projectLinks } = this.props;
+		const { projectLinks } = this.props;
 		return (
 			<div>
 				<h3>More Projects</h3>

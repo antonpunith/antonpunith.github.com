@@ -40,11 +40,7 @@
 		},
 		{
 			"active":true,
-			"text": "Experience with React, Alt js and ES6 standards."
-		},
-		{
-			"active":true,
-			"text": "Build automation with Node, Grunt, Gulp and Webpack."
+			"text": "Experience with React, Alt js and ES6 standards and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
@@ -56,7 +52,7 @@
 		},
 		{
 			"active":true,
-			"text": "Knowledge of other MV* frameworks like Angular, Backbone and templating like moustache, handlebars JS."
+			"text": "Knowledge of MV* frameworks like Angular, Backbone and templating like moustache, underscore, handlebars JS."
 		},
 		{
 			"active":true,
@@ -102,6 +98,16 @@
 		}
 	],
 	"projects": [
+		{
+			"title": "antonpunith.github.com",
+			"link": "http://antonpunith.github.com/",
+			"visibleLink": "antonpunith.github.com",
+			"active": true,
+			"showFull": true,
+			"headline": "My online resume",
+			"responsibilities": [],
+			"technologies": ["React with Alt", "Node", "Webpack", "ES6 using Babel", "SASS"]
+		},
 		{
 			"title": "Persuit",
 			"active": true,
@@ -156,16 +162,16 @@
 	],
 	"projectLinks": [
 		{
-			"visibleLink": "victorianopera.com.au/",
-			"link": "http://victorianopera.com.au/"
-		},
-		{
 			"visibleLink": "thermeco.com.au/",
 			"link": "http://thermeco.com.au/"
 		},
 		{
 			"visibleLink": "landers.com.au/",
 			"link": "http://landers.com.au/"
+		},
+		{
+			"visibleLink": "victorianopera.com.au/",
+			"link": "http://victorianopera.com.au/"
 		},
 		{
 			"visibleLink": "enchantedball.com.au/",
@@ -211,6 +217,8 @@
 			"endDate": "2016-06-08",
 			"summary": "Description...",
 			"highlights": [
+				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
+				"Improved understanding of GIT, and extensively used git for code quality control, and feature release."
 			]
 		},
 		{
@@ -223,6 +231,10 @@
 			"endDate": "2015-09-11",
 			"summary": "Description...",
 			"highlights": [
+				"Built numerous websites for various clients of Trout mostly using Silverstripe as the CMS.",
+				"Improved development practices and dictated best practices",
+				"Worked to optimize websites using various techniques.",
+				"Worked both in team and as a single developer on projects."
 			]
 		},
 		{
@@ -270,6 +282,16 @@
 				"Design and develop Web 2.0 Layouts for PHP based web-applications and CMSs like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript and CSS. Also ensure cross browser compatibility and debugging", 
 				"Worked with jQuery Ajax, menus, slider, slide shows and other dynamic content with CSS."
 			]
+		}
+	],
+	"education": [
+		{
+			"institution": "JNTU",
+			"location": "Hyderabad",
+			"countryCode": "IN",
+			"area": "Information Technology",
+			"studyType": "Bachelor of Technology",
+			"endDate": "2007-08-30"
 		}
 	]
 }

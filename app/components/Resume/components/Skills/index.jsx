@@ -18,7 +18,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { skills } = this.props;
+		const { skills } = this.props;
 		return (
 			<div>
 				<h2>Skills</h2>

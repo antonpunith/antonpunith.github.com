@@ -3,7 +3,7 @@ import countryData from 'country-data';
 import moment from 'moment';
 import styles from './styles.scss';
 
-let countries = countryData.countries;
+const countries = countryData.countries;
 
 export default React.createClass({
 
@@ -25,7 +25,7 @@ export default React.createClass({
 							<br/>
 							<em>{company.position}</em>
 						</td>
-						<td className="text-right">{moment(company.startDate).format('MMMM  YYYY')} - {moment(company.endDate).format('MMMM  YYYY')}</td>
+						<td className="text-right">{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</td>
 					</tr>
 					<tr>
 						<td className={styles.workHightlights} colSpan="2">
@@ -40,7 +40,7 @@ export default React.createClass({
 	},
 
 	render () {
-		let { work } = this.props;
+		const { work } = this.props;
 		
 		return (
 			<div>
