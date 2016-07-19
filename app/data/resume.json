@@ -2,16 +2,28 @@
 	"basics": {
 		"name": "Anton Punith",
 		"email": "antonpunith@gmail.com",
-		"phone": "0478006189"
+		"phone": "0478006189",
+
+		"label": "Front End Developer",
+		"picture": "",
+		"website": "http://antonpunith.github.io/",
+		"location": {
+			"address": "4/234 Cotham Road, Kew",
+			"postalCode": "VIC",
+			"city": "Melbourne",
+			"countryCode": "au",
+			"region": "Melbourne"
+		},
+		"profiles": [{
+			"network": "Linkedin",
+			"username": "antonpunith",
+			"url": "https://www.linkedin.com/in/antonpunith"
+		}]
 	},
 	"headlines": [
 		{
-			"active": false,
-			"text": "Versatile UI developer with over 9 years of experience in front-end development in web and mobile."
-		},
-		{
 			"active": true,
-			"text": "Versatile Front End developer with over 9 years of experience in front-end development in web and mobile."
+			"text": "Versatile UI / Front End developer with over 9 years of experience in front-end development in web and mobile."
 		}
 	],
 	"objectives": [
@@ -188,6 +200,80 @@
 		{
 			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts/",
 			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/"
+		}
+	],
+	"work": [
+		{
+			"company": "Persuit",
+			"position": "Front End Developer",
+			"location": "Melbourne",
+			"countryCode": "AU",
+			"website": "https://persuit.com/",
+			"startDate": "2015-09-14",
+			"endDate": "2016-06-08",
+			"summary": "Description...",
+			"highlights": [
+				"something"
+			]
+		},
+		{
+			"company": "Trout Creative Thinking",
+			"position": "Front End Developer",
+			"location": "Melbourne",
+			"countryCode": "AU",
+			"website": "http://trout.com.au/",
+			"startDate": "2013-09-30",
+			"endDate": "2015-09-11",
+			"summary": "Description...",
+			"highlights": [
+				"something"
+			]
+		},
+		{
+			"company": "Cognizant Technology Solutions Pvt Ltd",
+			"position": "Associate - Projects",
+			"location": "Hyderabad",
+			"countryCode": "IN",
+			"website": "http://cognizant.com/",
+			"startDate": "2012-07-11",
+			"endDate": "2013-09-13",
+			"summary": "Description...",
+			"highlights": [
+				"Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
+				"To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
+				"Provide solutions and support to different projects and developers on different areas like Responsive Web design, project architecture and design, approaches and framework.",
+				"Evaluate different technologies and techniques for projects and suggest the most optimum solution.",
+				"Decide and work on frameworks and architecture of project, so that the team could work on it further."
+			]
+		},
+		{
+			"company": "Global English India Pvt Limited",
+			"position": "Senior UI Developer",
+			"location": "Chennai",
+			"countryCode": "IN",
+			"website": "http://www.globalenglish.com/",
+			"startDate": "2010-01-20",
+			"endDate": "2012-06-30",
+			"summary": "Description...",
+			"highlights": [
+				"Conceptualize and design user interface for enhancement of the web/mobile applications and create wireframes.",
+				"Develop applications with clean hand coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS. Also ensured cross browser compatibility and debugging"
+			]
+		},
+		{
+			"company": "Webwoggle Solutions",
+			"position": "Software Developer",
+			"location": "Chennai",
+			"countryCode": "IN",
+			"website": "",
+			"startDate": "2007-03-01",
+			"endDate": "2010-01-18",
+			"summary": "Description...",
+			"highlights": [
+				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.", 
+				"Design and develop Web 2.0 Layouts for PHP based web-applications and CMSs like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript and CSS. Also ensure cross browser compatibility and debugging", 
+				"Worked with jQuery Ajax, menus, slider, slide shows and other dynamic content with CSS."
+			]
 		}
 	]
 }

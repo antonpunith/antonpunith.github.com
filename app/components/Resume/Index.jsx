@@ -6,6 +6,7 @@ import Summary from './components/Summary';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import ProjectLinks from './components/ProjectLinks';
+import Work from './components/Work';
 
 export default React.createClass({
 
@@ -24,6 +25,7 @@ export default React.createClass({
 				<Skills skills={data.skills} />
 				<Projects projects={data.projects} />
 				<ProjectLinks projectLinks={data.projectLinks} />
+				<Work work={data.work} />
 			</div>
 		);
 	}

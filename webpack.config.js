@@ -34,12 +34,13 @@ module.exports = {
       },
       {
         test: /\.scss$/,
-        loaders: ['style', 'css', 'sass'],
+        loader: 'style!css?modules!sass?',
         include: APP
       },
       {
         test: /\.json$/,
-        exclude: /node_modules/,
+        /* usually should exclude node-modules, country-data dosen't work without it */
+        //exclude: /node_modules/, 
         loader: 'json'
       }
     ]
