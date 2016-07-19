@@ -60,6 +60,10 @@
 		},
 		{
 			"active":true,
+			"text": "Built HTML5 applications with RESTful services. "
+		},
+		{
+			"active":true,
 			"text": "Worked in various development models including Agile Development (Scrum) - as scrum master."
 		},
 		{
@@ -69,10 +73,6 @@
 		{
 			"active":true,
 			"text": "Good understanding of git repositories and git process."
-		},
-		{
-			"active":true,
-			"text": "Built HTML5 applications with RESTful services. "
 		},
 		{
 			"active":true,
@@ -126,7 +126,6 @@
 			"role": "Front-end Developer / Full Stack Developer",
 			"headline": "",
 			"responsibilities": [
-				""
 			],
 			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
 		},
@@ -139,7 +138,6 @@
 			"role": "Front-end Developer / Full Stack Developer",
 			"headline": "",
 			"responsibilities": [
-				""
 			],
 			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
 		},
@@ -152,7 +150,6 @@
 			"role": "Front-end Developer / Full Stack Developer",
 			"headline": "",
 			"responsibilities": [
-				""
 			],
 			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
 		}
@@ -214,7 +211,6 @@
 			"endDate": "2016-06-08",
 			"summary": "Description...",
 			"highlights": [
-				"something"
 			]
 		},
 		{
@@ -227,7 +223,6 @@
 			"endDate": "2015-09-11",
 			"summary": "Description...",
 			"highlights": [
-				"something"
 			]
 		},
 		{

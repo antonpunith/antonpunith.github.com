@@ -1,6 +1,7 @@
 import React from 'react';
 import countryData from 'country-data';
 import moment from 'moment';
+import styles from './styles.scss';
 
 let countries = countryData.countries;
 
@@ -16,14 +17,25 @@ export default React.createClass({
 
 	renderCompanies (company, key) {
 		return (
-			<div key={key}>
-				<strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} : {moment(company.startDate).format('MMMM  YYYY')} - {moment(company.endDate).format('MMMM  YYYY')}<br/>
-				<em>{company.position}</em><br/>
-				<ul>
-					{company.highlights.map(this.renderHightlights)}
-				</ul>
-
-			</div>
+			<table className={styles.workExperienceTable} key={key}>
+				<tbody>
+					<tr>
+						<td>
+							<strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name}
+							<br/>
+							<em>{company.position}</em>
+						</td>
+						<td className="text-right">{moment(company.startDate).format('MMMM  YYYY')} - {moment(company.endDate).format('MMMM  YYYY')}</td>
+					</tr>
+					<tr>
+						<td className={styles.workHightlights} colSpan="2">
+						<ul>
+							{company.highlights.map(this.renderHightlights)}
+						</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 		);
 	},
 
@@ -33,9 +45,7 @@ export default React.createClass({
 		return (
 			<div>
 				<h3>Work Experience</h3>
-				<div>
 				{work.map(this.renderCompanies)}
-				</div>
 			</div>
 		);
 	}

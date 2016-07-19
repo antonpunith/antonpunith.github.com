@@ -1,5 +1,6 @@
 import React from 'react';
 import toSentence from 'underscore.string/toSentence';
+import styles from './styles.scss';
 
 export default React.createClass({
 	displayName: 'Projects',
@@ -24,13 +25,13 @@ export default React.createClass({
 	renderProjects (project, key) {
 		return (
 			<div key={key}>
-				<h3>{project.title} {this.renderProjectLink(project)}</h3>
+				<h3 className={styles.projectTitle}><strong>{project.title}</strong> {this.renderProjectLink(project)}</h3>
+				<h4 className={styles.projectHeader}>Role: {project.role}</h4>
 				{project.headline}
-				<h4>Role: {project.role}</h4>
 				<ul>
 				{project.responsibilities.map(this.renderResponsibilities)}
 				</ul>
-				<h4>Technology</h4>
+				<h4 className={styles.projectHeader}>Technology</h4>
 				{toSentence(project.technologies)}
 			</div>
 		);

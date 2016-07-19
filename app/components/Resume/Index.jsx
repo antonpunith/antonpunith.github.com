@@ -23,6 +23,7 @@ export default React.createClass({
 				<Objective objectives={data.objectives} />
 				<Summary summary={data.summary} />
 				<Skills skills={data.skills} />
+				<div className="page-break" />
 				<Projects projects={data.projects} />
 				<ProjectLinks projectLinks={data.projectLinks} />
 				<Work work={data.work} />
