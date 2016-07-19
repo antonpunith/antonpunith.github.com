@@ -1,5 +1,6 @@
 import React from 'react';
 import toSentence from 'underscore.string/toSentence';
+import styles from './styles.scss';
 
 export default React.createClass({
 	displayName: 'Skills',
@@ -7,8 +8,8 @@ export default React.createClass({
 	renderSkills (skill, key) {
 		return (
 			<tr key={key}>
-				<th>
-				{skill.title}: 
+				<th className={styles.skillTitle}>
+				{skill.title} 
 				</th>
 				<td>
 				{toSentence(skill.values)}

@@ -29,7 +29,7 @@ export default React.createClass({
 			return null;
 		}
 		return (
-			<a href={project.link} target="_blank">{project.visibleLink}</a>
+			<a href={project.link} target="_blank"><small>{project.visibleLink}</small></a>
 		);
 	},
 
@@ -55,7 +55,10 @@ export default React.createClass({
 	renderProjects (project, key) {
 		return (
 			<div key={key}>
-				<h3 className={styles.projectTitle}><strong>{project.title}</strong> {this.renderProjectLink(project)}</h3>
+				<h3 className={styles.projectTitle}>
+					<strong>{project.title}</strong>
+					&nbsp;&nbsp;{this.renderProjectLink(project)}
+				</h3>
 				{this.renderRole(project)}
 				{project.headline}
 				{this.renderResponsibilities(project)}

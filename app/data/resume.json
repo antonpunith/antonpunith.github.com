@@ -40,7 +40,7 @@
 		},
 		{
 			"active":true,
-			"text": "Experience with React, Alt js and ES6 standards and build automation with Node, Grunt, Gulp and Webpack."
+			"text": "Experience with React, Alt js and ES2015 standards and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
@@ -99,14 +99,16 @@
 	],
 	"projects": [
 		{
-			"title": "antonpunith.github.com",
+			"title": "My online resume",
 			"link": "http://antonpunith.github.com/",
 			"visibleLink": "antonpunith.github.com",
 			"active": true,
 			"showFull": true,
-			"headline": "My online resume",
-			"responsibilities": [],
-			"technologies": ["React with Alt", "Node", "Webpack", "ES6 using Babel", "SASS"]
+			"headline": "Sick of keeping on updating content and design of my resume in MS Word, and to gain better control over styling, I built this resume. I love the fact that the JSON that this resume now uses has all the nitty-gritty details while abstracting it.",
+			"responsibilities": [
+				"Built from scratch to better understand Webpack and React and continue working with ES2015."
+			],
+			"technologies": ["React", "Node", "Webpack", "ES2015 using Babel", "SASS"]
 		},
 		{
 			"title": "Persuit",
@@ -121,7 +123,7 @@
 				"Introduced the team to agile and scrum methodology and adopted a hybrid process meeting the project needs.",
 				"Write unit tests for testable features."
 			],
-			"technologies": ["React with Alt", "Node", "Webpack", "ES6 using Babel", "SASS"]
+			"technologies": ["React with Alt", "Node", "Webpack", "ES2015 using Babel", "SASS"]
 		},
 		{
 			"title": "Griffith Hack",
