@@ -1,4 +1,5 @@
 import React from 'react';
+import moment from 'moment';
 
 export default React.createClass({
 	displayName: 'Summary',
@@ -9,7 +10,7 @@ export default React.createClass({
 		}
 		return (
 			<div key={key}>
-				{headline.text}
+				{headline.position} with over {moment().diff(headline.careerStart,'years')} years of experience in {headline.skill}.
 			</div>
 		);
 	},

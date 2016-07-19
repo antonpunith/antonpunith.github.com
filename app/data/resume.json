@@ -3,7 +3,6 @@
 		"name": "Anton Punith",
 		"email": "antonpunith@gmail.com",
 		"phone": "0478006189",
-
 		"label": "Front End Developer",
 		"picture": "",
 		"website": "http://antonpunith.github.io/",
@@ -23,7 +22,9 @@
 	"headlines": [
 		{
 			"active": true,
-			"text": "Versatile UI / Front End developer with over 9 years of experience in front-end development in web and mobile."
+			"position": "Versatile UI / Front End developer",
+			"careerStart": "2007-03-01",
+			"skill": "front-end development for web and devices"
 		}
 	],
 	"objectives": [
