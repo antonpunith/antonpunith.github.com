@@ -8,12 +8,20 @@ body {
   padding: 0 20px;
   margin: 0 auto;
   font-family: 'Tinos', serif;
-  color: #333;
+  color: #444;
 }
 
 h1, h2, h3, h4, th {
 	font-weight: normal;
 	color: #0c3b76
+}
+
+h2{
+	margin: .8em 0 .2em;
+}
+
+a {
+	color: #2771cc;
 }
 
 table {
@@ -25,16 +33,10 @@ table {
 	}
 }
 
-
-
-a {
-	color: #2771cc
-}
-
 :global {
 	.table-bordered {
 		td, th {
-			border: solid 1px #eee;
+			border: solid 1px #ccc;
 		}
 	}
 	.text-right {
@@ -46,5 +48,20 @@ a {
 
 	@media print {
 		.page-break	{ display: block; page-break-before: always; }
+	}
+}
+
+@media print {
+	body {
+		color: #111
+	}
+
+	h1, h2, h3, h4, th {
+		color: #072850
+	}
+
+	a {
+		color: #154a8b;
+		text-decoration: none;
 	}
 }

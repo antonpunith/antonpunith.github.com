@@ -63,7 +63,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: 'node_modules/html-webpack-template/index.ejs',
-      title: 'Anton Punith | Web developer',
+      title: 'Anton Punith | Front End Developer',
       appMountId: 'app',
       inject: false
     }),

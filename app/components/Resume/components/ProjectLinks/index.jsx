@@ -1,4 +1,5 @@
 import React from 'react';
+import styles from './styles.scss';
 
 export default React.createClass({
 
@@ -12,10 +13,11 @@ export default React.createClass({
 
 	render () {
 		const { projectLinks } = this.props;
+		if (!projectLinks || projectLinks.length)
 		return (
 			<div>
 				<h3>More Projects</h3>
-				<ul>
+				<ul className={styles.projectsList}>
 				{projectLinks.map(this.renderLinks)}
 				</ul>
 			</div>

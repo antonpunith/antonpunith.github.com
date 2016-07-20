@@ -15,20 +15,30 @@ export default React.createClass({
 		);
 	},
 
+	renderLink (company) {
+		if (!company.website) {
+			return null;
+		}
+		return (
+			<small> - <a href={company.website} target="_blank">{company.website}</a></small>
+		)
+	},
+
 	renderCompanies (company, key) {
 		return (
 			<table className={styles.workExperienceTable} key={key}>
 				<tbody>
 					<tr>
 						<td>
-							<strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name}
+							<strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} {this.renderLink(company)}
 							<br/>
 							<em>{company.position}</em>
 						</td>
-						<td className="text-right">{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</td>
+						<td className={`text-right ${styles.workDates}`}>{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</td>
 					</tr>
 					<tr>
 						<td className={styles.workHightlights} colSpan="2">
+						{company.summary}
 						<ul>
 							{company.highlights.map(this.renderHightlights)}
 						</ul>
@@ -44,7 +54,7 @@ export default React.createClass({
 		
 		return (
 			<div>
-				<h3>Work Experience</h3>
+				<h2>Work Experience</h2>
 				{work.map(this.renderCompanies)}
 			</div>
 		);

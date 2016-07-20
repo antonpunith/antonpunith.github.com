@@ -13,11 +13,18 @@
 			"countryCode": "au",
 			"region": "Melbourne"
 		},
-		"profiles": [{
-			"network": "Linkedin",
-			"username": "antonpunith",
-			"url": "https://www.linkedin.com/in/antonpunith"
-		}]
+		"profiles": [
+			{
+				"network": "Linkedin",
+				"username": "antonpunith",
+				"url": "https://www.linkedin.com/in/antonpunith"
+			},
+			{
+				"network": "github",
+				"username": "antonpunith",
+				"url": "https://github.com/antonpunith"
+			}
+		]
 	},
 	"headlines": [
 		{
@@ -30,21 +37,17 @@
 	"objectives": [
 		{
 			"active": true,
-			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The Ideal position should challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constant self-improvement."
+			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The Ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
 		}
 	],
 	"summary": [
 		{
 			"active":true,
-			"text": "Expert in HTML5, XHTML, CSS, CSS3, LESS CSS, JavaScript, jQuery, AJAX and JSON."
+			"text": "Expert in HTML5, XHTML, CSS, CSS3, SASS, LESS, JavaScript, jQuery, AJAX and JSON."
 		},
 		{
 			"active":true,
-			"text": "Experience with React, Alt js and ES2015 standards and build automation with Node, Grunt, Gulp and Webpack."
-		},
-		{
-			"active":true,
-			"text": "An earnest believer in clean coding standards, semantic HTML and CSS and conventions, W3C standards and best practices."
+			"text": "Experience with React, Alt Flux, Angular and ES2015 standards and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
@@ -52,11 +55,15 @@
 		},
 		{
 			"active":true,
-			"text": "Knowledge of MV* frameworks like Angular, Backbone and templating like moustache, underscore, handlebars JS."
+			"text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, W3C standards and best practices."
 		},
 		{
 			"active":true,
-			"text": "Built HTML5 applications with RESTful services. "
+			"text": "Knowledge of MV* frameworks like React, Angular, Backbone and templating like moustache, underscore, handlebars JS."
+		},
+		{
+			"active":true,
+			"text": "Built HTML5 single page applications (SPA) and web applications with RESTful services. "
 		},
 		{
 			"active":true,
@@ -82,11 +89,7 @@
 		},
 		{
 			"title": "Languages / Frameworks",
-			"values": ["XHTML/HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "XML", "PHP", "MySQL", "LESS CSS", "SASS", "Twitter Bootstrap", "React", "Grunt", "Gulp", "Webpack", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
-		},
-		{
-			"title": "IDE & Software",
-			"values": ["Photoshop", "Illustrator", "Sublime Text"]
+			"values": ["XHTML/HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "SASS", "LESS", "Twitter Bootstrap", "React", "Alt Flux", "Grunt", "Gulp", "Webpack", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
 		},
 		{
 			"title": "Version Tools",
@@ -95,35 +98,39 @@
 		{
 			"title": "PHP CMS",
 			"values": ["SilverStripe", "WordPress", "Drupal", "Magento", "Joomla", "Zencart"]
+		},
+		{
+			"title": "IDE & Software",
+			"values": ["Photoshop", "Illustrator", "Sublime Text"]
 		}
 	],
 	"projects": [
-		{
-			"title": "My online resume",
-			"link": "http://antonpunith.github.com/",
-			"visibleLink": "antonpunith.github.com",
-			"active": true,
-			"showFull": true,
-			"headline": "Sick of keeping on updating content and design of my resume in MS Word, and to gain better control over styling, I built this resume. I love the fact that the JSON that this resume now uses has all the nitty-gritty details while abstracting it.",
-			"responsibilities": [
-				"Built from scratch to better understand Webpack and React and continue working with ES2015."
-			],
-			"technologies": ["React", "Node", "Webpack", "ES2015 using Babel", "SASS"]
-		},
 		{
 			"title": "Persuit",
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer",
-			"headline": "This is still under development and is a revolutionary approach at professional services. This started as a backbone app and we later migrated to React.js.",
-			"responsibilities": [
-				"Build simple to complex features with new or existing components in react according to the specs.",
-				"Style various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
-				"Adhere to coding and development process standards. Create pull request and review other pull requests.",
-				"Introduced the team to agile and scrum methodology and adopted a hybrid process meeting the project needs.",
-				"Write unit tests for testable features."
+			"headline": "Persuit is a revolutionary approach at professional services and when launched would be a gamechanger in the way the these top notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone. An SPA with React and Alt, it was initially built with Backbone JS, giving exposure to both technologies.",
+			"highlights": [
+				"Built complex and simple features with new and existing components in react according to the specs. Wrote unit tests for testable features.",
+				"Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
+				"Gained knowledge in various aspects of development from an excellent team of developers.",
+				"Championed agile and scrum methodology and adopted a hybrid process meeting the project needs. Adhered to coding and development process standards. "
 			],
-			"technologies": ["React with Alt", "Node", "Webpack", "ES2015 using Babel", "SASS"]
+			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node"]
+		},
+		{
+			"title": "My online resume",
+			"link": "http://antonpunith.github.io/",
+			"visibleLink": "antonpunith.github.io",
+			"active": true,
+			"showFull": true,
+			"headline": "Sick of keeping on updating content and design of my resume in MS Word, and to gain better control over styling, I built this resume. I love the fact that the JSON that this resume now uses has all the nitty-gritty details while abstracting it.",
+			"highlights": [
+				"Built from scratch to better understand Webpack and React and continue working with ES2015.",
+				"Component based SPA to allow easy maintenance and to change or add features."
+			],
+			"technologies": ["React", "Webpack", "ES2015 using Babel", "SASS", "Node"]
 		},
 		{
 			"title": "Griffith Hack",
@@ -132,10 +139,25 @@
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "",
-			"responsibilities": [
+			"headline": "Griffith Hack been the leading Australian-based IP firm, little known outside the intellectual property  industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
+			"highlights": [
+				"Built pages and objects with relationships and schema. Created layouts and styling for the pages to match the design, keeping a modular approach for reusability.",
+				"Built customisable templates to allow the client tho change the layouts, themes, colors, images and content of the pages easily.",
+				"Custom AJAX for multiple pages with complex tagging and filtering mechanism."
 			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
+		},
+		{
+			"title": "Thermann",
+			"link": "http://www.thermann.com.au/",
+			"visibleLink": "www.thermann.com.au",
+			"role": "Front-end Developer",
+			"headline": "Thermann Hot water systems was launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So I built a smarty system to utilize templates which then built a static version written into HTML and CSS.",
+			"highlights": [
+			],
+			"technologies": ["AngularJS", "SASS", "Bootstrap", "JavaScript", "jQuery", "Smarty(PHP)"],
+			"active": true,
+			"showFull": true
 		},
 		{
 			"title": "Whitbread Insurance Brokers",
@@ -144,67 +166,166 @@
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "",
-			"responsibilities": [
+			"headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
+			"highlights": [
+				"Built the website with various pages, layouts and features according the rebranded designs.",
+				"Custom AJAX for multiple features and with a filtering mechanism for the Social media posts.",
+				"Custom lucene search with custom layout",
+				"Multiple contact forms on different pages to customisable contacts."
 			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
 		},
 		{
 			"title": "ShineWing",
 			"link": "http://shinewing.com.au/",
 			"visibleLink": "shinewing.com.au",
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
+			"highlights": [
+			],
+			"technologies": ["SilverStripe", "Bootstrap", "JavaScript", "jQuery", "SASS"],
+			"active": true,
+			"showFull": true
+		},
+		{
+			"title": "Healthy Together Victoria",
+			"link": "http://healthytogether.vic.gov.au/",
+			"visibleLink": "healthytogether.vic.gov.au",
+			"role": "Front-end Developer",
+			"headline": "The Program Victorian Government intiative to bring communities together in a united effort for better health.",
+			"highlights": [
+				"Being a government site, the focus was cross browser compatibility and accessibility while making the website still look good and interactive."
+			],
+			"technologies": ["HTML5", "SASS", "JavaScript", "jQuery"],
+			"active": true,
+			"showFull": true
+		},
+		{
+			"title": "Hatch Growth",
+			"link": "http://hatchgrowth.com.au/",
+			"visibleLink": "hatchgrowth.com.au",
+			"active": true,
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "",
+			"highlights": [
+			],
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+			"showFull": false
+		},
+		{
+			"title": "Corrs Chambers Westgarth",
+			"link": "http://www.corrs.com.au/",
+			"visibleLink": "www.corrs.com.au",
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "",
-			"responsibilities": [
+			"headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
+			"highlights": [
+				"Developed various features and pages according to the spec.",
+				"Worked on analytics and controlling robots crawling the website.",
+				"Wrote algoriths for various features like popularity",
+				"Worked on custom search."
 			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "jQuery", "SASS"]
-		}
-	],
-	"projectLinks": [
-		{
-			"visibleLink": "thermeco.com.au/",
-			"link": "http://thermeco.com.au/"
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
 		},
 		{
-			"visibleLink": "landers.com.au/",
-			"link": "http://landers.com.au/"
+			"title": "Russell Kennedy",
+			"link": "http://www.rk.com.au/",
+			"visibleLink": "www.rk.com.au",
+			"role": "Front-end Developer / Full Stack Developer",
+			"headline": "",
+			"highlights": [
+			],
+			"technologies": ["SilverStripe", "LESS", "Bootstrap", "JavaScript", "jQuery"],
+			"active": true,
+			"showFull": false
 		},
 		{
-			"visibleLink": "victorianopera.com.au/",
-			"link": "http://victorianopera.com.au/"
+			"title": "Reece Group",
+			"link": "http://www.reecegroup.com.au/",
+			"visibleLink": "www.reecegroup.com.au",
+			"headline": "",
+			"active": true
 		},
 		{
-			"visibleLink": "enchantedball.com.au/",
-			"link": "http://enchantedball.com.au/"
+			"title": "Reece Plumbing & Bathrooms",
+			"link": "http://www.reece.com.au/",
+			"visibleLink": "www.reece.com.au",
+			"role": "Front-end Developer",
+			"active": true,
+			"showFull": false
 		},
 		{
-			"visibleLink": "eurowindow.com.au/",
-			"link": "http://eurowindow.com.au/"
+			"title": "Arquilla Wine",
+			"link": "http://www.arquilla-wine.com/",
+			"visibleLink": "www.arquilla-wine.com",
+			"role": "Front-end Developer / Full Stack Developer",
+			"active": false
 		},
 		{
-			"visibleLink": "landers.com.au/",
-			"link": "http://landers.com.au/"
+			"title": "TD Bank Android Application",
+			"active": true,
+			"showFull": true,
+			"role": "UI Lead",
+			"headline": "The engagement was to port TD Bank iPad application, which was built in-house, to Android and to make it responsive so as to fit all mobile and tablet form factors.",
+			"highlights": [
+				"Assess the current application and retrofit the page into mobile by making necessary changes.",
+				"Customize the existing Dojo widgets to run on various form factors with performance optimization to run on Android Devices using IBM Worklight and Eclipse."
+			],
+			"technologies": ["IBM Worklight", "HTML5", "CSS3", "Dojo", "Eclipse", "SVN", "Android SDK"]
 		},
 		{
-			"visibleLink": "vaccho.org.au/",
-			"link": "http://vaccho.org.au/"
+			"visibleLink": "thermeco.com.au",
+			"link": "http://thermeco.com.au/",
+			"active": true
 		},
 		{
-			"visibleLink": "globalenglish.com/",
-			"link": "http://globalenglish.com/"
+			"visibleLink": "landers.com.au",
+			"link": "http://landers.com.au/",
+			"active": true
 		},
 		{
-			"visibleLink": "ayurvedapura.com/",
-			"link": "http://ayurvedapura.com/"
+			"visibleLink": "victorianopera.com.au",
+			"link": "http://victorianopera.com.au/",
+			"active": true
 		},
 		{
-			"visibleLink": "apps.globalenglish.com/lingo/",
-			"link": "http://apps.globalenglish.com/lingo/"
+			"visibleLink": "enchantedball.com.au",
+			"link": "http://enchantedball.com.au/",
+			"active": true
 		},
 		{
-			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts/",
+			"visibleLink": "eurowindow.com.au",
+			"link": "http://eurowindow.com.au/",
+			"active": true
+		},
+		{
+			"visibleLink": "landers.com.au",
+			"link": "http://landers.com.au/",
+			"active": false
+		},
+		{
+			"visibleLink": "vaccho.org.au",
+			"link": "http://vaccho.org.au/",
+			"active": false
+		},
+		{
+			"visibleLink": "globalenglish.com",
+			"link": "http://globalenglish.com/",
+			"active": false
+		},
+		{
+			"visibleLink": "ayurvedapura.com",
+			"link": "http://ayurvedapura.com/",
+			"active": true
+		},
+		{
+			"visibleLink": "apps.globalenglish.com/lingo",
+			"link": "http://apps.globalenglish.com/lingo/",
+			"active": true
+		},
+		{
+			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
 			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/"
 		}
 	],
@@ -217,7 +338,6 @@
 			"website": "https://persuit.com/",
 			"startDate": "2015-09-14",
 			"endDate": "2016-06-08",
-			"summary": "Description...",
 			"highlights": [
 				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
 				"Improved understanding of GIT, and extensively used git for code quality control, and feature release."
@@ -231,11 +351,9 @@
 			"website": "http://trout.com.au/",
 			"startDate": "2013-09-30",
 			"endDate": "2015-09-11",
-			"summary": "Description...",
 			"highlights": [
-				"Built numerous websites for various clients of Trout mostly using Silverstripe as the CMS.",
-				"Improved development practices and dictated best practices",
-				"Worked to optimize websites using various techniques.",
+				"Built numerous interactive websites for various clients of Trout mostly using Silverstripe as the CMS.",
+				"Improved development practices and dictated best practices. Worked to optimize websites using various techniques.",
 				"Worked both in team and as a single developer on projects."
 			]
 		},
@@ -247,13 +365,11 @@
 			"website": "http://cognizant.com/",
 			"startDate": "2012-07-11",
 			"endDate": "2013-09-13",
-			"summary": "Description...",
 			"highlights": [
 				"Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
 				"To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
-				"Provide solutions and support to different projects and developers on different areas like Responsive Web design, project architecture and design, approaches and framework.",
-				"Evaluate different technologies and techniques for projects and suggest the most optimum solution.",
-				"Decide and work on frameworks and architecture of project, so that the team could work on it further."
+				"Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
+				"Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects."
 			]
 		},
 		{
@@ -264,7 +380,7 @@
 			"website": "http://www.globalenglish.com/",
 			"startDate": "2010-01-20",
 			"endDate": "2012-06-30",
-			"summary": "Description...",
+			"summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
 			"highlights": [
 				"Conceptualize and design user interface for enhancement of the web/mobile applications and create wireframes.",
 				"Develop applications with clean hand coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS. Also ensured cross browser compatibility and debugging"
@@ -278,11 +394,9 @@
 			"website": "",
 			"startDate": "2007-03-01",
 			"endDate": "2010-01-18",
-			"summary": "Description...",
 			"highlights": [
 				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.", 
-				"Design and develop Web 2.0 Layouts for PHP based web-applications and CMSs like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript and CSS. Also ensure cross browser compatibility and debugging", 
-				"Worked with jQuery Ajax, menus, slider, slide shows and other dynamic content with CSS."
+				"Design and develop layouts for PHP based web-applications and CMSs like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also ensure cross browser compatibility and debugging"
 			]
 		}
 	],

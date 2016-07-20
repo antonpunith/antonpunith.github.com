@@ -5,7 +5,6 @@ import Objective from './components/Objective';
 import Summary from './components/Summary';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import ProjectLinks from './components/ProjectLinks';
 import Work from './components/Work';
 import Education from './components/Education';
 
@@ -25,10 +24,11 @@ export default React.createClass({
 				<Summary summary={data.summary} />
 				<Education education={data.education} />
 				<Skills skills={data.skills} />
-				{/*<div className="page-break" />*/}
-				<Projects projects={data.projects} />
-				<ProjectLinks projectLinks={data.projectLinks} />
+				<div className="page-break" />
 				<Work work={data.work} />
+				<div className="page-break" />
+				<Projects projects={data.projects} />
+				
 			</div>
 		);
 	}

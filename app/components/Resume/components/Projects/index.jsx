@@ -1,25 +1,28 @@
 import React from 'react';
 import toSentence from 'underscore.string/toSentence';
 import styles from './styles.scss';
+import ProjectLinks from '../ProjectLinks';
+
+let projectList = [];
 
 export default React.createClass({
 	displayName: 'Projects',
 
-	renderResponsibilities (project) {
-		if(!project.responsibilities || !project.responsibilities.length) {
+	renderHighlights (project) {
+		if(!project.highlights || !project.highlights.length) {
 			return null;
 		}
 		return (
-			<ul>
-			{project.responsibilities.map(this.renderResponsibilityItem)}
+			<ul className={styles.projectHighlights}>
+			{project.highlights.map(this.renderHighlighItem)}
 			</ul>
 		);
 	},
 
-	renderResponsibilityItem (responsibility, key) {
+	renderHighlighItem (highlight, key) {
 		return (
 			<li key={key}>
-				{responsibility}
+				{highlight}
 			</li>
 		);
 	},
@@ -29,7 +32,7 @@ export default React.createClass({
 			return null;
 		}
 		return (
-			<a href={project.link} target="_blank"><small>{project.visibleLink}</small></a>
+			<span>- <a href={project.link} target="_blank"><small>{project.visibleLink}</small></a></span>
 		);
 	},
 
@@ -45,26 +48,35 @@ export default React.createClass({
 			return null
 		}
 		return (
-			<div>
-				<h4 className={styles.projectHeader}>Technology</h4>
-				{toSentence(project.technologies)}
+			<div className={styles.techStack}>
+				<h4 className={styles.projectHeader}>Technology :</h4>
+				<div className={styles.techStackList}>{toSentence(project.technologies)}</div>
 			</div>
 		);
 	},
 
 	renderProjects (project, key) {
-		return (
-			<div key={key}>
-				<h3 className={styles.projectTitle}>
-					<strong>{project.title}</strong>
-					&nbsp;&nbsp;{this.renderProjectLink(project)}
-				</h3>
-				{this.renderRole(project)}
-				{project.headline}
-				{this.renderResponsibilities(project)}
-				{this.renderTechnologies(project)}
-			</div>
-		);
+		if (!project.active) {
+			return null;
+		}
+		if (!project.showFull) {
+			projectList.push(project);
+			return null;
+		}
+		else {
+			return (
+				<div key={key}>
+					<h3 className={styles.projectTitle}>
+						<strong>{project.title}</strong>
+						&nbsp;&nbsp;{this.renderProjectLink(project)}
+					</h3>
+					{this.renderRole(project)}
+					{project.headline}
+					{this.renderHighlights(project)}
+					{this.renderTechnologies(project)}
+				</div>
+			);
+		}
 	},
 
 	render () {
@@ -73,6 +85,7 @@ export default React.createClass({
 			<div>
 				<h2>Projects</h2>
 				{projects.map(this.renderProjects)}
+				<ProjectLinks projectLinks={projectList} />
 			</div>
 		);
 	}
