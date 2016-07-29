@@ -37,7 +37,7 @@
 	"objectives": [
 		{
 			"active": true,
-			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The Ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
+			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
 		}
 	],
 	"summary": [
@@ -120,12 +120,12 @@
 			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node"]
 		},
 		{
-			"title": "My online resume",
+			"title": "My online profile",
 			"link": "http://antonpunith.github.io/",
 			"visibleLink": "antonpunith.github.io",
 			"active": true,
 			"showFull": true,
-			"headline": "Sick of keeping on updating content and design of my resume in MS Word, and to gain better control over styling, I built this resume. I love the fact that the JSON that this resume now uses has all the nitty-gritty details while abstracting it.",
+			"headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or shown differently.",
 			"highlights": [
 				"Built from scratch to better understand Webpack and React and continue working with ES2015.",
 				"Component based SPA to allow easy maintenance and to change or add features."
@@ -226,7 +226,8 @@
 				"Wrote algoriths for various features like popularity",
 				"Worked on custom search."
 			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
+			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+			"showFull": false
 		},
 		{
 			"title": "Russell Kennedy",
@@ -260,7 +261,7 @@
 			"link": "http://www.arquilla-wine.com/",
 			"visibleLink": "www.arquilla-wine.com",
 			"role": "Front-end Developer / Full Stack Developer",
-			"active": false
+			"active": true
 		},
 		{
 			"title": "TD Bank Android Application",
