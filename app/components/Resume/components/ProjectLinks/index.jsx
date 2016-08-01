@@ -5,9 +5,19 @@ export default React.createClass({
 
 	displayName: 'ProjectLinks',
 
+	renderTitle (link) {
+		if (link.title) {
+			return (link.title);
+		}
+		if (link.visibleLink) {
+			return (link.visibleLink);
+		}
+		return (link.link);
+	},
+
 	renderLinks (link, key) {
 		return (
-			<li key={key}><a href={link.link} target="_blank">{link.visibleLink}</a></li>
+			<li key={key}>{this.renderTitle(link)} - <a href={link.link} target="_blank">{link.visibleLink}</a></li>
 		);
 	},
 

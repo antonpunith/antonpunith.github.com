@@ -24,28 +24,26 @@ export default React.createClass({
 		)
 	},
 
+	renderSummary (company) {
+		if (!company.summary) {
+			return null;
+		}
+		return (
+			<p className={styles.summary}>{company.summary}</p>
+		);
+	},
+
 	renderCompanies (company, key) {
 		return (
-			<table className={styles.workExperienceTable} key={key}>
-				<tbody>
-					<tr>
-						<td>
-							<strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} {this.renderLink(company)}
-							<br/>
-							<em>{company.position}</em>
-						</td>
-						<td className={`text-right ${styles.workDates}`}>{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</td>
-					</tr>
-					<tr>
-						<td className={styles.workHightlights} colSpan="2">
-						{company.summary}
-						<ul>
-							{company.highlights.map(this.renderHightlights)}
-						</ul>
-						</td>
-					</tr>
-				</tbody>
-			</table>
+			<div key={key} className={styles.companyDetailItem}>
+				<small><strong>{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</strong></small>
+				<br/>
+				<em>{company.position}</em> | <strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} {this.renderLink(company)}
+				{this.renderSummary(company)}
+				<ul className={styles.highLights}>
+					{company.highlights.map(this.renderHightlights)}
+				</ul>
+			</div>
 		);
 	},
 

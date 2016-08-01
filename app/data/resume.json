@@ -51,11 +51,15 @@
 		},
 		{
 			"active":true,
-			"text": "In-depth knowledge in Responsive Web Design techniques, cross-browser compatibility and browser quirks, Accessibility, cross device compatibility, SEO, site optimization."
+			"text": "In-depth knowledge in Responsive Web Design techniques, cross-browser compatibility and browser quirks, accessibility, cross device compatibility, SEO and site optimization."
 		},
 		{
 			"active":true,
 			"text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, W3C standards and best practices."
+		},
+		{
+			"active":false,
+			"text": "Love to contstantly learn and share technologies with developers to keep the team and myself updated across technologies."
 		},
 		{
 			"active":true,
@@ -75,7 +79,7 @@
 		},
 		{
 			"active":true,
-			"text": "Good understanding of git repositories and git process."
+			"text": "Good understanding of Git repositories and source code management."
 		},
 		{
 			"active":true,
@@ -125,7 +129,7 @@
 			"visibleLink": "antonpunith.github.io",
 			"active": true,
 			"showFull": true,
-			"headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or shown differently.",
+			"headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
 			"highlights": [
 				"Built from scratch to better understand Webpack and React and continue working with ES2015.",
 				"Component based SPA to allow easy maintenance and to change or add features."
@@ -276,36 +280,31 @@
 			"technologies": ["IBM Worklight", "HTML5", "CSS3", "Dojo", "Eclipse", "SVN", "Android SDK"]
 		},
 		{
+			"title": "Thermeco window systems",
 			"visibleLink": "thermeco.com.au",
 			"link": "http://thermeco.com.au/",
 			"active": true
 		},
 		{
+			"title": "Landers & Rogers Lawyers",
 			"visibleLink": "landers.com.au",
 			"link": "http://landers.com.au/",
 			"active": true
 		},
 		{
+			"title": "Victorian Opera",
 			"visibleLink": "victorianopera.com.au",
 			"link": "http://victorianopera.com.au/",
 			"active": true
 		},
 		{
+			"title": "The Enchanted Ball",
 			"visibleLink": "enchantedball.com.au",
 			"link": "http://enchantedball.com.au/",
 			"active": true
 		},
 		{
-			"visibleLink": "eurowindow.com.au",
-			"link": "http://eurowindow.com.au/",
-			"active": true
-		},
-		{
-			"visibleLink": "landers.com.au",
-			"link": "http://landers.com.au/",
-			"active": false
-		},
-		{
+			"title": "",
 			"visibleLink": "vaccho.org.au",
 			"link": "http://vaccho.org.au/",
 			"active": false
@@ -321,8 +320,15 @@
 			"active": true
 		},
 		{
+			"title": "One Lingo (APP)",
 			"visibleLink": "apps.globalenglish.com/lingo",
 			"link": "http://apps.globalenglish.com/lingo/",
+			"active": true
+		},
+		{
+			"title": "Euro Window",
+			"visibleLink": "eurowindow.com.au",
+			"link": "http://eurowindow.com.au/",
 			"active": true
 		},
 		{
