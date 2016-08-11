@@ -1,14 +1,14 @@
 {
   "name": "react-speed-coding-code",
   "version": "1.0.0",
-  "description": "Companion code for React Speed Coding book",
+  "description": "Profile",
   "main": "index.js",
   "private": true,
   "scripts": {
     "start": "NODE_ENV=development webpack-dev-server",
     "build": "NODE_ENV=production webpack"
   },
-  "author": "Manav Sehgal",
+  "author": "Anton Punith",
   "license": "MIT",
   "dependencies": {
     "react": "^15.0.1",
