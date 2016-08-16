@@ -1,5 +1,5 @@
 {
-  "name": "react-speed-coding-code",
+  "name": "anton-punith-profile",
   "version": "1.0.0",
   "description": "Profile",
   "main": "index.js",
@@ -27,6 +27,7 @@
     "json-loader": "^0.5.4",
     "moment": "^2.14.1",
     "node-sass": "^3.8.0",
+    "react-google-tag-manager": "^1.1.2",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.0",
     "underscore.string": "^3.3.4",

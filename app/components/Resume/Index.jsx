@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Work from './components/Work';
 import Education from './components/Education';
+import GoogleTagManager from '../GoogleTagManager';
 
 export default React.createClass({
 
@@ -28,7 +29,7 @@ export default React.createClass({
 				<Work work={data.work} />
 				<div className="page-break" />
 				<Projects projects={data.projects} />
-				
+				<GoogleTagManager gtmId='GTM-TN2FKV' />
 			</div>
 		);
 	}
