@@ -34,9 +34,25 @@ export default React.createClass({
 	},
 
 	renderCompanies (company, key) {
+		var startDate = moment(company.startDate);
+		var endDate = moment(company.endDate);
+		let end = '';
+		if (company.isCurrent) {
+			end = ' - Present';
+			//company.endDate = moment().valueOf();
+		}
+		if (company.endDate) {
+			end = ' - '+ endDate.format('MMM  YYYY');
+/*			var years = endDate.diff(startDate, 'year');
+			startDate.add(years, 'years');
+			var months = endDate.diff(startDate, 'months');
+			startDate.add(months, 'months');
+			period = years + ' years ' + months + ' months ';*/
+		}
+
 		return (
 			<div key={key} className={styles.companyDetailItem}>
-				<small><strong>{moment(company.startDate).format('MMM  YYYY')} - {moment(company.endDate).format('MMM  YYYY')}</strong></small>
+				<small><strong>{moment(company.startDate).format('MMM  YYYY')} {end} </strong></small>
 				<br/>
 				<em>{company.position}</em> | <strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} {this.renderLink(company)}
 				{this.renderSummary(company)}

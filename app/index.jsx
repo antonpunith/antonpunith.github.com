@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Resume from './components/Resume';
-import data from './data/resume.json';
 
 ReactDOM.render(
-  <Resume data={data} />,
+  <Resume url="https://raw.githubusercontent.com/antonpunith/antonpunith.github.com/master/data/resume.json" />,
   document.getElementById('app')
 );
