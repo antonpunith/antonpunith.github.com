@@ -110,6 +110,19 @@
 	],
 	"projects": [
 		{
+			"title": "my.monash",
+			"link": "http://my.monash/",
+			"visibleLink": "http://my.monash",
+			"active": true,
+			"showFull": true,
+			"role": "Senior Front-end Developer",
+			"headline": "",
+			"highlights": [
+				"A high profile project, with the portal and app being used everyday by students and staff"
+			],
+			"technologies": ["React", "LESS", "Node"]
+		},
+		{
 			"title": "Persuit",
 			"active": true,
 			"showFull": true,
@@ -338,6 +351,20 @@
 	],
 	"work": [
 		{
+			"company": "Monash University",
+			"position": "Senior Web Developer",
+			"location": "Melbourne",
+			"countryCode": "AU",
+			"website": "http://www.monash.edu/",
+			"startDate": "2015-08-08",
+			"endDate": "",
+			"isCurrent": true,
+			"summary": "Monash university is so much more than Australia's largest university. It is in the top one per cent of universities worldwide, and consistently listed as a preferred source of graduates by companies the world over.",
+			"highlights": [
+				"A high profile project, with the portal and app being used everyday by students and staff"
+			]
+		},
+		{
 			"company": "Persuit",
 			"position": "Front End Developer",
 			"location": "Melbourne",
@@ -372,11 +399,13 @@
 			"website": "http://cognizant.com/",
 			"startDate": "2012-07-11",
 			"endDate": "2013-09-13",
+			"summary": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015, the Fortune magazine named it as the world's fourth most admired IT services company. Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
 			"highlights": [
 				"Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
 				"To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
 				"Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-				"Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects."
+				"Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
+				"Train freshers and juniors in new technologies."
 			]
 		},
 		{
