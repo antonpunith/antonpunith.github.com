@@ -214,7 +214,7 @@
 				"Being a government site, the focus was cross browser compatibility and accessibility while making the website still look good and interactive."
 			],
 			"technologies": ["HTML5", "SASS", "JavaScript", "jQuery"],
-			"active": true,
+			"active": false,
 			"showFull": true
 		},
 		{
