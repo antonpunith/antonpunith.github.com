@@ -362,11 +362,11 @@
 			"startDate": "2015-08-08",
 			"endDate": "",
 			"isCurrent": true,
-			"summary": "Monash university being Australia's largest university has complex business processes and systems. Student First Program under Strategic Enablement aims to deliver services that are easier, simpler and faster for students and staff",
+			"summary": "Monash university being Australia's largest university has complex business processes and systems. Student First Program under Strategic Enablement aims to deliver services that are easier, simpler and faster for students and staff.",
 			"highlights": [
 				"Development using Scaled Agile Frame Execution (SAFe)",
 				"Huge focus on Agile methodologies",
-				""
+				"Extensive use of React JS, Node and task runners"
 			]
 		},
 		{
@@ -380,7 +380,8 @@
 			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
 			"highlights": [
 				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
-				"Improved understanding of GIT, and extensively used git for code quality control, and feature release."
+				"Extensive use of React JS and task runners.",
+				"Improved understanding of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
 			]
 		},
 		{
