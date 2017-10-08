@@ -121,7 +121,7 @@
 				"Used by over a hundred thousand users everyday.",
 				"Worked in a cohesive, fast paced team, working with the business to deliver features.",
 				"Development along with operations support.",
-				"Agile with SAFe"
+				"Agile with SAFe",
 				"Unit testing"
 			],
 			"technologies": ["React", "LESS", "Node"]
@@ -238,7 +238,6 @@
 			"link": "http://www.corrs.com.au/",
 			"visibleLink": "www.corrs.com.au",
 			"active": true,
-			"showFull": true,
 			"role": "Front-end Developer / Full Stack Developer",
 			"headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
 			"highlights": [
@@ -378,7 +377,7 @@
 			"website": "https://persuit.com/",
 			"startDate": "2015-09-14",
 			"endDate": "2016-06-08",
-			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice."
+			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
 			"highlights": [
 				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
 				"Improved understanding of GIT, and extensively used git for code quality control, and feature release."
