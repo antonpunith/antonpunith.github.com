@@ -364,8 +364,7 @@
 			"isCurrent": true,
 			"summary": "Monash university being Australia's largest university has complex business processes and systems. Student First Program under Strategic Enablement aims to deliver services that are easier, simpler and faster for students and staff.",
 			"highlights": [
-				"Development using Scaled Agile Frame Execution (SAFe)",
-				"Huge focus on Agile methodologies",
+				"Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe).",
 				"Extensive use of React JS, Node and task runners"
 			]
 		},
@@ -393,6 +392,7 @@
 			"website": "http://trout.com.au/",
 			"startDate": "2013-09-30",
 			"endDate": "2015-09-11",
+			"summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
 			"highlights": [
 				"Built numerous interactive websites for various clients of Trout mostly using Silverstripe as the CMS.",
 				"Improved development practices and dictated best practices. Worked to optimize websites using various techniques.",
@@ -426,8 +426,9 @@
 			"endDate": "2012-06-30",
 			"summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
 			"highlights": [
-				"Conceptualize and design user interface for enhancement of the web/mobile applications and create wireframes.",
-				"Develop applications with clean hand coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS. Also ensured cross browser compatibility and debugging"
+				" Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
+				"Worked in high performing small Agile teams with scrum, building features of high business value.",
+				"Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS"
 			]
 		},
 		{
