@@ -188,9 +188,9 @@
 			"role": "Front-end Developer / Full Stack Developer",
 			"headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
 			"highlights": [
-				"Built the website with various pages, layouts and features according the rebranded designs.",
+				"Built the website with various pages, layouts and features according to the rebranded designs.",
 				"Custom AJAX for multiple features and with a filtering mechanism for the Social media posts.",
-				"Custom lucene search with custom layout",
+				"Custom Lucene search with a custom layout.",
 				"Multiple contact forms on different pages to customisable contacts."
 			],
 			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
