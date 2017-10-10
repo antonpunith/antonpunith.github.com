@@ -118,8 +118,8 @@
 			"role": "Senior Front-end Developer",
 			"headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
 			"highlights": [
-				"Used by over a hundred thousand users everyday.",
-				"Worked in a cohesive, fast paced team, working with the business to deliver features.",
+				"Used by over a hundred thousand users every day.",
+				"Worked in a cohesive, fast-paced team, working with the business to deliver features.",
 				"Development along with operations support.",
 				"Agile with SAFe",
 				"Unit testing"
@@ -131,12 +131,11 @@
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer",
-			"headline": "Persuit is a revolutionary approach at professional services and when launched would be a gamechanger in the way the these top notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone. An SPA with React and Alt, it was initially built with Backbone JS, giving exposure to both technologies.",
+			"headline": "PERSUIT™ is a secure, online marketplace for client organisations and leading firms to resource secondments, bank legal hours and manage RFPs. Persuit is a revolutionary approach in the way these top-notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone.",
 			"highlights": [
 				"Built complex and simple features with new and existing components in react according to the specs. Wrote unit tests for testable features.",
 				"Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
-				"Gained knowledge in various aspects of development from an excellent team of developers.",
-				"Worked to strict coding and development process standards. "
+				"Worked with an excellent team of developers to strict coding and development process standards. "
 			],
 			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node"]
 		},
@@ -149,7 +148,7 @@
 			"headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
 			"highlights": [
 				"Built from scratch to better understand Webpack and React and continue working with ES2015.",
-				"Component based SPA to allow easy maintenance and to change or add features."
+				"Component-based SPA to allow easy maintenance and to change or add features."
 			],
 			"technologies": ["React", "Webpack", "ES2015 using Babel", "SASS", "Node"]
 		},
@@ -160,10 +159,10 @@
 			"active": true,
 			"showFull": true,
 			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "Griffith Hack been the leading Australian-based IP firm, little known outside the intellectual property  industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
+			"headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
 			"highlights": [
 				"Built pages and objects with relationships and schema. Created layouts and styling for the pages to match the design, keeping a modular approach for reusability.",
-				"Built customisable templates to allow the client tho change the layouts, themes, colors, images and content of the pages easily.",
+				"Built customisable templates to allow the client to change the layouts, themes, colours, images and content of the pages easily.",
 				"Custom AJAX for multiple pages with complex tagging and filtering mechanism."
 			],
 			"technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
@@ -173,7 +172,7 @@
 			"link": "http://www.thermann.com.au/",
 			"visibleLink": "www.thermann.com.au",
 			"role": "Front-end Developer",
-			"headline": "Thermann Hot water systems was launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So I built a smarty system to utilize templates which then built a static version written into HTML and CSS.",
+			"headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
 			"highlights": [
 			],
 			"technologies": ["AngularJS", "SASS", "Bootstrap", "JavaScript", "jQuery", "Smarty(PHP)"],
