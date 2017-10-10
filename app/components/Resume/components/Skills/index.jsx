@@ -9,7 +9,7 @@ export default React.createClass({
 		return (
 			<tr key={key}>
 				<th className={styles.skillTitle}>
-				{skill.title} 
+				{skill.title}
 				</th>
 				<td>
 				{toSentence(skill.values)}
@@ -21,7 +21,7 @@ export default React.createClass({
 	render () {
 		const { skills } = this.props;
 		return (
-			<div>
+			<div className="dont-break">
 				<h2>Skills</h2>
 				<table className="table-bordered">
 					<tbody>

@@ -81,7 +81,7 @@
 		},
 		{
 			"title": "Languages / Frameworks",
-			"values": ["XHTML/HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "SASS", "LESS", "Twitter Bootstrap", "React", "Alt Flux", "Grunt", "Gulp", "Webpack", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
+			"values": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "SASS", "LESS", "Twitter Bootstrap", "React JS", "Alt Flux", "Grunt", "Gulp", "Webpack", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
 		},
 		{
 			"title": "Version Tools",
@@ -272,7 +272,7 @@
 		},
 		{
 			"title": "TD Bank Android Application",
-			"active": true,
+			"active": false,
 			"showFull": true,
 			"role": "UI Lead",
 			"headline": "The engagement was to port TD Bank iPad application, which was built in-house, to Android and to make it responsive so as to fit all mobile and tablet form factors.",
@@ -292,19 +292,19 @@
 			"title": "Landers & Rogers Lawyers",
 			"visibleLink": "landers.com.au",
 			"link": "http://landers.com.au/",
-			"active": true
+			"active": false
 		},
 		{
 			"title": "Victorian Opera",
 			"visibleLink": "victorianopera.com.au",
 			"link": "http://victorianopera.com.au/",
-			"active": true
+			"active": false
 		},
 		{
 			"title": "The Enchanted Ball",
 			"visibleLink": "enchantedball.com.au",
 			"link": "http://enchantedball.com.au/",
-			"active": true
+			"active": false
 		},
 		{
 			"title": "",
@@ -320,19 +320,19 @@
 		{
 			"visibleLink": "ayurvedapura.com",
 			"link": "http://ayurvedapura.com/",
-			"active": true
+			"active": false
 		},
 		{
 			"title": "One Lingo (APP)",
 			"visibleLink": "apps.globalenglish.com/lingo",
 			"link": "http://apps.globalenglish.com/lingo/",
-			"active": true
+			"active": false
 		},
 		{
 			"title": "Euro Window",
 			"visibleLink": "eurowindow.com.au",
 			"link": "http://eurowindow.com.au/",
-			"active": true
+			"active": false
 		},
 		{
 			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
@@ -427,7 +427,7 @@
 			"startDate": "2007-03-01",
 			"endDate": "2010-01-18",
 			"highlights": [
-				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.", 
+				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
 				"Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging."
 			]
 		}

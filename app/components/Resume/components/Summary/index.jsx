@@ -17,7 +17,7 @@ export default React.createClass({
 	render () {
 		const { summary } = this.props;
 		return (
-			<div>
+			<div className="dont-break">
 				<h2>Summary</h2>
 				<ul>
 				{summary.map(this.renderSummaries)}

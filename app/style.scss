@@ -44,10 +44,17 @@ table {
 	}
 	@media all {
 		.page-break	{ display: none; }
+    .dont-break {}
 	}
 
 	@media print {
 		.page-break	{ display: block; page-break-before: always; }
+    .break-before {
+      page-break-before: always;
+    }
+    .dont-break {
+      page-break-inside: avoid;
+    }
 	}
 }
 

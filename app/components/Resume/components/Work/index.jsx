@@ -51,7 +51,7 @@ export default React.createClass({
 		}
 
 		return (
-			<div key={key} className={styles.companyDetailItem}>
+			<div key={key} className={`dont-break ${styles.companyDetailItem}`}>
 				<small><strong>{moment(company.startDate).format('MMM  YYYY')} {end} </strong></small>
 				<br/>
 				<em>{company.position}</em> | <strong>{company.company}</strong>, {company.location}, {countries[company.countryCode].name} {this.renderLink(company)}
@@ -65,9 +65,9 @@ export default React.createClass({
 
 	render () {
 		const { work } = this.props;
-		
+
 		return (
-			<div>
+			<div className="break-before" >
 				<h2>Work Experience</h2>
 				{work.map(this.renderCompanies)}
 			</div>
