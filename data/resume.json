@@ -43,43 +43,31 @@
 	"summary": [
 		{
 			"active":true,
-			"text": "Expert in HTML5, XHTML, CSS, CSS3, SASS, LESS, JavaScript, jQuery, AJAX and JSON."
+			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, jQuery, AJAX and JSON."
 		},
 		{
 			"active":true,
-			"text": "Experience with React, Alt Flux, Angular and ES2015 standards and build automation with Node, Grunt, Gulp and Webpack."
+			"text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
 		},
 		{
 			"active":true,
-			"text": "In-depth knowledge in Responsive Web Design techniques, cross-browser compatibility and browser quirks, accessibility, cross device compatibility, SEO and site optimization."
+			"text": "Proficient with React JS, Alt Flux, Angular and ES2015 standards, unit testing and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
-			"text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, W3C standards and best practices."
+			"text": "Experience using npm and building HTML5 single page applications (SPA) and web applications using RESTful services."
 		},
 		{
 			"active":false,
-			"text": "Love to contstantly learn and share technologies with developers to keep the team and myself updated across technologies."
+			"text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
 		},
 		{
 			"active":true,
-			"text": "Knowledge of MV* frameworks like React, Angular, Backbone and templating like moustache, underscore, handlebars JS."
+			"text": "Worked using a variety of Agile techniques like Scrum, Kanban, SAFe."
 		},
 		{
 			"active":true,
-			"text": "Built HTML5 single page applications (SPA) and web applications with RESTful services. "
-		},
-		{
-			"active":true,
-			"text": "Worked in various development models including Agile Development (Scrum) - as scrum master."
-		},
-		{
-			"active":true,
-			"text": "Experience writing unit tests. "
-		},
-		{
-			"active":true,
-			"text": "Good understanding of Git repositories and source code management."
+			"text": "Proficient with Git and version control."
 		},
 		{
 			"active":true,
