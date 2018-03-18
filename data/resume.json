@@ -81,7 +81,7 @@
 		},
 		{
 			"title": "Languages / Frameworks",
-			"values": ["HTML5", "CSS3", "JavaScript", "jQuery", "Ajax", "JSON", "SASS", "LESS", "Twitter Bootstrap", "React JS", "Alt Flux", "Grunt", "Gulp", "Webpack", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
+			"values": ["HTML5", "CSS3", "JavaScript", "React JS", "jQuery", "Ajax", "JSON", "SASS", "LESS", "Twitter Bootstrap", "Alt Flux", "Grunt", "Gulp", "Webpack", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
 		},
 		{
 			"title": "Version Tools",
