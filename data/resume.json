@@ -43,7 +43,7 @@
 	"summary": [
 		{
 			"active":true,
-			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, jQuery, AJAX and JSON."
+			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, React JS, jQuery, AJAX and JSON."
 		},
 		{
 			"active":true,
@@ -51,7 +51,7 @@
 		},
 		{
 			"active":true,
-			"text": "Proficient with React JS, Alt Flux, Angular and ES2015 standards, unit testing and build automation with Node, Grunt, Gulp and Webpack."
+			"text": "Proficient with Alt Flux, Angular and ES2015 standards, unit testing and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
@@ -63,7 +63,7 @@
 		},
 		{
 			"active":true,
-			"text": "Worked using a variety of Agile techniques like Scrum, Kanban, SAFe."
+			"text": "Worked using a variety of Agile techniques like Scrum, Kanban, Scaled Agile Framework(SAFe)."
 		},
 		{
 			"active":true,
@@ -110,9 +110,9 @@
 				"Worked in a cohesive, fast-paced team, working with the business to deliver features.",
 				"Development along with operations support.",
 				"Agile with SAFe",
-				"Unit testing"
+				"Unit testing and functional testing"
 			],
-			"technologies": ["React", "LESS", "Node"]
+			"technologies": ["React", "LESS", "Node", "Jest", "Selenium with Python"]
 		},
 		{
 			"title": "Persuit",
@@ -125,7 +125,7 @@
 				"Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
 				"Worked with an excellent team of developers to strict coding and development process standards. "
 			],
-			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node"]
+			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant"]
 		},
 		{
 			"title": "My online profile",
