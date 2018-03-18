@@ -63,7 +63,11 @@
 		},
 		{
 			"active":true,
-			"text": "Worked using a variety of Agile techniques like Scrum, Kanban, Scaled Agile Framework(SAFe)."
+			"text": "Worked using a variety of Agile techniques like Scrum, Kanban."
+		},
+		{
+			"active": true,
+			"text": "Certified Scaled Agile Framework(SAFe) Practitioner"
 		},
 		{
 			"active":true,
