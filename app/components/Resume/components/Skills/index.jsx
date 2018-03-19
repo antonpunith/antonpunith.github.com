@@ -23,7 +23,7 @@ export default React.createClass({
 		return (
 			<div className="dont-break">
 				<h2>Skills</h2>
-				<table className="table-bordered">
+				<table className="table-bordered spaced-text">
 					<tbody>
 						{skills.map(this.renderSkills)}
 					</tbody>

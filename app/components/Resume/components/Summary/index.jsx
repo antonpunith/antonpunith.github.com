@@ -19,7 +19,7 @@ export default React.createClass({
 		return (
 			<div className="dont-break">
 				<h2>Summary</h2>
-				<ul>
+				<ul className="spaced-text">
 				{summary.map(this.renderSummaries)}
 				</ul>
 			</div>

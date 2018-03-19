@@ -42,6 +42,9 @@ table {
 	.text-right {
 		 text-align: right;
 	}
+  .spaced-text{
+    line-height: 1.5em;
+  }
 	@media all {
 		.page-break	{ display: none; }
     .dont-break {}

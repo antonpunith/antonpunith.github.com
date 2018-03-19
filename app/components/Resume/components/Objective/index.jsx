@@ -8,7 +8,7 @@ export default React.createClass({
 			return null;
 		}
 		return (
-			<div key={key}>
+			<div className="spaced-text" key={key}>
 				{objective.text}
 			</div>
 		);
