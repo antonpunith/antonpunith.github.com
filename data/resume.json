@@ -213,6 +213,21 @@
 			"showFull": true
 		},
 		{
+			"title": "Reece Group",
+			"link": "http://www.reecegroup.com.au/",
+			"visibleLink": "www.reecegroup.com.au",
+			"headline": "",
+			"active": true
+		},
+		{
+			"title": "Reece Limited",
+			"link": "https://www.reece.com.au/aboutus/history",
+			"visibleLink": "www.reece.com.au",
+			"role": "Front-end Developer",
+			"active": true,
+			"showFull": false
+		},
+		{
 			"title": "Hatch Growth",
 			"link": "http://hatchgrowth.com.au/",
 			"visibleLink": "hatchgrowth.com.au",
@@ -249,21 +264,6 @@
 			"highlights": [
 			],
 			"technologies": ["SilverStripe", "LESS", "Bootstrap", "JavaScript", "jQuery"],
-			"active": true,
-			"showFull": false
-		},
-		{
-			"title": "Reece Group",
-			"link": "http://www.reecegroup.com.au/",
-			"visibleLink": "www.reecegroup.com.au",
-			"headline": "",
-			"active": true
-		},
-		{
-			"title": "Reece Plumbing & Bathrooms",
-			"link": "http://www.reece.com.au/",
-			"visibleLink": "www.reece.com.au",
-			"role": "Front-end Developer",
 			"active": true,
 			"showFull": false
 		},
@@ -340,7 +340,8 @@
 		},
 		{
 			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
-			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/"
+			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+			"active": false
 		}
 	],
 	"work": [
