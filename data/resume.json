@@ -370,8 +370,8 @@
 			"endDate": "2016-06-08",
 			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
 			"highlights": [
-				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
 				"Extensive use of React JS and task runners.",
+				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
 				"Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
 				"Improved understanding of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
 			]
