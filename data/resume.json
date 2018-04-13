@@ -85,7 +85,7 @@
 		},
 		{
 			"title": "Languages / Frameworks",
-			"values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS"]
+			"values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "Jasmine", "eslint"]
 		},
 		{
 			"title": "Version Tools",
@@ -129,7 +129,7 @@
 				"Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
 				"Worked with an excellent team of developers to strict coding and development process standards. "
 			],
-			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant"]
+			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant", "Jasmine"]
 		},
 		{
 			"title": "My online profile",
