@@ -346,6 +346,16 @@
 	],
 	"work": [
 		{
+			"company": "Custom Fleet",
+			"position": "Mobile Application Developer - React Native",
+			"location": "Melbourne",
+			"countryCode": "AU",
+			"website": "https://www.customfleet.com.au/index.html",
+			"startDate": "2018-05-07",
+			"endDate": "",
+			"isCurrent": true
+		},
+		{
 			"company": "Monash University",
 			"position": "Senior Web Developer",
 			"location": "Melbourne",
