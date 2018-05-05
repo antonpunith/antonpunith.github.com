@@ -353,7 +353,11 @@
 			"website": "https://www.customfleet.com.au/index.html",
 			"startDate": "2018-05-07",
 			"endDate": "",
-			"isCurrent": true
+			"isCurrent": true,
+			"summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation. Through Element’s global alliance with Arval, Custom Fleet has global reach across more than 40 countries.",
+			"highlights": [
+				"React Native project"
+			]
 		},
 		{
 			"company": "Monash University",
