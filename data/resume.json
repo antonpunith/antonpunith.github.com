@@ -89,7 +89,7 @@
 		},
 		{
 			"title": "Version Tools",
-			"values": ["Git", "Git CLI", "SourceTree", "SVN"]
+			"values": ["Git", "Git CLI", "SourceTree"]
 		},
 		{
 			"title": "PHP CMS",
