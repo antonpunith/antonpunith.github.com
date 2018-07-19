@@ -37,13 +37,17 @@
 	"objectives": [
 		{
 			"active": true,
-			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge web and mobile applications. The ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
+			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
 		}
 	],
 	"summary": [
 		{
 			"active":true,
-			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, React JS, jQuery, AJAX and JSON."
+			"text": "3 Years experience in React Js and more recently React Native."
+		},
+		{
+			"active":true,
+			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, npm, Node, jQuery, AJAX and JSON."
 		},
 		{
 			"active":true,
@@ -51,7 +55,7 @@
 		},
 		{
 			"active":true,
-			"text": "Proficient with Alt Flux, Angular and ES2015 standards, unit testing and build automation with Node, Grunt, Gulp and Webpack."
+			"text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
 		},
 		{
 			"active":true,
@@ -81,11 +85,11 @@
 	"skills": [
 		{
 			"title": "Operating Systems",
-			"values": ["Mac", "Linux", "Windows"]
+			"values": ["Mac (Preference) ", "Linux", "Windows"]
 		},
 		{
 			"title": "Languages / Frameworks",
-			"values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
+			"values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
 		},
 		{
 			"title": "Version Tools",
@@ -102,6 +106,25 @@
 	],
 	"projects": [
 		{
+			"title": "CustomFleet mobile app",
+			"active": true,
+			"showFull": true,
+			"role": "Mobile Application Developer - React Native",
+			"headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
+			"highlights": [
+				"Led the native development effort, dictating best practices and strategy",
+				"React Native with Redux, Thunk",
+				"Built development environment from scratch for the Greenfields project.",
+				"User Authentication and APIs with OAuth 2.0.",
+				"Push Notification to targeted users with AWS integration.",
+				"Mock server using Express."
+			],
+			"technologies": ["React JS", "React Native", "Redux", "OAuth2", "Express", "AWS"]
+		},
+
+
+
+		{
 			"title": "my.monash",
 			"link": "http://my.monash/",
 			"visibleLink": "http://my.monash",
@@ -116,7 +139,7 @@
 				"Agile with SAFe",
 				"Unit testing and functional testing"
 			],
-			"technologies": ["React", "LESS", "Node", "Jest", "Selenium with Python"]
+			"technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
 		},
 		{
 			"title": "Persuit",
@@ -354,9 +377,10 @@
 			"startDate": "2018-05-07",
 			"endDate": "",
 			"isCurrent": true,
-			"summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation. Through Element’s global alliance with Arval, Custom Fleet has global reach across more than 40 countries.",
+			"summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
 			"highlights": [
-				"React Native project"
+				"A React Native Greenfields project",
+				"Championed agile and scrum methodology"
 			]
 		},
 		{
@@ -367,10 +391,12 @@
 			"website": "http://www.monash.edu/",
 			"startDate": "2016-08-08",
 			"endDate": "2018-05-04",
-			"summary": "Monash university being Australia's largest university has complex business processes and systems. Student First Program under Strategic Enablement aims to deliver services that are easier, simpler and faster for students and staff.",
+			"summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
 			"highlights": [
-				"Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe).",
-				"Extensive use of React JS, Node and task runners"
+				"Worked on a React JS Project, Node and npm packages",
+				"Did user research to build tools that would benefit them the most with iterative development.",
+				"Worked with various stakeholders and involved all phases of feature development",
+				"Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe)."
 			]
 		},
 		{
@@ -383,10 +409,10 @@
 			"endDate": "2016-06-08",
 			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
 			"highlights": [
-				"Extensive use of React JS and task runners.",
+				"React JS (single page application) SPA with Node and Webpack.",
 				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
 				"Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
-				"Improved understanding of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
+				"Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
 			]
 		},
 		{
@@ -399,9 +425,8 @@
 			"endDate": "2015-09-11",
 			"summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
 			"highlights": [
-				"Built numerous interactive websites for various clients of Trout mostly using Silverstripe as the CMS.",
-				"Improved development practices and dictated best practices. Worked to optimize websites using various techniques.",
-				"Worked both in team and as a single developer on projects."
+				"Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
+				"Improved development practices and dictated best practices. Worked to optimize websites using various techniques."
 			]
 		},
 		{
@@ -447,7 +472,8 @@
 			"highlights": [
 				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
 				"Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging."
-			]
+			],
+			"hidden": true
 		}
 	],
 	"education": [

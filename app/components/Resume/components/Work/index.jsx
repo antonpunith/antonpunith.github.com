@@ -34,6 +34,9 @@ export default React.createClass({
 	},
 
 	renderCompanies (company, key) {
+		if(company.hidden) {
+			return null;
+		}
 		var startDate = moment(company.startDate);
 		var endDate = moment(company.endDate);
 		let end = '';
