@@ -377,7 +377,8 @@
 			"startDate": "2018-09-03",
 			"endDate": "",
 			"isCurrent": true,
-			"summary": ""
+			"summary": "",
+			"highlights": []
 		},
 		{
 			"company": "Custom Fleet",
