@@ -369,14 +369,25 @@
 	],
 	"work": [
 		{
+			"company": "Avanade (Loud & Clear)",
+			"position": "Front End Developer - React Native",
+			"location": "Melbourne",
+			"countryCode": "AU",
+			"website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
+			"startDate": "2018-09-03",
+			"endDate": "",
+			"isCurrent": true,
+			"summary": ""
+		},
+		{
 			"company": "Custom Fleet",
 			"position": "Mobile Application Developer - React Native",
 			"location": "Melbourne",
 			"countryCode": "AU",
 			"website": "https://www.customfleet.com.au/index.html",
 			"startDate": "2018-05-07",
-			"endDate": "",
-			"isCurrent": true,
+			"endDate": "2018-08-31",
+			"isCurrent": false,
 			"summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
 			"highlights": [
 				"A React Native Greenfields project",
