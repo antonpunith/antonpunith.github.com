@@ -1,501 +1,495 @@
 {
-	"basics": {
-		"name": "Anton Punith",
-		"email": "antonpunith@gmail.com",
-		"phone": "0478006189",
-		"label": "Front End Developer",
-		"picture": "",
-		"website": "http://antonpunith.github.io/",
-		"location": {
-			"address": "4/234 Cotham Road, Kew",
-			"postalCode": "VIC",
-			"city": "Melbourne",
-			"countryCode": "au",
-			"region": "Melbourne"
-		},
-		"profiles": [
-			{
-				"network": "Linkedin",
-				"username": "antonpunith",
-				"url": "https://www.linkedin.com/in/antonpunith"
-			},
-			{
-				"network": "github",
-				"username": "antonpunith",
-				"url": "https://github.com/antonpunith"
-			}
-		]
-	},
-	"headlines": [
-		{
-			"active": true,
-			"position": "Versatile UI / Front End developer",
-			"careerStart": "2007-03-01",
-			"skill": "front-end development for web and devices"
-		}
-	],
-	"objectives": [
-		{
-			"active": true,
-			"text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
-		}
-	],
-	"summary": [
-		{
-			"active":true,
-			"text": "3 Years experience in React Js and more recently React Native."
-		},
-		{
-			"active":true,
-			"text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, npm, Node, jQuery, AJAX and JSON."
-		},
-		{
-			"active":true,
-			"text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
-		},
-		{
-			"active":true,
-			"text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
-		},
-		{
-			"active":true,
-			"text": "Experience using npm and building HTML5 single page applications (SPA) and web applications using RESTful services."
-		},
-		{
-			"active":false,
-			"text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
-		},
-		{
-			"active":true,
-			"text": "Worked using a variety of Agile techniques like Scrum, Kanban."
-		},
-		{
-			"active": true,
-			"text": "Certified SAFe® 4 Practitioner (Scaled Agile Framework)."
-		},
-		{
-			"active":true,
-			"text": "Proficient with Git and version control."
-		},
-		{
-			"active":true,
-			"text": "Expert at design tools like Photoshop and Illustrator."
-		}
-	],
-	"skills": [
-		{
-			"title": "Operating Systems",
-			"values": ["Mac (Preference) ", "Linux", "Windows"]
-		},
-		{
-			"title": "Languages / Frameworks",
-			"values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
-		},
-		{
-			"title": "Version Tools",
-			"values": ["Git", "Git CLI", "SourceTree"]
-		},
-		{
-			"title": "PHP CMS",
-			"values": ["SilverStripe", "WordPress", "Drupal", "Magento", "Joomla", "Zencart"]
-		},
-		{
-			"title": "IDE & Software",
-			"values": ["Photoshop", "Illustrator", "Atom", "Sublime Text"]
-		}
-	],
-	"projects": [
-		{
-			"title": "CustomFleet mobile app",
-			"active": true,
-			"showFull": true,
-			"role": "Mobile Application Developer - React Native",
-			"headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
-			"highlights": [
-				"Led the native development effort, dictating best practices and strategy",
-				"React Native with Redux, Thunk",
-				"Built development environment from scratch for the Greenfields project.",
-				"User Authentication and APIs with OAuth 2.0.",
-				"Push Notification to targeted users with AWS integration.",
-				"Mock server using Express."
-			],
-			"technologies": ["React JS", "React Native", "Redux", "OAuth2", "Express", "AWS"]
-		},
-
-
-
-		{
-			"title": "my.monash",
-			"link": "http://my.monash/",
-			"visibleLink": "http://my.monash",
-			"active": true,
-			"showFull": true,
-			"role": "Senior Front-end Developer",
-			"headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
-			"highlights": [
-				"Used by over a hundred thousand users every day.",
-				"Worked in a cohesive, fast-paced team, working with the business to deliver features.",
-				"Development along with operations support.",
-				"Agile with SAFe",
-				"Unit testing and functional testing"
-			],
-			"technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
-		},
-		{
-			"title": "Persuit",
-			"active": true,
-			"showFull": true,
-			"role": "Front-end Developer",
-			"headline": "PERSUIT™ is a secure, online marketplace for client organisations and leading firms to resource secondments, bank legal hours and manage RFPs. Persuit is a revolutionary approach in the way these top-notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone.",
-			"highlights": [
-				"Built complex and simple features with new and existing components in react according to the specs. Wrote unit tests for testable features.",
-				"Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
-				"Worked with an excellent team of developers to strict coding and development process standards. "
-			],
-			"technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant", "Karma"]
-		},
-		{
-			"title": "My online profile",
-			"link": "http://antonpunith.github.io/",
-			"visibleLink": "antonpunith.github.io",
-			"active": true,
-			"showFull": true,
-			"headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
-			"highlights": [
-				"Built from scratch to better understand Webpack and React and continue working with ES2015.",
-				"Component-based SPA to allow easy maintenance and to change or add features."
-			],
-			"technologies": ["React", "Webpack", "ES2015 using Babel", "SASS", "Node"]
-		},
-		{
-			"title": "Griffith Hack",
-			"link": "http://www.griffithhack.com/",
-			"visibleLink": "griffithhack.com",
-			"active": true,
-			"showFull": true,
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
-			"highlights": [
-				"Built pages and objects with relationships and schema. Created layouts and styling for the pages to match the design, keeping a modular approach for reusability.",
-				"Built customisable templates to allow the client to change the layouts, themes, colours, images and content of the pages easily.",
-				"Custom AJAX for multiple pages with complex tagging and filtering mechanism."
-			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
-		},
-		{
-			"title": "Thermann",
-			"link": "http://www.thermann.com.au/",
-			"visibleLink": "www.thermann.com.au",
-			"role": "Front-end Developer",
-			"headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
-			"highlights": [
-			],
-			"technologies": ["AngularJS", "SASS", "Bootstrap", "JavaScript", "jQuery", "Smarty(PHP)"],
-			"active": true,
-			"showFull": true
-		},
-		{
-			"title": "Whitbread Insurance Brokers",
-			"link": "http://whitbread.com.au/",
-			"visibleLink": "whitbread.com.au",
-			"active": true,
-			"showFull": true,
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
-			"highlights": [
-				"Built the website with various pages, layouts and features according to the rebranded designs.",
-				"Custom AJAX for multiple features and with a filtering mechanism for the Social media posts.",
-				"Custom Lucene search with a custom layout.",
-				"Multiple contact forms on different pages to customisable contacts."
-			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
-		},
-		{
-			"title": "ShineWing",
-			"link": "http://shinewing.com.au/",
-			"visibleLink": "shinewing.com.au",
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
-			"highlights": [
-			],
-			"technologies": ["SilverStripe", "Bootstrap", "JavaScript", "jQuery", "SASS"],
-			"active": true,
-			"showFull": true
-		},
-		{
-			"title": "Healthy Together Victoria",
-			"link": "http://healthytogether.vic.gov.au/",
-			"visibleLink": "healthytogether.vic.gov.au",
-			"role": "Front-end Developer",
-			"headline": "The Program Victorian Government intiative to bring communities together in a united effort for better health.",
-			"highlights": [
-				"Being a government site, the focus was cross browser compatibility and accessibility while making the website still look good and interactive."
-			],
-			"technologies": ["HTML5", "SASS", "JavaScript", "jQuery"],
-			"active": false,
-			"showFull": true
-		},
-		{
-			"title": "Reece Group",
-			"link": "http://www.reecegroup.com.au/",
-			"visibleLink": "www.reecegroup.com.au",
-			"headline": "",
-			"active": true
-		},
-		{
-			"title": "Reece Limited",
-			"link": "https://www.reece.com.au/aboutus/history",
-			"visibleLink": "www.reece.com.au",
-			"role": "Front-end Developer",
-			"active": true,
-			"showFull": false
-		},
-		{
-			"title": "Hatch Growth",
-			"link": "http://hatchgrowth.com.au/",
-			"visibleLink": "hatchgrowth.com.au",
-			"active": true,
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "",
-			"highlights": [
-			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
-			"showFull": false
-		},
-		{
-			"title": "Corrs Chambers Westgarth",
-			"link": "http://www.corrs.com.au/",
-			"visibleLink": "www.corrs.com.au",
-			"active": true,
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
-			"highlights": [
-				"Developed various features and pages according to the spec.",
-				"Worked on analytics and controlling robots crawling the website.",
-				"Wrote algoriths for various features like popularity",
-				"Worked on custom search."
-			],
-			"technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
-			"showFull": false
-		},
-		{
-			"title": "Russell Kennedy",
-			"link": "http://www.rk.com.au/",
-			"visibleLink": "www.rk.com.au",
-			"role": "Front-end Developer / Full Stack Developer",
-			"headline": "",
-			"highlights": [
-			],
-			"technologies": ["SilverStripe", "LESS", "Bootstrap", "JavaScript", "jQuery"],
-			"active": true,
-			"showFull": false
-		},
-		{
-			"title": "Arquilla Wine",
-			"link": "http://www.arquilla-wine.com/",
-			"visibleLink": "www.arquilla-wine.com",
-			"role": "Front-end Developer / Full Stack Developer",
-			"active": true
-		},
-		{
-			"title": "TD Bank Android Application",
-			"active": false,
-			"showFull": true,
-			"role": "UI Lead",
-			"headline": "The engagement was to port TD Bank iPad application, which was built in-house, to Android and to make it responsive so as to fit all mobile and tablet form factors.",
-			"highlights": [
-				"Assess the current application and retrofit the page into mobile by making necessary changes.",
-				"Customize the existing Dojo widgets to run on various form factors with performance optimization to run on Android Devices using IBM Worklight and Eclipse."
-			],
-			"technologies": ["IBM Worklight", "HTML5", "CSS3", "Dojo", "Eclipse", "SVN", "Android SDK"]
-		},
-		{
-			"title": "Thermeco window systems",
-			"visibleLink": "thermeco.com.au",
-			"link": "http://thermeco.com.au/",
-			"active": true
-		},
-		{
-			"title": "Landers & Rogers Lawyers",
-			"visibleLink": "landers.com.au",
-			"link": "http://landers.com.au/",
-			"active": false
-		},
-		{
-			"title": "Victorian Opera",
-			"visibleLink": "victorianopera.com.au",
-			"link": "http://victorianopera.com.au/",
-			"active": false
-		},
-		{
-			"title": "The Enchanted Ball",
-			"visibleLink": "enchantedball.com.au",
-			"link": "http://enchantedball.com.au/",
-			"active": false
-		},
-		{
-			"title": "",
-			"visibleLink": "vaccho.org.au",
-			"link": "http://vaccho.org.au/",
-			"active": false
-		},
-		{
-			"visibleLink": "globalenglish.com",
-			"link": "http://globalenglish.com/",
-			"active": false
-		},
-		{
-			"visibleLink": "ayurvedapura.com",
-			"link": "http://ayurvedapura.com/",
-			"active": false
-		},
-		{
-			"title": "One Lingo (APP)",
-			"visibleLink": "apps.globalenglish.com/lingo",
-			"link": "http://apps.globalenglish.com/lingo/",
-			"active": false
-		},
-		{
-			"title": "Euro Window",
-			"visibleLink": "eurowindow.com.au",
-			"link": "http://eurowindow.com.au/",
-			"active": false
-		},
-		{
-			"visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
-			"link": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
-			"active": false
-		}
-	],
-	"work": [
-		{
-			"company": "Avanade (Loud & Clear)",
-			"position": "Front End Developer - React Native",
-			"location": "Melbourne",
-			"countryCode": "AU",
-			"website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
-			"startDate": "2018-09-03",
-			"endDate": "",
-			"isCurrent": true,
-			"summary": "",
-			"highlights": []
-		},
-		{
-			"company": "Custom Fleet",
-			"position": "Mobile Application Developer - React Native",
-			"location": "Melbourne",
-			"countryCode": "AU",
-			"website": "https://www.customfleet.com.au/index.html",
-			"startDate": "2018-05-07",
-			"endDate": "2018-08-31",
-			"isCurrent": false,
-			"summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
-			"highlights": [
-				"A React Native Greenfields project",
-				"Championed agile and scrum methodology"
-			]
-		},
-		{
-			"company": "Monash University",
-			"position": "Senior Web Developer",
-			"location": "Melbourne",
-			"countryCode": "AU",
-			"website": "http://www.monash.edu/",
-			"startDate": "2016-08-08",
-			"endDate": "2018-05-04",
-			"summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
-			"highlights": [
-				"Worked on a React JS Project, Node and npm packages",
-				"Did user research to build tools that would benefit them the most with iterative development.",
-				"Worked with various stakeholders and involved all phases of feature development",
-				"Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe)."
-			]
-		},
-		{
-			"company": "Persuit",
-			"position": "Front End Developer",
-			"location": "Melbourne",
-			"countryCode": "AU",
-			"website": "https://persuit.com/",
-			"startDate": "2015-09-14",
-			"endDate": "2016-06-08",
-			"summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
-			"highlights": [
-				"React JS (single page application) SPA with Node and Webpack.",
-				"Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
-				"Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
-				"Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
-			]
-		},
-		{
-			"company": "Trout Creative Thinking",
-			"position": "Front End Developer",
-			"location": "Melbourne",
-			"countryCode": "AU",
-			"website": "http://trout.com.au/",
-			"startDate": "2013-09-30",
-			"endDate": "2015-09-11",
-			"summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
-			"highlights": [
-				"Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
-				"Improved development practices and dictated best practices. Worked to optimize websites using various techniques."
-			]
-		},
-		{
-			"company": "Cognizant Technology Solutions Pvt Ltd",
-			"position": "Associate - Projects",
-			"location": "Hyderabad",
-			"countryCode": "IN",
-			"website": "http://cognizant.com/",
-			"startDate": "2012-07-11",
-			"endDate": "2013-09-13",
-			"summary": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015, the Fortune magazine named it as the world's fourth most admired IT services company. Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
-			"highlights": [
-				"Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
-				"To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
-				"Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-				"Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
-				"Train freshers and juniors in emmerging technologies."
-			]
-		},
-		{
-			"company": "Global English India Pvt Limited",
-			"position": "Senior UI Developer",
-			"location": "Chennai",
-			"countryCode": "IN",
-			"website": "http://www.globalenglish.com/",
-			"startDate": "2010-01-20",
-			"endDate": "2012-06-30",
-			"summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
-			"highlights": [
-				" Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
-				"Worked in high performing small Agile teams with scrum, building features of high business value.",
-				"Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS"
-			]
-		},
-		{
-			"company": "Webwoggle Solutions",
-			"position": "Software Developer",
-			"location": "Chennai",
-			"countryCode": "IN",
-			"website": "",
-			"startDate": "2007-03-01",
-			"endDate": "2010-01-18",
-			"highlights": [
-				"Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
-				"Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging."
-			],
-			"hidden": true
-		}
-	],
-	"education": [
-		{
-			"institution": "JNTU",
-			"location": "Hyderabad",
-			"countryCode": "IN",
-			"area": "Information Technology",
-			"studyType": "Bachelor of Technology",
-			"endDate": "2007-08-30"
-		}
-	]
+  "basics": {
+    "name": "Anton Punith",
+    "email": "antonpunith@gmail.com",
+    "phone": "0478006189",
+    "label": "Front End Developer",
+    "picture": "",
+    "website": "http://antonpunith.github.io/",
+    "location": {
+      "address": "2/177 Peel Street Kew",
+      "postalCode": "VIC",
+      "city": "Melbourne",
+      "countryCode": "au",
+      "region": "Melbourne"
+    },
+    "profiles": [{
+        "network": "Linkedin",
+        "username": "antonpunith",
+        "url": "https://www.linkedin.com/in/antonpunith"
+      },
+      {
+        "network": "github",
+        "username": "antonpunith",
+        "url": "https://github.com/antonpunith"
+      }
+    ]
+  },
+  "headlines": [{
+    "active": true,
+    "position": "Versatile UI / Front End developer",
+    "careerStart": "2007-03-01",
+    "skill": "front-end development for web and devices"
+  }],
+  "objectives": [{
+    "active": true,
+    "text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfill my cravings to learn new technologies and constantly self-improve."
+  }],
+  "summary": [{
+      "active": true,
+      "text": "Over 3 Years experience in React Js and more recently React Native."
+    },
+    {
+      "active": true,
+      "text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, npm, Node, jQuery, AJAX and JSON."
+    },
+    {
+      "active": true,
+      "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
+    },
+    {
+      "active": true,
+      "text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
+    },
+    {
+      "active": true,
+      "text": "Experience using npm and building HTML5 single page applications (SPA) and web applications using RESTful services."
+    },
+    {
+      "active": false,
+      "text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
+    },
+    {
+      "active": true,
+      "text": "Worked using a variety of Agile techniques like Scrum, Kanban."
+    },
+    {
+      "active": true,
+      "text": "Certified SAFe® 4 Practitioner (Scaled Agile Framework)."
+    },
+    {
+      "active": true,
+      "text": "Proficient with Git and version control."
+    },
+    {
+      "active": true,
+      "text": "Expert at design tools like Photoshop and Illustrator."
+    }
+  ],
+  "skills": [{
+      "title": "Operating Systems",
+      "values": ["Mac (Preference) ", "Linux", "Windows"]
+    },
+    {
+      "title": "Languages / Frameworks",
+      "values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
+    },
+    {
+      "title": "Version Tools",
+      "values": ["Git", "Git CLI", "SourceTree"]
+    },
+    {
+      "title": "PHP CMS",
+      "values": ["SilverStripe", "WordPress", "Drupal", "Magento", "Joomla", "Zencart"]
+    },
+    {
+      "title": "IDE & Software",
+      "values": ["Photoshop", "Illustrator", "Atom", "Sublime Text"]
+    }
+  ],
+  "projects": [
+    {
+        "title": "Solotel multisite",
+        "active": true,
+        "showFull": true,
+        "role": "Front End Developer - Vue js",
+        "headline": "",
+        "highlights": [
+          "Led the native development effort, dictating best practices and strategy"
+        ],
+        "technologies": ["Vue js", "SASS", "Drupal 8", "Node", "Docker", "Lando", "Drush", "Ahoy cli"]
+      },
+    {
+      "title": "CustomFleet mobile app",
+      "active": true,
+      "showFull": true,
+      "role": "Mobile Application Developer - React Native",
+      "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
+      "highlights": [
+        "Led the native development effort, dictating best practices and strategy",
+        "React Native with Redux, Thunk",
+        "Built development environment from scratch for the Greenfields project.",
+        "User Authentication and APIs with OAuth 2.0.",
+        "Push Notification to targeted users with AWS integration.",
+        "Mock server using Express."
+      ],
+      "technologies": ["React JS", "React Native", "Redux", "OAuth2", "Express", "AWS"]
+    },
+    {
+      "title": "my.monash",
+      "link": "http://my.monash/",
+      "visibleLink": "http://my.monash",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Front-end Developer - React js",
+      "headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
+      "highlights": [
+        "Used by over a hundred thousand users every day.",
+        "Worked in a cohesive, fast-paced team, working with the business to deliver features.",
+        "Development along with operations support.",
+        "Agile with SAFe",
+        "Unit testing and functional testing"
+      ],
+      "technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
+    },
+    {
+      "title": "My online profile",
+      "link": "http://antonpunith.github.io/",
+      "visibleLink": "antonpunith.github.io",
+      "active": true,
+      "showFull": true,
+      "headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
+      "highlights": [
+        "Built from scratch to better understand Webpack and React and continue working with ES2015.",
+        "Component-based SPA to allow easy maintenance and to change or add features."
+      ],
+      "technologies": ["React", "Webpack", "ES2015 using Babel", "SASS", "Node"]
+    },
+    {
+      "title": "Persuit",
+      "active": true,
+      "showFull": true,
+      "role": "Front-end Developer - React js",
+      "headline": "PERSUIT™ is a secure, online marketplace for client organisations and leading firms to resource secondments, bank legal hours and manage RFPs. Persuit is a revolutionary approach in the way these top-notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone.",
+      "highlights": [
+        "Built complex and simple features with new and existing components in react according to the specs. Wrote unit tests for testable features.",
+        "Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
+        "Worked with an excellent team of developers to strict coding and development process standards. "
+      ],
+      "technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant", "Karma"]
+    },
+    {
+      "title": "Griffith Hack",
+      "link": "http://www.griffithhack.com/",
+      "visibleLink": "griffithhack.com",
+      "active": true,
+      "showFull": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
+      "highlights": [
+        "Built pages and objects with relationships and schema. Created layouts and styling for the pages to match the design, keeping a modular approach for reusability.",
+        "Built customisable templates to allow the client to change the layouts, themes, colours, images and content of the pages easily.",
+        "Custom AJAX for multiple pages with complex tagging and filtering mechanism."
+      ],
+      "technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
+    },
+    {
+      "title": "Thermann",
+      "link": "http://www.thermann.com.au/",
+      "visibleLink": "www.thermann.com.au",
+      "role": "Front-end Developer",
+      "headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
+      "highlights": [],
+      "technologies": ["AngularJS", "SASS", "Bootstrap", "JavaScript", "jQuery", "Smarty(PHP)"],
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Whitbread Insurance Brokers",
+      "link": "http://whitbread.com.au/",
+      "visibleLink": "whitbread.com.au",
+      "active": true,
+      "showFull": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
+      "highlights": [
+        "Built the website with various pages, layouts and features according to the rebranded designs.",
+        "Custom AJAX for multiple features and with a filtering mechanism for the Social media posts.",
+        "Custom Lucene search with a custom layout.",
+        "Multiple contact forms on different pages to customisable contacts."
+      ],
+      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
+    },
+    {
+      "title": "ShineWing",
+      "link": "http://shinewing.com.au/",
+      "visibleLink": "shinewing.com.au",
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
+      "highlights": [],
+      "technologies": ["SilverStripe", "Bootstrap", "JavaScript", "jQuery", "SASS"],
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Healthy Together Victoria",
+      "link": "http://healthytogether.vic.gov.au/",
+      "visibleLink": "healthytogether.vic.gov.au",
+      "role": "Front-end Developer",
+      "headline": "The Program Victorian Government intiative to bring communities together in a united effort for better health.",
+      "highlights": [
+        "Being a government site, the focus was cross browser compatibility and accessibility while making the website still look good and interactive."
+      ],
+      "technologies": ["HTML5", "SASS", "JavaScript", "jQuery"],
+      "active": false,
+      "showFull": true
+    },
+    {
+      "title": "Reece Group",
+      "link": "http://www.reecegroup.com.au/",
+      "visibleLink": "www.reecegroup.com.au",
+      "headline": "",
+      "active": true
+    },
+    {
+      "title": "Reece Limited",
+      "link": "https://www.reece.com.au/aboutus/history",
+      "visibleLink": "www.reece.com.au",
+      "role": "Front-end Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Hatch Growth",
+      "link": "http://hatchgrowth.com.au/",
+      "visibleLink": "hatchgrowth.com.au",
+      "active": true,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "",
+      "highlights": [],
+      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+      "showFull": false
+    },
+    {
+      "title": "Corrs Chambers Westgarth",
+      "link": "http://www.corrs.com.au/",
+      "visibleLink": "www.corrs.com.au",
+      "active": true,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
+      "highlights": [
+        "Developed various features and pages according to the spec.",
+        "Worked on analytics and controlling robots crawling the website.",
+        "Wrote algoriths for various features like popularity",
+        "Worked on custom search."
+      ],
+      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+      "showFull": false
+    },
+    {
+      "title": "Russell Kennedy",
+      "link": "http://www.rk.com.au/",
+      "visibleLink": "www.rk.com.au",
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "",
+      "highlights": [],
+      "technologies": ["SilverStripe", "LESS", "Bootstrap", "JavaScript", "jQuery"],
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Arquilla Wine",
+      "link": "http://www.arquilla-wine.com/",
+      "visibleLink": "www.arquilla-wine.com",
+      "role": "Front-end Developer / Full Stack Developer",
+      "active": true
+    },
+    {
+      "title": "TD Bank Android Application",
+      "active": false,
+      "showFull": true,
+      "role": "UI Lead",
+      "headline": "The engagement was to port TD Bank iPad application, which was built in-house, to Android and to make it responsive so as to fit all mobile and tablet form factors.",
+      "highlights": [
+        "Assess the current application and retrofit the page into mobile by making necessary changes.",
+        "Customize the existing Dojo widgets to run on various form factors with performance optimization to run on Android Devices using IBM Worklight and Eclipse."
+      ],
+      "technologies": ["IBM Worklight", "HTML5", "CSS3", "Dojo", "Eclipse", "SVN", "Android SDK"]
+    },
+    {
+      "title": "Thermeco window systems",
+      "visibleLink": "thermeco.com.au",
+      "link": "http://thermeco.com.au/",
+      "active": true
+    },
+    {
+      "title": "Landers & Rogers Lawyers",
+      "visibleLink": "landers.com.au",
+      "link": "http://landers.com.au/",
+      "active": false
+    },
+    {
+      "title": "Victorian Opera",
+      "visibleLink": "victorianopera.com.au",
+      "link": "http://victorianopera.com.au/",
+      "active": false
+    },
+    {
+      "title": "The Enchanted Ball",
+      "visibleLink": "enchantedball.com.au",
+      "link": "http://enchantedball.com.au/",
+      "active": false
+    },
+    {
+      "title": "",
+      "visibleLink": "vaccho.org.au",
+      "link": "http://vaccho.org.au/",
+      "active": false
+    },
+    {
+      "visibleLink": "globalenglish.com",
+      "link": "http://globalenglish.com/",
+      "active": false
+    },
+    {
+      "visibleLink": "ayurvedapura.com",
+      "link": "http://ayurvedapura.com/",
+      "active": false
+    },
+    {
+      "title": "One Lingo (APP)",
+      "visibleLink": "apps.globalenglish.com/lingo",
+      "link": "http://apps.globalenglish.com/lingo/",
+      "active": false
+    },
+    {
+      "title": "Euro Window",
+      "visibleLink": "eurowindow.com.au",
+      "link": "http://eurowindow.com.au/",
+      "active": false
+    },
+    {
+      "visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
+      "link": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+      "active": false
+    }
+  ],
+  "work": [{
+      "company": "Avanade (Loud & Clear)",
+      "position": "Front End Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
+      "startDate": "2018-09-03",
+      "endDate": "",
+      "isCurrent": true,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Custom Fleet",
+      "position": "Mobile Application Developer - React Native",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.customfleet.com.au/index.html",
+      "startDate": "2018-05-07",
+      "endDate": "2018-08-31",
+      "isCurrent": false,
+      "summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
+      "highlights": [
+        "A React Native Greenfields project",
+        "Championed agile and scrum methodology"
+      ]
+    },
+    {
+      "company": "Monash University",
+      "position": "Senior Web Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "http://www.monash.edu/",
+      "startDate": "2016-08-08",
+      "endDate": "2018-05-04",
+      "summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
+      "highlights": [
+        "Worked on a React JS Project, Node and npm packages",
+        "Did user research to build tools that would benefit them the most with iterative development.",
+        "Worked with various stakeholders and involved all phases of feature development",
+        "Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe)."
+      ]
+    },
+    {
+      "company": "Persuit",
+      "position": "Front End Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://persuit.com/",
+      "startDate": "2015-09-14",
+      "endDate": "2016-06-08",
+      "summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
+      "highlights": [
+        "React JS (single page application) SPA with Node and Webpack.",
+        "Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
+        "Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
+        "Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
+      ]
+    },
+    {
+      "company": "Trout Creative Thinking",
+      "position": "Front End Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "http://trout.com.au/",
+      "startDate": "2013-09-30",
+      "endDate": "2015-09-11",
+      "summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
+      "highlights": [
+        "Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
+        "Improved development practices and dictated best practices. Worked to optimize websites using various techniques."
+      ]
+    },
+    {
+      "company": "Cognizant Technology Solutions Pvt Ltd",
+      "position": "Associate - Projects",
+      "location": "Hyderabad",
+      "countryCode": "IN",
+      "website": "http://cognizant.com/",
+      "startDate": "2012-07-11",
+      "endDate": "2013-09-13",
+      "summary": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015, the Fortune magazine named it as the world's fourth most admired IT services company. Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
+      "highlights": [
+        "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
+        "To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
+        "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
+        "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
+        "Train freshers and juniors in emmerging technologies."
+      ]
+    },
+    {
+      "company": "Global English India Pvt Limited",
+      "position": "Senior UI Developer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "http://www.globalenglish.com/",
+      "startDate": "2010-01-20",
+      "endDate": "2012-06-30",
+      "summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
+      "highlights": [
+        " Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
+        "Worked in high performing small Agile teams with scrum, building features of high business value.",
+        "Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS"
+      ]
+    },
+    {
+      "company": "Webwoggle Solutions",
+      "position": "Software Developer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "",
+      "startDate": "2007-03-01",
+      "endDate": "2010-01-18",
+      "highlights": [
+        "Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
+        "Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging."
+      ],
+      "hidden": true
+    }
+  ],
+  "education": [{
+    "institution": "MGIT (JNTU)",
+    "location": "Hyderabad",
+    "countryCode": "IN",
+    "area": "Information Technology",
+    "studyType": "Bachelor of Technology",
+    "endDate": "2007-08-30"
+  }]
 }
