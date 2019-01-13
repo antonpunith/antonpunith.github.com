@@ -10,8 +10,11 @@ export default React.createClass({
 	displayName: 'Work',
 
 	renderHightlights (hightlight, key) {
+    if (!hightlight.active) {
+      return null;
+    }
 		return (
-			<li key={key}>{hightlight}</li>
+			<li key={key}>{hightlight.text}</li>
 		);
 	},
 

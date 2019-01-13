@@ -31,9 +31,10 @@ export default React.createClass({
 		if (!project.link) {
 			return null;
 		}
-		return (
-			<span>- <a href={project.link} target="_blank"><small>{project.visibleLink}</small></a></span>
-		);
+    if (project.link.length) {
+      return project.link.map((link) => (<span> - <a href={link.url} target="_blank"><small>{link.title}</small></a></span>))
+    }
+    return '';
 	},
 
 	renderRole (project) {
@@ -68,7 +69,7 @@ export default React.createClass({
 				<div key={key}>
 					<h3 className={styles.projectTitle}>
 						<strong>{project.title}</strong>
-						&nbsp;&nbsp;{this.renderProjectLink(project)}
+						{this.renderProjectLink(project)}
 					</h3>
 					{this.renderRole(project)}
 					{project.headline}

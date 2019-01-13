@@ -103,14 +103,26 @@
         "active": true,
         "showFull": true,
         "role": "Front End Developer - Vue js",
-        "headline": "",
+        "headline": "Solotel is one of Australia's largest hospitality groups with venues in Brisbane and Sydney. For it's 30+ restaurants, bars, pubs, bistros, Solotel needed implementation of a new customer facing Digital Platform including a new Reservation Management System (Dimmi), CMS (Drupal 8), and rebuild their 30+ websites.",
         "highlights": [
-          "Led the native development effort, dictating best practices and strategy"
+          "Led the front end development for the project.",
+          "Built drupal components in twig and worked on integration.",
+          "Built many vue components used across the sites and using multiple configurations."
         ],
-        "technologies": ["Vue js", "SASS", "Drupal 8", "Node", "Docker", "Lando", "Drush", "Ahoy cli"]
+        "technologies": ["Vue js", "SASS", "Drupal 8", "Node", "Twig", "Docker", "Lando", "Drush", "Ahoy CLI"]
       },
     {
-      "title": "CustomFleet mobile app",
+      "title": "Custom Fleet Drive",
+      "link": [
+        {
+          "url" : "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
+          "title" : "iOS app"
+        },
+        {
+          "url" : "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
+          "title" : "Android app"
+        }
+      ],
       "active": true,
       "showFull": true,
       "role": "Mobile Application Developer - React Native",
@@ -127,8 +139,12 @@
     },
     {
       "title": "my.monash",
-      "link": "http://my.monash/",
-      "visibleLink": "http://my.monash",
+      "link": [
+        {
+          "url" : "http://my.monash/",
+          "title" : "http://my.monash"
+        }
+      ],
       "active": true,
       "showFull": true,
       "role": "Senior Front-end Developer - React js",
@@ -144,8 +160,12 @@
     },
     {
       "title": "My online profile",
-      "link": "http://antonpunith.github.io/",
-      "visibleLink": "antonpunith.github.io",
+      "link": [
+        {
+          "url" : "http://antonpunith.github.io/",
+          "title" : "antonpunith.github.io"
+        }
+      ],
       "active": true,
       "showFull": true,
       "headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
@@ -170,8 +190,12 @@
     },
     {
       "title": "Griffith Hack",
-      "link": "http://www.griffithhack.com/",
-      "visibleLink": "griffithhack.com",
+      "link": [
+        {
+          "url" : "http://www.griffithhack.com/",
+          "title" : "griffithhack.com"
+        }
+      ],
       "active": true,
       "showFull": false,
       "role": "Front-end Developer / Full Stack Developer",
@@ -185,8 +209,12 @@
     },
     {
       "title": "Thermann",
-      "link": "http://www.thermann.com.au/",
-      "visibleLink": "www.thermann.com.au",
+      "link": [
+        {
+          "url" : "http://www.thermann.com.au/",
+          "title" : "www.thermann.com.au"
+        }
+      ],
       "role": "Front-end Developer",
       "headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
       "highlights": [],
@@ -196,8 +224,12 @@
     },
     {
       "title": "Whitbread Insurance Brokers",
-      "link": "http://whitbread.com.au/",
-      "visibleLink": "whitbread.com.au",
+      "link": [
+        {
+          "url" : "http://whitbread.com.au/",
+          "title" : "whitbread.com.au"
+        }
+      ],
       "active": true,
       "showFull": false,
       "role": "Front-end Developer / Full Stack Developer",
@@ -212,8 +244,12 @@
     },
     {
       "title": "ShineWing",
-      "link": "http://shinewing.com.au/",
-      "visibleLink": "shinewing.com.au",
+      "link": [
+        {
+          "url" : "http://shinewing.com.au/",
+          "title" : "shinewing.com.au"
+        }
+      ],
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
       "highlights": [],
@@ -223,8 +259,12 @@
     },
     {
       "title": "Healthy Together Victoria",
-      "link": "http://healthytogether.vic.gov.au/",
-      "visibleLink": "healthytogether.vic.gov.au",
+      "link": [
+        {
+          "url" : "http://healthytogether.vic.gov.au/",
+          "title" : "healthytogether.vic.gov.au"
+        }
+      ],
       "role": "Front-end Developer",
       "headline": "The Program Victorian Government intiative to bring communities together in a united effort for better health.",
       "highlights": [
@@ -236,23 +276,35 @@
     },
     {
       "title": "Reece Group",
-      "link": "http://www.reecegroup.com.au/",
-      "visibleLink": "www.reecegroup.com.au",
+      "link": [
+        {
+          "url" : "http://www.reecegroup.com.au/",
+          "title" : "www.reecegroup.com.au"
+        }
+      ],
       "headline": "",
       "active": true
     },
     {
       "title": "Reece Limited",
-      "link": "https://www.reece.com.au/aboutus/history",
-      "visibleLink": "www.reece.com.au",
+      "link": [
+        {
+          "url" : "https://www.reece.com.au/aboutus/history",
+          "title" : "www.reece.com.au"
+        }
+      ],
       "role": "Front-end Developer",
       "active": true,
       "showFull": false
     },
     {
       "title": "Hatch Growth",
-      "link": "http://hatchgrowth.com.au/",
-      "visibleLink": "hatchgrowth.com.au",
+      "link": [
+        {
+          "url" : "http://hatchgrowth.com.au/",
+          "title" : "hatchgrowth.com.au"
+        }
+      ],
       "active": true,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "",
@@ -262,8 +314,12 @@
     },
     {
       "title": "Corrs Chambers Westgarth",
-      "link": "http://www.corrs.com.au/",
-      "visibleLink": "www.corrs.com.au",
+      "link": [
+        {
+          "url" : "http://www.corrs.com.au/",
+          "title" : "www.corrs.com.au"
+        }
+      ],
       "active": true,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
@@ -278,8 +334,12 @@
     },
     {
       "title": "Russell Kennedy",
-      "link": "http://www.rk.com.au/",
-      "visibleLink": "www.rk.com.au",
+      "link": [
+        {
+          "url" : "http://www.rk.com.au/",
+          "title" : "www.rk.com.au"
+        }
+      ],
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "",
       "highlights": [],
@@ -289,8 +349,12 @@
     },
     {
       "title": "Arquilla Wine",
-      "link": "http://www.arquilla-wine.com/",
-      "visibleLink": "www.arquilla-wine.com",
+      "link": [
+        {
+          "url": "http://www.arquilla-wine.com/",
+          "title": "www.arquilla-wine.com"
+        }
+      ],
       "role": "Front-end Developer / Full Stack Developer",
       "active": true
     },
@@ -308,59 +372,99 @@
     },
     {
       "title": "Thermeco window systems",
-      "visibleLink": "thermeco.com.au",
-      "link": "http://thermeco.com.au/",
+      "link": [
+        {
+          "url" : "http://thermeco.com.au/",
+          "title" : "thermeco.com.au"
+        }
+      ],
       "active": true
     },
     {
       "title": "Landers & Rogers Lawyers",
-      "visibleLink": "landers.com.au",
-      "link": "http://landers.com.au/",
+      "link": [
+        {
+          "url" : "http://landers.com.au/",
+          "title" : "landers.com.au"
+        }
+      ],
       "active": false
     },
     {
       "title": "Victorian Opera",
-      "visibleLink": "victorianopera.com.au",
-      "link": "http://victorianopera.com.au/",
+      "link": [
+        {
+          "url" : "http://victorianopera.com.au/",
+          "title" : "victorianopera.com.au"
+        }
+      ],
       "active": false
     },
     {
       "title": "The Enchanted Ball",
-      "visibleLink": "enchantedball.com.au",
-      "link": "http://enchantedball.com.au/",
+      "link": [
+        {
+          "url" : "http://enchantedball.com.au/",
+          "title" : "enchantedball.com.au"
+        }
+      ],
       "active": false
     },
     {
       "title": "",
-      "visibleLink": "vaccho.org.au",
-      "link": "http://vaccho.org.au/",
+      "link": [
+        {
+          "url" : "http://vaccho.org.au/",
+          "title" : "vaccho.org.au"
+        }
+      ],
       "active": false
     },
     {
-      "visibleLink": "globalenglish.com",
-      "link": "http://globalenglish.com/",
+      "link": [
+        {
+          "url" : "http://globalenglish.com/",
+          "title" : "globalenglish.com"
+        }
+      ],
       "active": false
     },
     {
-      "visibleLink": "ayurvedapura.com",
-      "link": "http://ayurvedapura.com/",
+      "link": [
+        {
+          "url" : "http://ayurvedapura.com/",
+          "title" : "ayurvedapura.com"
+        }
+      ],
       "active": false
     },
     {
       "title": "One Lingo (APP)",
-      "visibleLink": "apps.globalenglish.com/lingo",
-      "link": "http://apps.globalenglish.com/lingo/",
+      "link": [
+        {
+          "url" : "http://apps.globalenglish.com/lingo/",
+          "title" : "apps.globalenglish.com/lingo"
+        }
+      ],
       "active": false
     },
     {
       "title": "Euro Window",
-      "visibleLink": "eurowindow.com.au",
-      "link": "http://eurowindow.com.au/",
+      "link": [
+        {
+          "url" : "http://eurowindow.com.au/",
+          "title" : "eurowindow.com.au"
+        }
+      ],
       "active": false
     },
     {
-      "visibleLink": "antonpunith.github.com/jQuery-Canvas-Charts",
-      "link": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+      "link": [
+        {
+          "url" : "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+          "title": "antonpunith.github.com/jQuery-Canvas-Charts"
+        }
+      ],
       "active": false
     }
   ],
@@ -373,8 +477,17 @@
       "startDate": "2018-09-03",
       "endDate": "",
       "isCurrent": true,
-      "summary": "",
-      "highlights": []
+      "summary": "Loud&Clear (now part of Avanade) is a team of digital natives who love building future-ready businesses. They do this by combining design thinking, data-driven insights and well-drilled development capabilities to build products and platforms that inspire and capture the imagination.",
+      "highlights": [
+        {
+          "text": "Worked on Drupal 8 multisite with Vue js and Sitecore 9 applications.",
+          "active": true
+        },
+        {
+          "text": "Led the front end development for projects.",
+          "active": true
+        }
+      ]
     },
     {
       "company": "Custom Fleet",
@@ -387,8 +500,18 @@
       "isCurrent": false,
       "summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
       "highlights": [
-        "A React Native Greenfields project",
-        "Championed agile and scrum methodology"
+        {
+          "text": "Built Custom Fleet's first app for the Australian market.",
+          "active": true
+        },
+        {
+          "text": "Championed agile and scrum methodology.",
+          "active": true
+        },
+        {
+          "text": "Successfully completed the React Native Greenfields project in time.",
+          "active": true
+        }
       ]
     },
     {
@@ -401,10 +524,22 @@
       "endDate": "2018-05-04",
       "summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
       "highlights": [
-        "Worked on a React JS Project, Node and npm packages",
-        "Did user research to build tools that would benefit them the most with iterative development.",
-        "Worked with various stakeholders and involved all phases of feature development",
-        "Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe)."
+        {
+          "text": "Worked with various stakeholders and involved all phases of feature development",
+          "active": true
+        },
+        {
+          "text": "Worked on a React JS Project, Node and npm packages",
+          "active": false
+        },
+        {
+          "text": "Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe).",
+          "active": true
+        },
+        {
+          "text": "Did user research to build tools that would benefit them the most with iterative development.",
+          "active": true
+        }
       ]
     },
     {
@@ -415,12 +550,25 @@
       "website": "https://persuit.com/",
       "startDate": "2015-09-14",
       "endDate": "2016-06-08",
-      "summary": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
+      "summary": "PERSUIT is an outside counsel management platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice",
+      "summary1": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
       "highlights": [
-        "React JS (single page application) SPA with Node and Webpack.",
-        "Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
-        "Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
-        "Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release."
+        {
+          "text": "React JS SPA (single page application) with Node and Webpack.",
+          "active": true
+        },
+        {
+          "text": "Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
+          "active": true
+        },
+        {
+          "text": "Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
+          "active": true
+        },
+        {
+          "text": "Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release.",
+          "active": true
+        }
       ]
     },
     {
@@ -433,8 +581,14 @@
       "endDate": "2015-09-11",
       "summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
       "highlights": [
-        "Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
-        "Improved development practices and dictated best practices. Worked to optimize websites using various techniques."
+        {
+          "text": "Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
+          "active": true
+        },
+        {
+          "text": "Improved development practices and dictated best practices. Worked to optimize websites using various techniques.",
+          "active": true
+        }
       ]
     },
     {
@@ -445,13 +599,29 @@
       "website": "http://cognizant.com/",
       "startDate": "2012-07-11",
       "endDate": "2013-09-13",
-      "summary": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015, the Fortune magazine named it as the world's fourth most admired IT services company. Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
+      "summary1": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015",
+      "summary": "Named as the world's fourth most admired IT services company by Fortune magazine in 2015, Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
       "highlights": [
-        "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
-        "To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time and no less.",
-        "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-        "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
-        "Train freshers and juniors in emmerging technologies."
+        {
+          "text": "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
+          "active" : true
+        },
+        {
+          "text": "To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time.",
+          "active" : false
+        },
+        {
+          "text": "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
+          "active" : true
+        },
+        {
+          "text": "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
+          "active" : true
+        },
+        {
+          "text": "Train freshers and juniors in emmerging technologies.",
+          "active" : false
+        }
       ]
     },
     {
@@ -464,9 +634,18 @@
       "endDate": "2012-06-30",
       "summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
       "highlights": [
-        " Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
-        "Worked in high performing small Agile teams with scrum, building features of high business value.",
-        "Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS"
+        {
+          "text": "Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
+          "active": true
+        },
+        {
+          "text": "Worked in high performing small Agile teams with scrum, building features of high business value.",
+          "active": true
+        },
+        {
+          "text": "Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS",
+          "active": true
+        }
       ]
     },
     {
