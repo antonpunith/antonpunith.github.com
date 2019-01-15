@@ -28,7 +28,7 @@
   "headlines": [{
     "active": true,
     "position": "Versatile UI / Front End developer",
-    "careerStart": "2007-03-01",
+    "careerStart": "2008-08-05",
     "skill": "front-end development for web and devices"
   }],
   "objectives": [{
@@ -152,8 +152,7 @@
       "highlights": [
         "Used by over a hundred thousand users every day.",
         "Worked in a cohesive, fast-paced team, working with the business to deliver features.",
-        "Development along with operations support.",
-        "Agile with SAFe",
+        "Development along with operations support and agile development with SAFe.",
         "Unit testing and functional testing"
       ],
       "technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
@@ -600,7 +599,7 @@
       "startDate": "2012-07-11",
       "endDate": "2013-09-13",
       "summary1": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015",
-      "summary": "Named as the world's fourth most admired IT services company by Fortune magazine in 2015, Cognizant is organized into several verticals and horizontal units. And I had the opportunity to work for Cognizant Interactive a horizontal that caters to the front-end needs of multiple projects.",
+      "summary": "Cognizant was named world's fourth most admired IT services company by Fortune magazine in 2015, and I worked for Cognizant Interactive a branch that caters to the front-end needs of multiple projects.",
       "highlights": [
         {
           "text": "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
@@ -612,10 +611,10 @@
         },
         {
           "text": "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-          "active" : true
+          "active" : false
         },
         {
-          "text": "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects.",
+          "text": "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects. Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
           "active" : true
         },
         {
@@ -635,7 +634,7 @@
       "summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
       "highlights": [
         {
-          "text": "Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes.",
+          "text": "Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes. Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS",
           "active": true
         },
         {
@@ -644,6 +643,22 @@
         },
         {
           "text": "Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS",
+          "active": false
+        }
+      ]
+    },
+    {
+      "company": "Netaxis IT Solutions P Ltd.",
+      "position": "Web designer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "",
+      "startDate": "2008-08-05",
+      "endDate": "2010-01-18",
+      "summary": "I started my career at Netaxis designing and building website templates for various CMSs.",
+      "highlights": [
+        {
+          "text": "Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging.",
           "active": true
         }
       ]
@@ -658,7 +673,7 @@
       "endDate": "2010-01-18",
       "highlights": [
         "Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
-        "Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging."
+        ""
       ],
       "hidden": true
     }
