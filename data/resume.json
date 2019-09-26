@@ -475,7 +475,18 @@
       "website": "https://www.emsbk.com/",
       "startDate": "2018-02-12",
       "endDate": "",
-      "isCurrent": true
+      "isCurrent": true,
+      "summary": "Starting work on a new project with the latest and the greatest tech including React, GraphQL, Typescript..."
+      "highlights": [
+        {
+          "text": "Built an npm package for the design system to be used across ogranisation.",
+          "active": true
+        },
+        {
+          "text": "Led the front end development for projects.",
+          "active": false
+        }
+      ]
     },
     {
       "company": "Avanade (Loud & Clear)",
