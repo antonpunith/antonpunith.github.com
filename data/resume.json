@@ -37,11 +37,11 @@
   }],
   "summary": [{
       "active": true,
-      "text": "Over 4 Years experience in React Js and production experience React Native."
+      "text": "Over 4 Years production level experience in React Js and in React Native."
     },
     {
       "active": true,
-      "text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, npm, Node, jQuery, AJAX and JSON."
+      "text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, GraphQL, npm, Node, jQuery, AJAX and JSON."
     },
     {
       "active": true,
@@ -82,22 +82,34 @@
     },
     {
       "title": "Languages / Frameworks",
-      "values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Jest", "Webpack", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
+      "values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Flux", "GraphQL", "Webpack", "Jest", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
     },
     {
       "title": "Version Tools",
       "values": ["Git", "Git CLI", "SourceTree"]
     },
     {
-      "title": "PHP CMS",
-      "values": ["SilverStripe", "WordPress", "Drupal", "Magento", "Joomla", "Zencart"]
+      "title": "CMS",
+      "values": ["Drupal", "SilverStripe", "Umbraco", "WordPress",  "Magento", "Joomla", "Zencart"]
     },
     {
       "title": "IDE & Software",
-      "values": ["Photoshop", "Illustrator", "Atom", "Sublime Text"]
+      "values": ["VS Code", "Sketch", "Zeplin", "Visual Studio", "Photoshop", "Illustrator", "Atom", "Sublime Text"]
     }
   ],
   "projects": [
+    {
+      "title": "ANOMSX",
+      "active": true,
+      "showFull": true,
+      "role": "Senior React Developer",
+      "headline": "We are developing a new product which is a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
+      "highlights": [
+        "Built a react design system as an npm package to be used accross projects in the organisation.",
+        "Worked on CI CD with Azure devops"
+      ],
+      "technologies": ["React", "Flux", "GraphQL", "Mapbox", "Deck.gl", "Typescript", "Azure DevOPs"]
+    },
     {
         "title": "Solotel multisite",
         "active": true,
