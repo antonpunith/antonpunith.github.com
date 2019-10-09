@@ -82,7 +82,7 @@
     },
     {
       "title": "Languages / Frameworks",
-      "values": ["HTML5", "CSS3", "JavaScript", "Ajax", "JSON", "React JS", "Redux", "Flux", "GraphQL", "Webpack", "Jest", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
+      "values": ["JavaScript", "Typescript", "HTML5", "CSS3", "Ajax", "JSON", "React JS", "Redux", "Flux", "GraphQL", "Webpack", "Jest", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
     },
     {
       "title": "Version Tools",
@@ -94,7 +94,7 @@
     },
     {
       "title": "IDE & Software",
-      "values": ["VS Code", "Sketch", "Zeplin", "Visual Studio", "Photoshop", "Illustrator", "Atom", "Sublime Text"]
+      "values": ["Visual Studio Code", "Sketch", "Zeplin", "Visual Studio", "Photoshop", "Illustrator", "Atom", "Sublime Text"]
     }
   ],
   "projects": [
@@ -481,7 +481,7 @@
   ],
   "work": [{
       "company": "EMS Bruel & Kjaer",
-      "position": "Senior Front End Developer - React js",
+      "position": "Senior React Developer",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://www.emsbk.com/",
@@ -502,7 +502,7 @@
     },
     {
       "company": "Avanade (Loud & Clear)",
-      "position": "Front End Developer - React js",
+      "position": "Senior Front End Developer - React js",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
