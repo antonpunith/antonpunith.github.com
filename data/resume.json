@@ -47,17 +47,18 @@
       "active": true,
       "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
     },
+
     {
       "active": true,
-      "text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
-    },
-    {
-      "active": true,
-      "text": "Experience using npm and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
+      "text": "Experience building npm packages and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
     },
     {
       "active": false,
       "text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
+    },
+    {
+      "active": true,
+      "text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
     },
     {
       "active": true,
@@ -103,26 +104,52 @@
       "active": true,
       "showFull": true,
       "role": "Senior React Developer",
-      "headline": "We are developing a new product which is a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
+      "headline": "ANOMSX is a a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
       "highlights": [
-        "Built a react design system as an npm package to be used accross projects in the organisation.",
-        "Worked on CI CD with Azure devops"
+        "A complex application with requirement to visualize huge data on screen and map, challenging the limits of what a web application can do.",
+        "Built a design system as an npm package to be used accross projects in the organisation.",
+        "Created build and release pipelines in Azure for Continous Integration and Continous Deployment.",
+        "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
       ],
-      "technologies": ["React", "Flux", "GraphQL", "Mapbox", "Deck.gl", "Typescript", "Azure DevOPs"]
+      "technologies": ["React", "Flux", "GraphQL", "MapBox", "Deck.gl", "Typescript", "Azure DevOPs"]
     },
     {
-        "title": "Solotel multisite",
-        "active": true,
-        "showFull": true,
-        "role": "Front End Developer - Vue js",
-        "headline": "Solotel is one of Australia's largest hospitality groups with venues in Brisbane and Sydney. For it's 30+ restaurants, bars, pubs, bistros, Solotel needed implementation of a new customer facing Digital Platform including a new Reservation Management System (Dimmi), CMS (Drupal 8), and rebuild their 30+ websites.",
-        "highlights": [
-          "Led the front end development for the project.",
-          "Built drupal components in twig and worked on integration.",
-          "Built many vue components used across the sites and using multiple configurations."
-        ],
-        "technologies": ["Vue js", "SASS", "Drupal 8", "Node", "Twig", "Docker", "Lando", "Drush", "Ahoy CLI"]
-      },
+      "title": "Solotel multisite",
+      "link": [
+        {
+          "url": "https://www.solotel.com.au/",
+          "title": "Solotel"
+        },
+        {
+          "url": "https://www.ariasydney.com.au/",
+          "title": "Aria"
+        },
+        {
+          "url": "https://www.barangaroohouse.com.au/",
+          "title": "Barangaroo House"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Front End Developer - Vue js",
+      "headline": "Solotel is one of Australia's largest hospitality groups with venues in Brisbane and Sydney. For it's 30+ restaurants, bars, pubs, bistros, Solotel needed implementation of a new customer facing Digital Platform including a new Reservation Management System (Dimmi), CMS (Drupal 8), and rebuild their 30+ websites.",
+      "highlights": [
+        "Led the front end development for the project.",
+        "Built drupal components in twig and worked on integration.",
+        "Built many vue components used across the sites and using multiple configurations."
+      ],
+      "technologies": [
+        "Vue js",
+        "SASS",
+        "Drupal 8",
+        "Node",
+        "Twig",
+        "Docker",
+        "Lando",
+        "Drush",
+        "Ahoy CLI"
+      ]
+    },
     {
       "title": "Custom Fleet Drive",
       "link": [
@@ -142,10 +169,9 @@
       "highlights": [
         "Led the native development effort, dictating best practices and strategy",
         "React Native with Redux, Thunk",
-        "Built development environment from scratch for the Greenfields project.",
+        "Built development environment from scratch including mock APIs for the Greenfields project.",
         "User Authentication and APIs with OAuth 2.0.",
-        "Push Notification to targeted users with AWS integration.",
-        "Mock server using Express."
+        "Push Notification to targeted users with AWS integration."
       ],
       "technologies": ["React JS", "React Native", "Redux", "OAuth2", "Express", "AWS"]
     },
@@ -162,10 +188,9 @@
       "role": "Senior Front-end Developer - React js",
       "headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
       "highlights": [
-        "Used by over a hundred thousand users every day.",
-        "Worked in a cohesive, fast-paced team, working with the business to deliver features.",
-        "Development along with operations support and agile development with SAFe.",
-        "Unit testing and functional testing"
+        "Application used by over a hundred thousand users every day.",
+        "Worked in a cohesive, fast-paced team with SAFe agile, working with the business to deliver features.",
+        "Development along with unit and functional testing, operations support."
       ],
       "technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
     },
@@ -208,7 +233,7 @@
         }
       ],
       "active": true,
-      "showFull": false,
+      "showFull": true,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
       "highlights": [
@@ -217,6 +242,18 @@
         "Custom AJAX for multiple pages with complex tagging and filtering mechanism."
       ],
       "technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
+    },
+    {
+      "title": "Australian Home Care Services",
+      "link": [
+        {
+          "url" : "https://ahcs.org.au",
+          "title" : "ahcs.org.au"
+        }
+      ],
+      "role": "Full Stack Developer",
+      "active": true,
+      "showFull": false
     },
     {
       "title": "Thermann",
@@ -488,15 +525,19 @@
       "startDate": "2019-02-12",
       "endDate": "",
       "isCurrent": true,
-      "summary": "Starting work on a new project with the latest and the greatest tech including React, GraphQL, Typescript...",
+      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, we eliminating the need to purchase, integrate and maintain complex solutions.",
       "highlights": [
         {
-          "text": "Built an npm package for the design system to be used across ogranisation.",
+          "text": "Built a complex web application that visualises large data sets and related geospatial data.",
           "active": true
         },
         {
-          "text": "Led the front end development for projects.",
-          "active": false
+          "text": "Worked on the latest and the greatest in technology like React, GraphQL, Typescript, Mapbox, Deck.gl.",
+          "active": true
+        },
+        {
+          "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
+          "active": true
         }
       ]
     },
