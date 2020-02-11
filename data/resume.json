@@ -13,7 +13,8 @@
       "countryCode": "au",
       "region": "Melbourne"
     },
-    "profiles": [{
+    "profiles": [
+      {
         "network": "Linkedin",
         "username": "antonpunith",
         "url": "https://www.linkedin.com/in/antonpunith"
@@ -25,17 +26,22 @@
       }
     ]
   },
-  "headlines": [{
-    "active": true,
-    "position": "Versatile UI / Front End developer",
-    "careerStart": "2008-08-05",
-    "skill": "front-end development for web and devices"
-  }],
-  "objectives": [{
-    "active": true,
-    "text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfil my cravings to learn new technologies and constantly self-improve."
-  }],
-  "summary": [{
+  "headlines": [
+    {
+      "active": true,
+      "position": "Versatile UI / Front End developer",
+      "careerStart": "2008-08-05",
+      "skill": "front-end development for web and devices"
+    }
+  ],
+  "objectives": [
+    {
+      "active": true,
+      "text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfil my cravings to learn new technologies and constantly self-improve."
+    }
+  ],
+  "summary": [
+    {
       "active": true,
       "text": "Over 4 Years production level experience in React Js and in React Native."
     },
@@ -77,13 +83,48 @@
       "text": "Expert at design tools like Photoshop and Illustrator."
     }
   ],
-  "skills": [{
+  "skills": [
+    {
       "title": "Operating Systems",
       "values": ["Mac (Preference) ", "Linux", "Windows"]
     },
     {
       "title": "Languages / Frameworks",
-      "values": ["JavaScript", "Typescript", "HTML5", "CSS3", "Ajax", "JSON", "React JS", "Redux", "Flux", "GraphQL", "Webpack", "Jest", "Grunt", "Gulp", "Selenium with Python", "jQuery", "SASS", "LESS", "Karma", "Jasmine", "Twitter Bootstrap", "Alt Flux", "Vagrant", "PHP", "MySQL", "XML", "Maven", "Jenkins", "dojo", "Angular Js", "Moustache JS", "Handlebars JS", "eslint"]
+      "values": [
+        "JavaScript",
+        "Typescript",
+        "HTML5",
+        "CSS3",
+        "Ajax",
+        "JSON",
+        "React JS",
+        "Redux",
+        "Flux",
+        "GraphQL",
+        "Webpack",
+        "Jest",
+        "Grunt",
+        "Gulp",
+        "Selenium with Python",
+        "jQuery",
+        "SASS",
+        "LESS",
+        "Karma",
+        "Jasmine",
+        "Twitter Bootstrap",
+        "Alt Flux",
+        "Vagrant",
+        "PHP",
+        "MySQL",
+        "XML",
+        "Maven",
+        "Jenkins",
+        "dojo",
+        "Angular Js",
+        "Moustache JS",
+        "Handlebars JS",
+        "eslint"
+      ]
     },
     {
       "title": "Version Tools",
@@ -91,11 +132,28 @@
     },
     {
       "title": "CMS",
-      "values": ["Drupal", "SilverStripe", "Umbraco", "WordPress",  "Magento", "Joomla", "Zencart"]
+      "values": [
+        "Drupal",
+        "SilverStripe",
+        "Umbraco",
+        "WordPress",
+        "Magento",
+        "Joomla",
+        "Zencart"
+      ]
     },
     {
       "title": "IDE & Software",
-      "values": ["Visual Studio Code", "Sketch", "Zeplin", "Visual Studio", "Photoshop", "Illustrator", "Atom", "Sublime Text"]
+      "values": [
+        "Visual Studio Code",
+        "Sketch",
+        "Zeplin",
+        "Visual Studio",
+        "Photoshop",
+        "Illustrator",
+        "Atom",
+        "Sublime Text"
+      ]
     }
   ],
   "projects": [
@@ -111,7 +169,15 @@
         "Created build and release pipelines in Azure for Continous Integration and Continous Deployment.",
         "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
       ],
-      "technologies": ["React", "Flux", "GraphQL", "MapBox", "Deck.gl", "Typescript", "Azure DevOPs"]
+      "technologies": [
+        "React",
+        "Flux",
+        "GraphQL",
+        "MapBox",
+        "Deck.gl",
+        "Typescript",
+        "Azure DevOPs"
+      ]
     },
     {
       "title": "Solotel multisite",
@@ -154,12 +220,12 @@
       "title": "Custom Fleet Drive",
       "link": [
         {
-          "url" : "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
-          "title" : "iOS app"
+          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
+          "title": "iOS app"
         },
         {
-          "url" : "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
-          "title" : "Android app"
+          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
+          "title": "Android app"
         }
       ],
       "active": true,
@@ -173,14 +239,21 @@
         "User Authentication and APIs with OAuth 2.0.",
         "Push Notification to targeted users with AWS integration."
       ],
-      "technologies": ["React JS", "React Native", "Redux", "OAuth2", "Express", "AWS"]
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Redux",
+        "OAuth2",
+        "Express",
+        "AWS"
+      ]
     },
     {
       "title": "my.monash",
       "link": [
         {
-          "url" : "http://my.monash/",
-          "title" : "http://my.monash"
+          "url": "http://my.monash/",
+          "title": "http://my.monash"
         }
       ],
       "active": true,
@@ -192,14 +265,20 @@
         "Worked in a cohesive, fast-paced team with SAFe agile, working with the business to deliver features.",
         "Development along with unit and functional testing, operations support."
       ],
-      "technologies": ["React JS", "LESS", "Node", "Jest", "Selenium with Python"]
+      "technologies": [
+        "React JS",
+        "LESS",
+        "Node",
+        "Jest",
+        "Selenium with Python"
+      ]
     },
     {
       "title": "My online profile",
       "link": [
         {
-          "url" : "http://antonpunith.github.io/",
-          "title" : "antonpunith.github.io"
+          "url": "http://antonpunith.github.io/",
+          "title": "antonpunith.github.io"
         }
       ],
       "active": true,
@@ -222,14 +301,22 @@
         "Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
         "Worked with an excellent team of developers to strict coding and development process standards. "
       ],
-      "technologies": ["React with Alt", "Webpack", "ES2015 using Babel", "SASS", "Node", "Vagrant", "Karma"]
+      "technologies": [
+        "React with Alt",
+        "Webpack",
+        "ES2015 using Babel",
+        "SASS",
+        "Node",
+        "Vagrant",
+        "Karma"
+      ]
     },
     {
       "title": "Griffith Hack",
       "link": [
         {
-          "url" : "http://www.griffithhack.com/",
-          "title" : "griffithhack.com"
+          "url": "http://www.griffithhack.com/",
+          "title": "griffithhack.com"
         }
       ],
       "active": true,
@@ -241,14 +328,24 @@
         "Built customisable templates to allow the client to change the layouts, themes, colours, images and content of the pages easily.",
         "Custom AJAX for multiple pages with complex tagging and filtering mechanism."
       ],
-      "technologies": ["SilverStripe", "SASS", "Bootstrap", "Icon Fonts", "Bower", "Grunt", "Compass", "JavaScript", "jQuery"]
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "Icon Fonts",
+        "Bower",
+        "Grunt",
+        "Compass",
+        "JavaScript",
+        "jQuery"
+      ]
     },
     {
       "title": "Australian Home Care Services",
       "link": [
         {
-          "url" : "https://ahcs.org.au",
-          "title" : "ahcs.org.au"
+          "url": "https://ahcs.org.au",
+          "title": "ahcs.org.au"
         }
       ],
       "role": "Full Stack Developer",
@@ -259,14 +356,21 @@
       "title": "Thermann",
       "link": [
         {
-          "url" : "http://www.thermann.com.au/",
-          "title" : "www.thermann.com.au"
+          "url": "http://www.thermann.com.au/",
+          "title": "www.thermann.com.au"
         }
       ],
       "role": "Front-end Developer",
       "headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
       "highlights": [],
-      "technologies": ["AngularJS", "SASS", "Bootstrap", "JavaScript", "jQuery", "Smarty(PHP)"],
+      "technologies": [
+        "AngularJS",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery",
+        "Smarty(PHP)"
+      ],
       "active": true,
       "showFull": false
     },
@@ -274,8 +378,8 @@
       "title": "Whitbread Insurance Brokers",
       "link": [
         {
-          "url" : "http://whitbread.com.au/",
-          "title" : "whitbread.com.au"
+          "url": "http://whitbread.com.au/",
+          "title": "whitbread.com.au"
         }
       ],
       "active": true,
@@ -288,20 +392,32 @@
         "Custom Lucene search with a custom layout.",
         "Multiple contact forms on different pages to customisable contacts."
       ],
-      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"]
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ]
     },
     {
       "title": "ShineWing",
       "link": [
         {
-          "url" : "http://shinewing.com.au/",
-          "title" : "shinewing.com.au"
+          "url": "http://shinewing.com.au/",
+          "title": "shinewing.com.au"
         }
       ],
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
       "highlights": [],
-      "technologies": ["SilverStripe", "Bootstrap", "JavaScript", "jQuery", "SASS"],
+      "technologies": [
+        "SilverStripe",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery",
+        "SASS"
+      ],
       "active": true,
       "showFull": false
     },
@@ -309,8 +425,8 @@
       "title": "Healthy Together Victoria",
       "link": [
         {
-          "url" : "http://healthytogether.vic.gov.au/",
-          "title" : "healthytogether.vic.gov.au"
+          "url": "http://healthytogether.vic.gov.au/",
+          "title": "healthytogether.vic.gov.au"
         }
       ],
       "role": "Front-end Developer",
@@ -326,8 +442,8 @@
       "title": "Reece Group",
       "link": [
         {
-          "url" : "http://www.reecegroup.com.au/",
-          "title" : "www.reecegroup.com.au"
+          "url": "http://www.reecegroup.com.au/",
+          "title": "www.reecegroup.com.au"
         }
       ],
       "headline": "",
@@ -337,8 +453,8 @@
       "title": "Reece Limited",
       "link": [
         {
-          "url" : "https://www.reece.com.au/aboutus/history",
-          "title" : "www.reece.com.au"
+          "url": "https://www.reece.com.au/aboutus/history",
+          "title": "www.reece.com.au"
         }
       ],
       "role": "Front-end Developer",
@@ -349,23 +465,29 @@
       "title": "Hatch Growth",
       "link": [
         {
-          "url" : "http://hatchgrowth.com.au/",
-          "title" : "hatchgrowth.com.au"
+          "url": "http://hatchgrowth.com.au/",
+          "title": "hatchgrowth.com.au"
         }
       ],
       "active": true,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "",
       "highlights": [],
-      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
       "showFull": false
     },
     {
       "title": "Corrs Chambers Westgarth",
       "link": [
         {
-          "url" : "http://www.corrs.com.au/",
-          "title" : "www.corrs.com.au"
+          "url": "http://www.corrs.com.au/",
+          "title": "www.corrs.com.au"
         }
       ],
       "active": true,
@@ -377,21 +499,33 @@
         "Wrote algoriths for various features like popularity",
         "Worked on custom search."
       ],
-      "technologies": ["SilverStripe", "SASS", "Bootstrap", "JavaScript", "jQuery"],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
       "showFull": false
     },
     {
       "title": "Russell Kennedy",
       "link": [
         {
-          "url" : "http://www.rk.com.au/",
-          "title" : "www.rk.com.au"
+          "url": "http://www.rk.com.au/",
+          "title": "www.rk.com.au"
         }
       ],
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "",
       "highlights": [],
-      "technologies": ["SilverStripe", "LESS", "Bootstrap", "JavaScript", "jQuery"],
+      "technologies": [
+        "SilverStripe",
+        "LESS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
       "active": true,
       "showFull": false
     },
@@ -416,14 +550,22 @@
         "Assess the current application and retrofit the page into mobile by making necessary changes.",
         "Customize the existing Dojo widgets to run on various form factors with performance optimization to run on Android Devices using IBM Worklight and Eclipse."
       ],
-      "technologies": ["IBM Worklight", "HTML5", "CSS3", "Dojo", "Eclipse", "SVN", "Android SDK"]
+      "technologies": [
+        "IBM Worklight",
+        "HTML5",
+        "CSS3",
+        "Dojo",
+        "Eclipse",
+        "SVN",
+        "Android SDK"
+      ]
     },
     {
       "title": "Thermeco window systems",
       "link": [
         {
-          "url" : "http://thermeco.com.au/",
-          "title" : "thermeco.com.au"
+          "url": "http://thermeco.com.au/",
+          "title": "thermeco.com.au"
         }
       ],
       "active": true
@@ -432,8 +574,8 @@
       "title": "Landers & Rogers Lawyers",
       "link": [
         {
-          "url" : "http://landers.com.au/",
-          "title" : "landers.com.au"
+          "url": "http://landers.com.au/",
+          "title": "landers.com.au"
         }
       ],
       "active": false
@@ -442,8 +584,8 @@
       "title": "Victorian Opera",
       "link": [
         {
-          "url" : "http://victorianopera.com.au/",
-          "title" : "victorianopera.com.au"
+          "url": "http://victorianopera.com.au/",
+          "title": "victorianopera.com.au"
         }
       ],
       "active": false
@@ -452,8 +594,8 @@
       "title": "The Enchanted Ball",
       "link": [
         {
-          "url" : "http://enchantedball.com.au/",
-          "title" : "enchantedball.com.au"
+          "url": "http://enchantedball.com.au/",
+          "title": "enchantedball.com.au"
         }
       ],
       "active": false
@@ -462,8 +604,8 @@
       "title": "",
       "link": [
         {
-          "url" : "http://vaccho.org.au/",
-          "title" : "vaccho.org.au"
+          "url": "http://vaccho.org.au/",
+          "title": "vaccho.org.au"
         }
       ],
       "active": false
@@ -471,8 +613,8 @@
     {
       "link": [
         {
-          "url" : "http://globalenglish.com/",
-          "title" : "globalenglish.com"
+          "url": "http://globalenglish.com/",
+          "title": "globalenglish.com"
         }
       ],
       "active": false
@@ -480,8 +622,8 @@
     {
       "link": [
         {
-          "url" : "http://ayurvedapura.com/",
-          "title" : "ayurvedapura.com"
+          "url": "http://ayurvedapura.com/",
+          "title": "ayurvedapura.com"
         }
       ],
       "active": false
@@ -490,8 +632,8 @@
       "title": "One Lingo (APP)",
       "link": [
         {
-          "url" : "http://apps.globalenglish.com/lingo/",
-          "title" : "apps.globalenglish.com/lingo"
+          "url": "http://apps.globalenglish.com/lingo/",
+          "title": "apps.globalenglish.com/lingo"
         }
       ],
       "active": false
@@ -500,8 +642,8 @@
       "title": "Euro Window",
       "link": [
         {
-          "url" : "http://eurowindow.com.au/",
-          "title" : "eurowindow.com.au"
+          "url": "http://eurowindow.com.au/",
+          "title": "eurowindow.com.au"
         }
       ],
       "active": false
@@ -509,14 +651,15 @@
     {
       "link": [
         {
-          "url" : "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+          "url": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
           "title": "antonpunith.github.com/jQuery-Canvas-Charts"
         }
       ],
       "active": false
     }
   ],
-  "work": [{
+  "work": [
+    {
       "company": "EMS Bruel & Kjaer",
       "position": "Senior React Developer",
       "location": "Melbourne",
@@ -677,23 +820,23 @@
       "highlights": [
         {
           "text": "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
-          "active" : true
+          "active": true
         },
         {
           "text": "To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time.",
-          "active" : false
+          "active": false
         },
         {
           "text": "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-          "active" : false
+          "active": false
         },
         {
           "text": "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects. Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
-          "active" : true
+          "active": true
         },
         {
           "text": "Train freshers and juniors in emmerging technologies.",
-          "active" : false
+          "active": false
         }
       ]
     },
@@ -752,12 +895,14 @@
       "hidden": true
     }
   ],
-  "education": [{
-    "institution": "MGIT (JNTU)",
-    "location": "Hyderabad",
-    "countryCode": "IN",
-    "area": "Information Technology",
-    "studyType": "Bachelor of Technology",
-    "endDate": "2007-08-30"
-  }]
+  "education": [
+    {
+      "institution": "MGIT (JNTU)",
+      "location": "Hyderabad",
+      "countryCode": "IN",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Technology",
+      "endDate": "2007-08-30"
+    }
+  ]
 }
