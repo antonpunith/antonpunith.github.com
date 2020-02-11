@@ -156,7 +156,22 @@
       ]
     }
   ],
+
   "projects": [
+    {
+      "title": "The React Workshop",
+      "active": true,
+      "showFull": true,
+      "role": "Co-Author",
+      "headline": "The React Workshop is an upcoming book published by Packt, a leading global publisher of technology books for computer programmers. This is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
+      "highlights": [
+        "Explored and analysed the philosophy behind application developement and in particular React Development.",
+        "Delved deep into React to understand the inner workings which will help me further in my journey with React.",
+        "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
+        "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
+      ],
+      "technologies": ["React"]
+    },
     {
       "title": "ANOMSX",
       "active": true,
@@ -341,6 +356,18 @@
       ]
     },
     {
+      "title": "Lifespace Probiotics",
+      "link": [
+        {
+          "url": "https://www.lifespaceprobiotics.com/en/",
+          "title": "www.lifespaceprobiotics.com"
+        }
+      ],
+      "role": "React Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
       "title": "Australian Home Care Services",
       "link": [
         {
@@ -352,6 +379,7 @@
       "active": true,
       "showFull": false
     },
+
     {
       "title": "Thermann",
       "link": [
@@ -526,7 +554,7 @@
         "JavaScript",
         "jQuery"
       ],
-      "active": true,
+      "active": false,
       "showFull": false
     },
     {
@@ -666,8 +694,8 @@
       "countryCode": "AU",
       "website": "https://www.emsbk.com/",
       "startDate": "2019-02-12",
-      "endDate": "",
-      "isCurrent": true,
+      "endDate": "2019-12-13",
+      "isCurrent": false,
       "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, we eliminating the need to purchase, integrate and maintain complex solutions.",
       "highlights": [
         {
