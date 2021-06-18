@@ -1,38 +1,49 @@
 {
-  "name": "anton-punith-profile",
-  "version": "1.0.0",
-  "description": "Profile",
-  "main": "index.js",
+  "name": "resume",
+  "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "start": "NODE_ENV=development webpack-dev-server",
-    "build": "NODE_ENV=production webpack"
-  },
-  "author": "Anton Punith",
-  "license": "MIT",
   "dependencies": {
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1",
-    "superagent": "^3.3.2"
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "country-data": "^0.0.31",
+    "moment": "^2.29.1",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-google-tag-manager": "^2.2.1",
+    "react-scripts": "4.0.3",
+    "superagent": "^6.1.0",
+    "typescript": "^4.1.2",
+    "underscore.string": "^3.3.5",
+    "web-vitals": "^1.0.1"
   },
-  "devDependencies": {
-    "babel-core": "^6.5.2",
-    "babel-loader": "^6.2.2",
-    "babel-preset-es2015": "^6.5.0",
-    "babel-preset-react": "^6.5.0",
-    "babel-preset-react-hmre": "^1.1.0",
-    "country-data": "0.0.25",
-    "css-loader": "^0.23.1",
-    "html-webpack-plugin": "^2.15.0",
-    "html-webpack-template": "^4.0.0",
-    "json-loader": "^0.5.4",
-    "moment": "^2.14.1",
-    "node-sass": "^4.9.2",
-    "react-google-tag-manager": "^1.1.2",
-    "sass-loader": "^4.0.0",
-    "style-loader": "^0.13.0",
-    "underscore.string": "^3.3.4",
-    "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
