@@ -51,9 +51,12 @@
     },
     {
       "active": true,
+      "text": "Expert in Git and version control and have worked with various CI CD tools for builds and deployments"
+    },
+    {
+      "active": true,
       "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
     },
-
     {
       "active": true,
       "text": "Experience building npm packages and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
@@ -76,83 +79,92 @@
     },
     {
       "active": true,
-      "text": "Expert in Git and version control."
-    },
-    {
-      "active": true,
       "text": "Expert at design tools like Photoshop and Illustrator."
     }
   ],
   "skills": [
     {
       "title": "Operating Systems",
-      "values": ["Mac (Preference) ", "Linux", "Windows"]
+      "values": [
+        { "name": "Mac (Preference) ", "active": true },
+        { "name": "Linux", "active": true },
+        { "name": "Windows", "active": true }
+      ]
     },
     {
       "title": "Languages / Frameworks",
       "values": [
-        "JavaScript",
-        "Typescript",
-        "HTML5",
-        "CSS3",
-        "Ajax",
-        "JSON",
-        "React JS",
-        "Redux",
-        "Flux",
-        "GraphQL",
-        "Webpack",
-        "Jest",
-        "Grunt",
-        "Gulp",
-        "Selenium with Python",
-        "jQuery",
-        "SASS",
-        "LESS",
-        "Karma",
-        "Jasmine",
-        "Twitter Bootstrap",
-        "Alt Flux",
-        "Vagrant",
-        "PHP",
-        "MySQL",
-        "XML",
-        "Maven",
-        "Jenkins",
-        "dojo",
-        "Angular Js",
-        "Moustache JS",
-        "Handlebars JS",
-        "eslint"
+        { "name": "JavaScript", "active": true },
+        { "name": "Typescript", "active": true },
+        { "name": "React JS", "active": true },
+        { "name": "HTML5", "active": true },
+        { "name": "CSS3", "active": true },
+        { "name": "eslint", "active": true },
+        { "name": "Redux", "active": true },
+        { "name": "Flux", "active": true },
+        { "name": "GraphQL", "active": true },
+        { "name": "Webpack", "active": true },
+        { "name": "Jest", "active": true },
+        { "name": "Python", "active": true },
+        { "name": "Grunt", "active": true },
+        { "name": "Gulp", "active": true },
+        { "name": "Selenium with Python", "active": true },
+        { "name": "jQuery", "active": true },
+        { "name": "SASS", "active": true },
+        { "name": "LESS", "active": true },
+        { "name": "Karma", "active": true },
+        { "name": "Jasmine", "active": true },
+        { "name": "Twitter Bootstrap", "active": true },
+        { "name": "Alt Flux", "active": true },
+        { "name": "Vagrant", "active": true },
+        { "name": "PHP", "active": true },
+        { "name": "MySQL", "active": true },
+        { "name": "XML", "active": true },
+        { "name": "Maven", "active": true },
+        { "name": "Jenkins", "active": true },
+        { "name": "dojo", "active": true },
+        { "name": "Angular Js", "active": true },
+        { "name": "Moustache JS", "active": true },
+        { "name": "Handlebars JS", "active": true },
+        { "name": "JSON", "active": false },
+        { "name": "Ajax", "active": false }
       ]
     },
     {
-      "title": "Version Tools",
-      "values": ["Git", "Git CLI", "SourceTree"]
-    },
-    {
-      "title": "CMS",
+      "title": "Source Control, Servers and Devops Tools",
       "values": [
-        "Drupal",
-        "SilverStripe",
-        "Umbraco",
-        "WordPress",
-        "Magento",
-        "Joomla",
-        "Zencart"
+        { "name": "Git", "active": true },
+        { "name": "Git CLI", "active": true },
+        { "name": "Azure Devops", "active": true },
+        { "name": "Azure Pipelines", "active": true },
+        { "name": "Jira", "active": true },
+        { "name": "Confluence", "active": true },
+        { "name": "AWS ecosystem", "active": true },
+        { "name": "bash scripting", "active": true },
+        { "name": "Bamboo", "active": true },
+        { "name": "SourceTree", "active": true }
       ]
     },
     {
-      "title": "IDE & Software",
+      "title": "Tools & Software",
       "values": [
-        "Visual Studio Code",
-        "Sketch",
-        "Zeplin",
-        "Visual Studio",
-        "Photoshop",
-        "Illustrator",
-        "Atom",
-        "Sublime Text"
+        { "name": "Visual Studio Code", "active": true },
+        { "name": "IntelliJ IDEA", "active": true },
+        { "name": "Visual Studio", "active": true },
+        { "name": "Sketch", "active": true },
+        { "name": "Figma", "active": true },
+        { "name": "Photoshop", "active": true },
+        { "name": "Illustrator", "active": true },
+        { "name": "Zeplin", "active": true },
+        { "name": "Atom", "active": true },
+        { "name": "Sublime Text", "active": false },
+        { "name": "Drupal", "active": true },
+        { "name": "SilverStripe", "active": true },
+        { "name": "Umbraco", "active": true },
+        { "name": "WordPress", "active": true },
+        { "name": "Magento", "active": true },
+        { "name": "Joomla", "active": true },
+        { "name": "Zencart", "active": true }
       ]
     }
   ],
@@ -211,7 +223,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Front End Developer - Vue js",
       "headline": "Solotel is one of Australia's largest hospitality groups with venues in Brisbane and Sydney. For it's 30+ restaurants, bars, pubs, bistros, Solotel needed implementation of a new customer facing Digital Platform including a new Reservation Management System (Dimmi), CMS (Drupal 8), and rebuild their 30+ websites.",
       "highlights": [
@@ -297,7 +309,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
       "highlights": [
         "Built from scratch to better understand Webpack and React and continue working with ES2015.",
@@ -335,7 +347,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
       "highlights": [
@@ -356,6 +368,30 @@
       ]
     },
     {
+      "title": "Lovemark",
+      "link": [
+        {
+          "url": "https://lovemark.com.au/",
+          "title": "lovemark.com.au"
+        }
+      ],
+      "role": "React Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Lovemark",
+      "link": [
+        {
+          "url": "https://lovemark.com.au/",
+          "title": "lovemark.com.au"
+        }
+      ],
+      "role": "React Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
       "title": "Lifespace Probiotics",
       "link": [
         {
@@ -364,7 +400,7 @@
         }
       ],
       "role": "React Developer",
-      "active": true,
+      "active": false,
       "showFull": false
     },
     {
@@ -687,6 +723,30 @@
     }
   ],
   "work": [
+    {
+      "company": "PwC Australia",
+      "position": "Senior Front End Engineer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.pwc.com.au/",
+      "startDate": "2020-03-02",
+      "isCurrent": true,
+      "summary": "One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
+      "highlights": [
+        {
+          "text": "Built a complex web application that visualises large data sets and related geospatial data.",
+          "active": true
+        },
+        {
+          "text": "Worked on the latest and the greatest in technology like React, GraphQL, Typescript, Mapbox, Deck.gl.",
+          "active": true
+        },
+        {
+          "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
+          "active": true
+        }
+      ]
+    },
     {
       "company": "EMS Bruel & Kjaer",
       "position": "Senior React Developer",
