@@ -32,7 +32,7 @@ const Projects = ({ projects }) => {
 			return null;
 		}
 		if (project.link.length) {
-			return project.link.map((link) => (<span> - <a href={link.url} target="_blank"><small>{link.title}</small></a></span>))
+			return project.link.map((link) => (<span key={link}> - <a href={link.url} target="_blank"><small>{link.title}</small></a></span>))
 		}
 		return '';
 	}

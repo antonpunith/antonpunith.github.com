@@ -2,9 +2,6 @@ import React from 'react';
 import styles from './styles.scss';
 
 const ProjectLinks = ({ projectLinks }) => {
-
-
-
 	const renderTitle = (link) => {
 		if (link.title) {
 			return (link.title);
@@ -14,13 +11,12 @@ const ProjectLinks = ({ projectLinks }) => {
 		}
 		return (link.link);
 	}
-
-	const renderLinks = (link, key) => {
+	const renderLinks = (link) => {
 		return (
-			<li key={key}>{renderTitle(link)} - {link.link.map((link) => <a href={link.url} target="_blank">{link.title}</a>)}</li>
+			// eslint-disable-next-line react/jsx-no-target-blank
+			<li key={link}>{renderTitle(link)} - {link.link.map((link) => <a href={link.url} target="_blank">{link.title}</a>)}</li>
 		);
 	}
-
 
 	if (!projectLinks || projectLinks.length)
 		return (
@@ -31,8 +27,6 @@ const ProjectLinks = ({ projectLinks }) => {
 				</ul>
 			</div>
 		);
-
-
 };
 
 export default ProjectLinks;
