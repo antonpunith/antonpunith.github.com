@@ -9,6 +9,7 @@ import Work from "./components/Work";
 import Education from "./components/Education";
 import GoogleTagManager from "../GoogleTagManager";
 var request = require("superagent");
+import resumeData from "../../../data/resume.json";
 
 export default React.createClass({
   displayName: "Resume",
@@ -18,10 +19,14 @@ export default React.createClass({
   },
 
   componentDidMount() {
-    var Resume = this;
-    request.get(this.props.url).end(function(err, res) {
-      Resume.setState({ data: JSON.parse(res.text) });
-    });
+    if (window.location.hostname === "localhost") {
+      this.setState({ data: resumeData });
+    } else {
+      var Resume = this;
+      request.get(this.props.url).end(function (err, res) {
+        Resume.setState({ data: JSON.parse(res.text) });
+      });
+    }
   },
 
   render() {
@@ -44,5 +49,5 @@ export default React.createClass({
         <GoogleTagManager gtmId="GTM-TN2FKV" />
       </div>
     );
-  }
+  },
 });

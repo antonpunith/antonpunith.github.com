@@ -19,7 +19,7 @@ export default React.createClass({
       <li key={key}>
         {this.renderTitle(link)} -{" "}
         {link.link.map((link) => (
-          <a href={link.url} target="_blank">
+          <a key={link.url} href={link.url} target="_blank">
             {link.title}
           </a>
         ))}

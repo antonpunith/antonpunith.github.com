@@ -5,7 +5,7 @@
     "phone": "0478006189",
     "label": "Front End Developer",
     "picture": "",
-    "website": "http://antonpunith.github.io/",
+    "website": "https://antonpunith.github.io/",
     "location": {
       "address": "2/177 Peel Street Kew",
       "postalCode": "VIC",
@@ -43,7 +43,7 @@
   "summary": [
     {
       "active": true,
-      "text": "Over 4 Years production level experience in React Js and in React Native and co-authored a book on React."
+      "text": "Over 6 Years production level experience in React Js and in React Native and co-authored a book on React."
     },
     {
       "active": true,
@@ -171,6 +171,85 @@
 
   "projects": [
     {
+      "title": "Australian Government  Project",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Front End Engineer",
+      "headline": "A government undertaking with huge usage",
+      "highlights": [
+        "Helped build applications build for heavy traffic using serverless and headless technology"
+      ],
+      "technologies": [
+        "React JS",
+        "Typescript",
+        "Redux",
+        "AWS",
+        "Java",
+        "Drupal"
+      ]
+    },
+    {
+      "title": "Leonardo Fernandez Jewellery Website",
+      "link": [
+        {
+          "url": "https://www.leonardofernandez.com.au/",
+          "title": "leonardofernandez.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead",
+      "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
+      "highlights": [
+        "Built a high performing website using Jamstack which is an architecture designed to make the web faster, more secure, and easier to scale.",
+        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node.",
+        "Serverless Cloud Functions to allow for user interactions and persistent storage."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "node",
+        "GSAP",
+        "Azure Devops",
+        "headless",
+        "Firebase",
+        "Sketch",
+        "Zeplin"
+      ]
+    },
+    {
+      "title": "Dusk&Dawn",
+      "link": [
+        {
+          "url": "https://duskanddawn.com.au/",
+          "title": "duskanddawn.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead",
+      "headline": "A successfull e-commerce platform to launch a new brand of matteresses in the consumer market",
+      "highlights": [
+        "Built the e-commerce solution from scratch to empower the new brand.",
+        "Worked on integrations with various systems for payments, emails, shipping, analytics and content publishing",
+        "Built custom widgets like cart and shipping check to enhance the user experience",
+        "Created a headless CMS system to help the client build a custom theme beyond what the SAAS platform allowed",
+        "Built multiple CI/CD pipelines to cater for multiple components of the system to allow a seamless experience for the client."
+      ],
+      "technologies": [
+        "BigCommerce",
+        "Vue",
+        "JavaScript",
+        "node",
+        "Azure Devops",
+        "headless",
+        "SilverStripe",
+        "Sketch",
+        "Zeplin"
+      ]
+    },
+    {
       "title": "The React Workshop",
       "active": true,
       "showFull": true,
@@ -182,7 +261,7 @@
         "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
         "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
       ],
-      "technologies": ["React"]
+      "technologies": ["React JS"]
     },
     {
       "title": "ANOMSX",
@@ -197,7 +276,7 @@
         "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
       ],
       "technologies": [
-        "React",
+        "React JS",
         "Flux",
         "GraphQL",
         "MapBox",
@@ -210,12 +289,12 @@
       "title": "Solotel multisite",
       "link": [
         {
-          "url": "https://www.solotel.com.au/",
-          "title": "Solotel"
-        },
-        {
           "url": "https://www.ariasydney.com.au/",
           "title": "Aria"
+        },
+        {
+          "url": "https://www.solotel.com.au/",
+          "title": "Solotel"
         },
         {
           "url": "https://www.barangaroohouse.com.au/",
@@ -234,7 +313,7 @@
       "technologies": [
         "Vue js",
         "SASS",
-        "Drupal 8",
+        "Drupal",
         "Node",
         "Twig",
         "Docker",
@@ -279,8 +358,8 @@
       "title": "my.monash",
       "link": [
         {
-          "url": "http://my.monash/",
-          "title": "http://my.monash"
+          "url": "https://my.monash/",
+          "title": "https://my.monash"
         }
       ],
       "active": true,
@@ -304,7 +383,7 @@
       "title": "My online profile",
       "link": [
         {
-          "url": "http://antonpunith.github.io/",
+          "url": "https://antonpunith.github.io/",
           "title": "antonpunith.github.io"
         }
       ],
@@ -342,7 +421,7 @@
       "title": "Griffith Hack",
       "link": [
         {
-          "url": "http://www.griffithhack.com/",
+          "url": "https://www.griffithhack.com/",
           "title": "griffithhack.com"
         }
       ],
@@ -420,7 +499,7 @@
       "title": "Thermann",
       "link": [
         {
-          "url": "http://www.thermann.com.au/",
+          "url": "https://www.thermann.com.au/",
           "title": "www.thermann.com.au"
         }
       ],
@@ -442,7 +521,7 @@
       "title": "Whitbread Insurance Brokers",
       "link": [
         {
-          "url": "http://whitbread.com.au/",
+          "url": "https://whitbread.com.au/",
           "title": "whitbread.com.au"
         }
       ],
@@ -468,7 +547,7 @@
       "title": "ShineWing",
       "link": [
         {
-          "url": "http://shinewing.com.au/",
+          "url": "https://shinewing.com.au/",
           "title": "shinewing.com.au"
         }
       ],
@@ -489,7 +568,7 @@
       "title": "Healthy Together Victoria",
       "link": [
         {
-          "url": "http://healthytogether.vic.gov.au/",
+          "url": "https://healthytogether.vic.gov.au/",
           "title": "healthytogether.vic.gov.au"
         }
       ],
@@ -506,7 +585,7 @@
       "title": "Reece Group",
       "link": [
         {
-          "url": "http://www.reecegroup.com.au/",
+          "url": "https://www.reecegroup.com.au/",
           "title": "www.reecegroup.com.au"
         }
       ],
@@ -529,7 +608,7 @@
       "title": "Hatch Growth",
       "link": [
         {
-          "url": "http://hatchgrowth.com.au/",
+          "url": "https://hatchgrowth.com.au/",
           "title": "hatchgrowth.com.au"
         }
       ],
@@ -550,7 +629,7 @@
       "title": "Corrs Chambers Westgarth",
       "link": [
         {
-          "url": "http://www.corrs.com.au/",
+          "url": "https://www.corrs.com.au/",
           "title": "www.corrs.com.au"
         }
       ],
@@ -576,7 +655,7 @@
       "title": "Russell Kennedy",
       "link": [
         {
-          "url": "http://www.rk.com.au/",
+          "url": "https://www.rk.com.au/",
           "title": "www.rk.com.au"
         }
       ],
@@ -597,7 +676,7 @@
       "title": "Arquilla Wine",
       "link": [
         {
-          "url": "http://www.arquilla-wine.com/",
+          "url": "https://www.arquilla-wine.com/",
           "title": "www.arquilla-wine.com"
         }
       ],
@@ -628,7 +707,7 @@
       "title": "Thermeco window systems",
       "link": [
         {
-          "url": "http://thermeco.com.au/",
+          "url": "https://thermeco.com.au/",
           "title": "thermeco.com.au"
         }
       ],
@@ -638,7 +717,7 @@
       "title": "Landers & Rogers Lawyers",
       "link": [
         {
-          "url": "http://landers.com.au/",
+          "url": "https://landers.com.au/",
           "title": "landers.com.au"
         }
       ],
@@ -648,7 +727,7 @@
       "title": "Victorian Opera",
       "link": [
         {
-          "url": "http://victorianopera.com.au/",
+          "url": "https://victorianopera.com.au/",
           "title": "victorianopera.com.au"
         }
       ],
@@ -658,7 +737,7 @@
       "title": "The Enchanted Ball",
       "link": [
         {
-          "url": "http://enchantedball.com.au/",
+          "url": "https://enchantedball.com.au/",
           "title": "enchantedball.com.au"
         }
       ],
@@ -668,7 +747,7 @@
       "title": "",
       "link": [
         {
-          "url": "http://vaccho.org.au/",
+          "url": "https://vaccho.org.au/",
           "title": "vaccho.org.au"
         }
       ],
@@ -677,7 +756,7 @@
     {
       "link": [
         {
-          "url": "http://globalenglish.com/",
+          "url": "https://globalenglish.com/",
           "title": "globalenglish.com"
         }
       ],
@@ -686,7 +765,7 @@
     {
       "link": [
         {
-          "url": "http://ayurvedapura.com/",
+          "url": "https://ayurvedapura.com/",
           "title": "ayurvedapura.com"
         }
       ],
@@ -696,7 +775,7 @@
       "title": "One Lingo (APP)",
       "link": [
         {
-          "url": "http://apps.globalenglish.com/lingo/",
+          "url": "https://apps.globalenglish.com/lingo/",
           "title": "apps.globalenglish.com/lingo"
         }
       ],
@@ -706,7 +785,7 @@
       "title": "Euro Window",
       "link": [
         {
-          "url": "http://eurowindow.com.au/",
+          "url": "https://eurowindow.com.au/",
           "title": "eurowindow.com.au"
         }
       ],
@@ -715,7 +794,7 @@
     {
       "link": [
         {
-          "url": "http://antonpunith.github.com/jQuery-Canvas-Charts/",
+          "url": "https://antonpunith.github.com/jQuery-Canvas-Charts/",
           "title": "antonpunith.github.com/jQuery-Canvas-Charts"
         }
       ],
@@ -823,7 +902,7 @@
       "position": "Senior Web Developer - React js",
       "location": "Melbourne",
       "countryCode": "AU",
-      "website": "http://www.monash.edu/",
+      "website": "https://www.monash.edu/",
       "startDate": "2016-08-08",
       "endDate": "2018-05-04",
       "summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
@@ -880,7 +959,7 @@
       "position": "Front End Developer",
       "location": "Melbourne",
       "countryCode": "AU",
-      "website": "http://trout.com.au/",
+      "website": "https://trout.com.au/",
       "startDate": "2013-09-30",
       "endDate": "2015-09-11",
       "summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
@@ -900,7 +979,7 @@
       "position": "Associate - Projects",
       "location": "Hyderabad",
       "countryCode": "IN",
-      "website": "http://cognizant.com/",
+      "website": "https://cognizant.com/",
       "startDate": "2012-07-11",
       "endDate": "2013-09-13",
       "summary1": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015",
@@ -933,7 +1012,7 @@
       "position": "Senior UI Developer",
       "location": "Chennai",
       "countryCode": "IN",
-      "website": "http://www.globalenglish.com/",
+      "website": "https://www.globalenglish.com/",
       "startDate": "2010-01-20",
       "endDate": "2012-06-30",
       "summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
@@ -966,7 +1045,8 @@
           "text": "Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging.",
           "active": true
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "company": "Webwoggle Solutions",
