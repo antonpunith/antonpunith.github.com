@@ -810,7 +810,7 @@
       "website": "https://www.pwc.com.au/",
       "startDate": "2020-03-02",
       "isCurrent": true,
-      "summary": "One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
+      "summary": "One of the Big Four, PwC ranks as the second-largest professional services network in the world. PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems.",
       "highlights": [
         {
           "text": "Built a complex web application that visualises large data sets and related geospatial data.",
@@ -824,7 +824,19 @@
           "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
           "active": true
         }
-      ]
+      ],
+      "agency": {
+        "name": "Evolution Recruitment Solutions Pty Limited",
+        "contact": {
+          "name": "Michael Sarchet",
+          "role": "Senior Consultant"
+        }
+      },
+      "address": "3/818 Bourke St, Docklands VIC 3008",
+      "manager": {
+        "name": "Matthew Muscroft",
+        "role": "Senior Manager - Technology Consulting"
+      }
     },
     {
       "company": "EMS Bruel & Kjaer",
@@ -849,7 +861,19 @@
           "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
           "active": true
         }
-      ]
+      ],
+      "agency": {
+        "name": "Finite IT Recruitment Solutions",
+        "contact": {
+          "name": "Maria Ktori",
+          "role": "Account Director"
+        }
+      },
+      "address": "12/432 St Kilda Rd, Melbourne VIC 3004",
+      "manager": {
+        "name": "Ben Hounslow",
+        "role": "Principal Software Architect & Team Leader"
+      }
     },
     {
       "company": "Avanade (Loud & Clear)",
@@ -870,7 +894,19 @@
           "text": "Led the front end development for projects.",
           "active": true
         }
-      ]
+      ],
+      "agency": {
+        "name": "AllSquares",
+        "contact": {
+          "name": "Julien Viard",
+          "role": "Managing Director"
+        }
+      },
+      "address": "83/89 William St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Luke Deylen",
+        "role": "Front End Lead"
+      }
     },
     {
       "company": "Custom Fleet",
@@ -895,7 +931,19 @@
           "text": "Successfully completed the React Native Greenfields project in time.",
           "active": true
         }
-      ]
+      ],
+      "agency": {
+        "name": "FourQuarters Recruitment Pty Ltd",
+        "contact": {
+          "name": "Jessica Orrey",
+          "role": "Consultant - Technology Division"
+        }
+      },
+      "address": "Level 11/333 Collins St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Bradley David",
+        "role": "Project Manager"
+      }
     },
     {
       "company": "Monash University",
@@ -923,7 +971,19 @@
           "text": "Did user research to build tools that would benefit them the most with iterative development.",
           "active": true
         }
-      ]
+      ],
+      "agency": {
+        "name": "FourQuarters Recruitment Pty Ltd",
+        "contact": {
+          "name": "Michael Boyd",
+          "role": "Principal Consultant"
+        }
+      },
+      "address": "Level 11/333 Collins St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Bradley David",
+        "role": "Project Manager"
+      }
     },
     {
       "company": "Persuit",
