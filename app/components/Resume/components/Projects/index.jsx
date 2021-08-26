@@ -28,10 +28,9 @@ export default React.createClass({
       return null;
     }
     if (project.link.length) {
-      return project.link.map((link) => (
+      return project.link.map((link, index) => (
         <span key={link.url}>
-          {" "}
-          -{" "}
+          {index > 0 ? ", " : " - "}
           <a href={link.url} target="_blank">
             <small>{link.title}</small>
           </a>
@@ -45,7 +44,7 @@ export default React.createClass({
     if (!project.role) {
       return null;
     }
-    return <h4 className={styles.projectHeader}>Role: {project.role}</h4>;
+    return <span className={styles.projectHeader}> {project.role}</span>;
   },
 
   renderTechnologies(project) {
@@ -73,10 +72,10 @@ export default React.createClass({
       return (
         <div key={key}>
           <h3 className={styles.projectTitle}>
-            <strong>{project.title}</strong>
-            {this.renderProjectLink(project)}
+            <strong>{project.title} </strong>
+            {this.renderProjectLink(project)} | {this.renderRole(project)}
           </h3>
-          {this.renderRole(project)}
+
           {project.headline}
           {this.renderHighlights(project)}
           {this.renderTechnologies(project)}

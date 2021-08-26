@@ -62,6 +62,10 @@
       "text": "Experience building npm packages and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
     },
     {
+      "active": true,
+      "text": "Experience in UI / UX  Design and expert at design tools like Sketch, Photoshop and Illustrator."
+    },
+    {
       "active": false,
       "text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
     },
@@ -76,10 +80,6 @@
     {
       "active": true,
       "text": "Certified SAFe® 4 Practitioner (Scaled Agile Framework)."
-    },
-    {
-      "active": true,
-      "text": "Expert at design tools like Photoshop and Illustrator."
     }
   ],
   "skills": [
@@ -175,9 +175,13 @@
       "active": true,
       "showFull": true,
       "role": "Senior Front End Engineer",
-      "headline": "A government undertaking with huge usage",
+      "headline": "A sucessful government undertaking with widespread usage across Australia.",
       "highlights": [
-        "Helped build applications build for heavy traffic using serverless and headless technology"
+        "Helped build applications for heavy traffic using serverless and headless architechture.",
+        "Took ownership of delivery of critical modules for the project and worked on continous deployments using CI/CD pipelines with bamboo and AWS.",
+        "Took up full stack development with Java along with React JS in the front-end to deliver a robust application.",
+        "Liased with the clients and stake holder to fast pace the traditionally slow process and improve quality.",
+        "Worked on assesibilty to earn a AA rating and the project has recieved accolades in media as a giant leap for digital accessibility in Australia."
       ],
       "technologies": [
         "React JS",
@@ -186,6 +190,10 @@
         "AWS",
         "Java",
         "Drupal"
+      ],
+      "media": [
+        "https://www.innovationaus.com/census-2021-breaks-ground-on-accessibility/",
+        "https://www.sbs.com.au/news/australia-s-2021-census-is-the-most-accessible-yet-for-deaf-and-vision-impaired-people"
       ]
     },
     {
@@ -254,12 +262,18 @@
       "active": true,
       "showFull": true,
       "role": "Co-Author",
-      "headline": "The React Workshop is an upcoming book published by Packt, a leading global publisher of technology books for computer programmers. This is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
+      "headline": "The React Workshop is a book published by Packt, a leading global publisher of technology books for computer programmers. This is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
       "highlights": [
         "Explored and analysed the philosophy behind application developement and in particular React Development.",
         "Delved deep into React to understand the inner workings which will help me further in my journey with React.",
         "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
         "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
+      ],
+      "link": [
+        {
+          "url": "https://www.amazon.com.au/dp/183864556X?ie=UTF8&n=2490359051",
+          "title": "The React Workshop on Amazon"
+        }
       ],
       "technologies": ["React JS"]
     },
@@ -340,7 +354,6 @@
       "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
       "highlights": [
         "Led the native development effort, dictating best practices and strategy",
-        "React Native with Redux, Thunk",
         "Built development environment from scratch including mock APIs for the Greenfields project.",
         "User Authentication and APIs with OAuth 2.0.",
         "Push Notification to targeted users with AWS integration."
@@ -349,6 +362,7 @@
         "React JS",
         "React Native",
         "Redux",
+        "Thunk",
         "OAuth2",
         "Express",
         "AWS"
@@ -810,18 +824,18 @@
       "website": "https://www.pwc.com.au/",
       "startDate": "2020-03-02",
       "isCurrent": true,
-      "summary": "One of the Big Four, PwC ranks as the second-largest professional services network in the world. PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems.",
+      "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
         {
-          "text": "Built a complex web application that visualises large data sets and related geospatial data.",
+          "text": "Built an application for federal goverment with a widespread use across Australia.",
           "active": true
         },
         {
-          "text": "Worked on the latest and the greatest in technology like React, GraphQL, Typescript, Mapbox, Deck.gl.",
+          "text": "Took on the role of a Full Stack Developer and helped with Devops to cater to project needs.",
           "active": true
         },
         {
-          "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
+          "text": "Worked on different approaches and paradigms to solve challenges and implemented serverless architecture.",
           "active": true
         }
       ],
@@ -924,7 +938,7 @@
           "active": true
         },
         {
-          "text": "Championed agile and scrum methodology.",
+          "text": "Actualized agile and scrum methodology.",
           "active": true
         },
         {
@@ -998,14 +1012,14 @@
       "highlights": [
         {
           "text": "React JS SPA (single page application) with Node and Webpack.",
-          "active": true
+          "active": false
         },
         {
           "text": "Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
           "active": true
         },
         {
-          "text": "Championed agile and scrum methodology and adopted a hybrid process meeting the project needs.",
+          "text": "Implemented agile and scrum methodology and adopted a hybrid process meeting the project needs.",
           "active": true
         },
         {
