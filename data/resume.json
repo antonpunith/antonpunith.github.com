@@ -197,7 +197,49 @@
       ]
     },
     {
-      "title": "Leonardo Fernandez Jewellery Website",
+      "title": "The React Workshop",
+      "active": true,
+      "showFull": true,
+      "role": "Co-Author",
+      "headline": "The React Workshop is a book published by Packt, a leading global publisher of technology books for computer programmers. The book is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
+      "highlights": [
+        "Explored and analysed the philosophy behind application developement and in particular React Development.",
+        "Delved deep into React to understand the inner workings which will help me further in my journey with React.",
+        "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
+        "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
+      ],
+      "link": [
+        {
+          "url": "https://www.amazon.com.au/dp/183864556X?ie=UTF8&n=2490359051",
+          "title": "The React Workshop on Amazon"
+        }
+      ],
+      "technologies": ["React JS"]
+    },
+    {
+      "title": "ANOMSX",
+      "active": true,
+      "showFull": true,
+      "role": "Senior React Developer",
+      "headline": "ANOMSX is a a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
+      "highlights": [
+        "A complex application with requirement to visualize huge data on screen and map, challenging the limits of what a web application can do.",
+        "Built a design system as an npm package to be used accross projects in the organisation.",
+        "Created build and release pipelines in Azure for Continous Integration and Continous Deployment.",
+        "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
+      ],
+      "technologies": [
+        "React JS",
+        "Flux",
+        "GraphQL",
+        "MapBox",
+        "Deck.gl",
+        "Typescript",
+        "Azure DevOPs"
+      ]
+    },
+    {
+      "title": "Leonardo Fernandez Jewellery",
       "link": [
         {
           "url": "https://www.leonardofernandez.com.au/",
@@ -255,48 +297,6 @@
         "SilverStripe",
         "Sketch",
         "Zeplin"
-      ]
-    },
-    {
-      "title": "The React Workshop",
-      "active": true,
-      "showFull": true,
-      "role": "Co-Author",
-      "headline": "The React Workshop is a book published by Packt, a leading global publisher of technology books for computer programmers. This is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
-      "highlights": [
-        "Explored and analysed the philosophy behind application developement and in particular React Development.",
-        "Delved deep into React to understand the inner workings which will help me further in my journey with React.",
-        "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
-        "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
-      ],
-      "link": [
-        {
-          "url": "https://www.amazon.com.au/dp/183864556X?ie=UTF8&n=2490359051",
-          "title": "The React Workshop on Amazon"
-        }
-      ],
-      "technologies": ["React JS"]
-    },
-    {
-      "title": "ANOMSX",
-      "active": true,
-      "showFull": true,
-      "role": "Senior React Developer",
-      "headline": "ANOMSX is a a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
-      "highlights": [
-        "A complex application with requirement to visualize huge data on screen and map, challenging the limits of what a web application can do.",
-        "Built a design system as an npm package to be used accross projects in the organisation.",
-        "Created build and release pipelines in Azure for Continous Integration and Continous Deployment.",
-        "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
-      ],
-      "technologies": [
-        "React JS",
-        "Flux",
-        "GraphQL",
-        "MapBox",
-        "Deck.gl",
-        "Typescript",
-        "Azure DevOPs"
       ]
     },
     {
@@ -412,8 +412,8 @@
     },
     {
       "title": "Persuit",
-      "active": true,
-      "showFull": true,
+      "active": false,
+      "showFull": false,
       "role": "Front-end Developer - React js",
       "headline": "PERSUIT™ is a secure, online marketplace for client organisations and leading firms to resource secondments, bank legal hours and manage RFPs. Persuit is a revolutionary approach in the way these top-notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone.",
       "highlights": [
@@ -439,7 +439,7 @@
           "title": "griffithhack.com"
         }
       ],
-      "active": true,
+      "active": false,
       "showFull": false,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
@@ -459,18 +459,6 @@
         "JavaScript",
         "jQuery"
       ]
-    },
-    {
-      "title": "Lovemark",
-      "link": [
-        {
-          "url": "https://lovemark.com.au/",
-          "title": "lovemark.com.au"
-        }
-      ],
-      "role": "React Developer",
-      "active": true,
-      "showFull": false
     },
     {
       "title": "Lovemark",
@@ -505,7 +493,7 @@
         }
       ],
       "role": "Full Stack Developer",
-      "active": true,
+      "active": false,
       "showFull": false
     },
 
@@ -528,7 +516,7 @@
         "jQuery",
         "Smarty(PHP)"
       ],
-      "active": true,
+      "active": false,
       "showFull": false
     },
     {
@@ -575,7 +563,7 @@
         "jQuery",
         "SASS"
       ],
-      "active": true,
+      "active": false,
       "showFull": false
     },
     {
@@ -604,7 +592,7 @@
         }
       ],
       "headline": "",
-      "active": true
+      "active": false
     },
     {
       "title": "Reece Limited",
@@ -647,7 +635,7 @@
           "title": "www.corrs.com.au"
         }
       ],
-      "active": true,
+      "active": false,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
       "highlights": [
@@ -850,7 +838,8 @@
       "manager": {
         "name": "Matthew Muscroft",
         "role": "Senior Manager - Technology Consulting"
-      }
+      },
+      "showFull": true
     },
     {
       "company": "EMS Bruel & Kjaer",
@@ -887,7 +876,8 @@
       "manager": {
         "name": "Ben Hounslow",
         "role": "Principal Software Architect & Team Leader"
-      }
+      },
+      "showFull": true
     },
     {
       "company": "Avanade (Loud & Clear)",
@@ -920,7 +910,8 @@
       "manager": {
         "name": "Luke Deylen",
         "role": "Front End Lead"
-      }
+      },
+      "showFull": true
     },
     {
       "company": "Custom Fleet",
@@ -934,15 +925,12 @@
       "summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
       "highlights": [
         {
-          "text": "Built Custom Fleet's first app for the Australian market.",
+          "text": "Built Custom Fleet's first mobile app for the Australian market.",
           "active": true
         },
+
         {
-          "text": "Actualized agile and scrum methodology.",
-          "active": true
-        },
-        {
-          "text": "Successfully completed the React Native Greenfields project in time.",
+          "text": "Championed agile and scrum methodology and successfully completed the React Native Greenfields project in time.",
           "active": true
         }
       ],
@@ -957,7 +945,8 @@
       "manager": {
         "name": "Bradley David",
         "role": "Project Manager"
-      }
+      },
+      "showFull": true
     },
     {
       "company": "Monash University",
@@ -987,7 +976,7 @@
         }
       ],
       "agency": {
-        "name": "FourQuarters Recruitment Pty Ltd",
+        "name": "Greythorn",
         "contact": {
           "name": "Michael Boyd",
           "role": "Principal Consultant"
@@ -997,7 +986,8 @@
       "manager": {
         "name": "Bradley David",
         "role": "Project Manager"
-      }
+      },
+      "showFull": true
     },
     {
       "company": "Persuit",
@@ -1120,7 +1110,7 @@
           "active": true
         }
       ],
-      "hidden": true
+      "hidden": false
     },
     {
       "company": "Webwoggle Solutions",
@@ -1131,8 +1121,7 @@
       "startDate": "2007-03-01",
       "endDate": "2010-01-18",
       "highlights": [
-        "Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment.",
-        ""
+        "Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment."
       ],
       "hidden": true
     }

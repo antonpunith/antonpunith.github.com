@@ -17,12 +17,14 @@ export default React.createClass({
   renderLinks(link, key) {
     return (
       <li key={key}>
-        {this.renderTitle(link)} -{" "}
-        {link.link.map((link) => (
-          <a key={link.url} href={link.url} target="_blank">
-            {link.title}
-          </a>
-        ))}
+        {this.renderTitle(link)}
+        {link.link && " -"}
+        {link.link &&
+          link.link.map((link) => (
+            <a key={link.url} href={link.url} target="_blank">
+              {link.title}
+            </a>
+          ))}
       </li>
     );
   },
