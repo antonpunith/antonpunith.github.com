@@ -116,6 +116,7 @@
         { "name": "Jasmine", "active": true },
         { "name": "Twitter Bootstrap", "active": true },
         { "name": "Alt Flux", "active": true },
+        { "name": "Docker", "active": true },
         { "name": "Vagrant", "active": true },
         { "name": "PHP", "active": true },
         { "name": "MySQL", "active": true },
@@ -139,7 +140,8 @@
         { "name": "Azure Pipelines", "active": true },
         { "name": "Jira", "active": true },
         { "name": "Confluence", "active": true },
-        { "name": "AWS ecosystem", "active": true },
+        { "name": "AWS", "active": true },
+        { "name": "Firebase (Google)", "active": true },
         { "name": "bash scripting", "active": true },
         { "name": "Bamboo", "active": true },
         { "name": "SourceTree", "active": true }
@@ -163,24 +165,25 @@
         { "name": "Umbraco", "active": true },
         { "name": "WordPress", "active": true },
         { "name": "Magento", "active": true },
-        { "name": "Joomla", "active": true },
-        { "name": "Zencart", "active": true }
+        { "name": "Joomla", "active": false },
+        { "name": "Zencart", "active": false }
       ]
     }
   ],
 
   "projects": [
     {
-      "title": "Australian Government  Project",
+      "title": "2021 Census",
       "active": true,
       "showFull": true,
       "role": "Senior Front End Engineer",
-      "headline": "A sucessful government undertaking with widespread usage across Australia.",
+      "headline": "The 2021 Census was a great success with over 8 million submissions and no major incidents.",
       "highlights": [
         "Helped build applications for heavy traffic using serverless and headless architechture.",
         "Took ownership of delivery of critical modules for the project and worked on continous deployments using CI/CD pipelines with bamboo and AWS.",
-        "Took up full stack development with Java along with React JS in the front-end to deliver a robust application.",
+        "Took up full stack development and wrote Lambda in Java to complement React JS in the front-end to deliver a robust application.",
         "Liased with the clients and stake holder to fast pace the traditionally slow process and improve quality.",
+        "Was involved in Devops and support, throughout the tenre of live period.",
         "Worked on assesibilty to earn a AA rating and the project has recieved accolades in media as a giant leap for digital accessibility in Australia."
       ],
       "technologies": [
@@ -217,6 +220,98 @@
       "technologies": ["React JS"]
     },
     {
+      "title": "GetgoingPT",
+      "link": [
+        {
+          "url": "https://www.getgoingpt.com.au/",
+          "title": "www.getgoingpt.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead / Solutions Architect",
+      "headline": "Get Going are on a mission to make our communities healthier and happier, and to reflect their brand and values, we built them a new site",
+      "highlights": [
+        "Headless e-commerce with BigCommerce",
+        "Headless CMS and Serverless Architecture to provide optimum and fast experience.",
+        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "node",
+        "GSAP",
+        "Azure Devops",
+        "BigCommerce",
+        "Firebase",
+        "AWS",
+        "Figma"
+      ]
+    },
+    {
+      "title": "Leonardo Fernandez Jewellery",
+      "link": [
+        {
+          "url": "https://www.leonardofernandez.com.au/",
+          "title": "leonardofernandez.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead / Solutions Architect",
+      "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
+      "highlights": [
+        "Built a high performing website using Jamstack which is an architecture designed to make the web faster, more secure, and easier to scale.",
+        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node.",
+        "Serverless Cloud Functions to allow for user interactions and persistent storage."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "node",
+        "GSAP",
+        "Azure Devops",
+        "headless",
+        "Firebase",
+        "Sketch",
+        "Zeplin"
+      ]
+    },
+    {
+      "title": "Custom Fleet Drive",
+      "link": [
+        {
+          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
+          "title": "iOS app"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
+          "title": "Android app"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Mobile Application Developer - React Native",
+      "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
+      "highlights": [
+        "Led the native development effort, dictating best practices and strategy",
+        "Built development environment from scratch including mock APIs for the Greenfields project.",
+        "User Authentication and APIs with OAuth 2.0.",
+        "Push Notification to targeted users with AWS integration."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Redux",
+        "Thunk",
+        "OAuth2",
+        "Express",
+        "AWS"
+      ]
+    },
+    {
       "title": "ANOMSX",
       "active": true,
       "showFull": true,
@@ -236,36 +331,6 @@
         "Deck.gl",
         "Typescript",
         "Azure DevOPs"
-      ]
-    },
-    {
-      "title": "Leonardo Fernandez Jewellery",
-      "link": [
-        {
-          "url": "https://www.leonardofernandez.com.au/",
-          "title": "leonardofernandez.com.au"
-        }
-      ],
-      "active": true,
-      "showFull": true,
-      "role": "Tech Lead",
-      "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
-      "highlights": [
-        "Built a high performing website using Jamstack which is an architecture designed to make the web faster, more secure, and easier to scale.",
-        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node.",
-        "Serverless Cloud Functions to allow for user interactions and persistent storage."
-      ],
-      "technologies": [
-        "React",
-        "Gatsby",
-        "Strapi",
-        "node",
-        "GSAP",
-        "Azure Devops",
-        "headless",
-        "Firebase",
-        "Sketch",
-        "Zeplin"
       ]
     },
     {
@@ -293,7 +358,6 @@
         "JavaScript",
         "node",
         "Azure Devops",
-        "headless",
         "SilverStripe",
         "Sketch",
         "Zeplin"
@@ -334,38 +398,6 @@
         "Lando",
         "Drush",
         "Ahoy CLI"
-      ]
-    },
-    {
-      "title": "Custom Fleet Drive",
-      "link": [
-        {
-          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
-          "title": "iOS app"
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
-          "title": "Android app"
-        }
-      ],
-      "active": true,
-      "showFull": true,
-      "role": "Mobile Application Developer - React Native",
-      "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
-      "highlights": [
-        "Led the native development effort, dictating best practices and strategy",
-        "Built development environment from scratch including mock APIs for the Greenfields project.",
-        "User Authentication and APIs with OAuth 2.0.",
-        "Push Notification to targeted users with AWS integration."
-      ],
-      "technologies": [
-        "React JS",
-        "React Native",
-        "Redux",
-        "Thunk",
-        "OAuth2",
-        "Express",
-        "AWS"
       ]
     },
     {
@@ -527,7 +559,7 @@
           "title": "whitbread.com.au"
         }
       ],
-      "active": true,
+      "active": false,
       "showFull": false,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
@@ -614,7 +646,7 @@
           "title": "hatchgrowth.com.au"
         }
       ],
-      "active": true,
+      "active": false,
       "role": "Front-end Developer / Full Stack Developer",
       "headline": "",
       "highlights": [],
@@ -683,7 +715,7 @@
         }
       ],
       "role": "Front-end Developer / Full Stack Developer",
-      "active": true
+      "active": false
     },
     {
       "title": "TD Bank Android Application",
@@ -713,7 +745,7 @@
           "title": "thermeco.com.au"
         }
       ],
-      "active": true
+      "active": false
     },
     {
       "title": "Landers & Rogers Lawyers",
@@ -918,7 +950,7 @@
       "position": "Mobile Application Developer - React Native",
       "location": "Melbourne",
       "countryCode": "AU",
-      "website": "https://www.customfleet.com.au/index.html",
+      "website": "https://www.customfleet.com.au/",
       "startDate": "2018-05-07",
       "endDate": "2018-08-31",
       "isCurrent": false,
