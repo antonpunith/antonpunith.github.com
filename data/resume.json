@@ -847,11 +847,11 @@
       "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
         {
-          "text": "Built an application for federal goverment with a widespread use across Australia.",
+          "text": "Built an application for the federal government with widespread use across Australia.",
           "active": true
         },
         {
-          "text": "Took on the role of a Full Stack Developer and helped with Devops to cater to project needs.",
+          "text": "Took on the role of a Full Stack Developer and helped with DevOps to cater to project needs.",
           "active": true
         },
         {
@@ -882,7 +882,7 @@
       "startDate": "2019-02-12",
       "endDate": "2019-12-13",
       "isCurrent": false,
-      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, we eliminating the need to purchase, integrate and maintain complex solutions.",
+      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, eliminating the need to purchase, integrate and maintain complex solutions.",
       "highlights": [
         {
           "text": "Built a complex web application that visualises large data sets and related geospatial data.",
