@@ -173,11 +173,11 @@
 
   "projects": [
     {
-      "title": "2021 Census",
+      "title": "2021 Australian census",
       "active": true,
       "showFull": true,
       "role": "Senior Front End Engineer",
-      "headline": "The 2021 Census was a great success with over 8 million submissions and no major incidents.",
+      "headline": "The 2021 Census was a great success for Australian Bureau of Statistics (ABS) and PwC with over 8 million submissions.",
       "highlights": [
         "Helped build applications for heavy traffic using serverless and headless architechture.",
         "Took ownership of delivery of critical modules for the project and worked on continous deployments using CI/CD pipelines with bamboo and AWS.",
