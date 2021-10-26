@@ -47,14 +47,22 @@
     },
     {
       "active": true,
-      "text": "Expert in HTML5, CSS, SASS, LESS, JavaScript, ES2015+, React JS, Redux, Flux, GraphQL, npm, Node, jQuery, AJAX and JSON."
+      "text": "Expert in JavaScript, ES2015+, React JS, Redux, Flux, Typescript, GraphQL, npm, Node js, HTML5, CSS, SASS, LESS."
     },
     {
       "active": true,
-      "text": "Expert in Git and version control and have worked with various CI CD tools for builds and deployments"
+      "text": "Full stack developer with various technologies like PHP, JavaScript and Java and cloud."
     },
     {
       "active": true,
+      "text": "Good experience working on the latest Serverless & Headless architechture with Cloud native apps on AWS and Google ecosystems and have implemented Jamstack."
+    },
+    {
+      "active": true,
+      "text": "Expert in Git and version control and have worked with various CI CD tools for builds and deployments."
+    },
+    {
+      "active": false,
       "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
     },
     {
@@ -75,11 +83,7 @@
     },
     {
       "active": true,
-      "text": "Worked using a variety of Agile techniques like Scrum, Kanban."
-    },
-    {
-      "active": true,
-      "text": "Certified SAFe® 4 Practitioner (Scaled Agile Framework)."
+      "text": "Worked using a variety of Agile techniques like Scrum, Kanban and Certified SAFe® 4 Practitioner."
     }
   ],
   "skills": [
@@ -192,7 +196,8 @@
         "Redux",
         "AWS",
         "Java",
-        "Drupal"
+        "Drupal",
+        "Node js"
       ],
       "media": [
         "https://www.innovationaus.com/census-2021-breaks-ground-on-accessibility/",
@@ -229,24 +234,24 @@
       ],
       "active": true,
       "showFull": true,
-      "role": "Tech Lead / Solutions Architect",
+      "role": "Full Stack Developer / Solutions Architect",
       "headline": "Get Going are on a mission to make our communities healthier and happier, and to reflect their brand and values, we built them a new site",
       "highlights": [
-        "Headless e-commerce with BigCommerce",
         "Headless CMS and Serverless Architecture to provide optimum and fast experience.",
+        "Fully automated CI/CD & headless e-commerce with BigCommerce",
         "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node."
       ],
       "technologies": [
         "React",
         "Gatsby",
         "Strapi",
-        "node",
+        "Node js",
         "GSAP",
         "Azure Devops",
         "BigCommerce",
         "Firebase",
-        "AWS",
-        "Figma"
+        "Figma",
+        "Lambda, EC2, Amplify, S3 from AWS"
       ]
     },
     {
@@ -259,7 +264,7 @@
       ],
       "active": true,
       "showFull": true,
-      "role": "Tech Lead / Solutions Architect",
+      "role": "Full Stack Developer / Solutions Architect",
       "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
       "highlights": [
         "Built a high performing website using Jamstack which is an architecture designed to make the web faster, more secure, and easier to scale.",
@@ -270,13 +275,14 @@
         "React",
         "Gatsby",
         "Strapi",
-        "node",
+        "Node js",
         "GSAP",
         "Azure Devops",
         "headless",
         "Firebase",
         "Sketch",
-        "Zeplin"
+        "Zeplin",
+        "Cloud Functions"
       ]
     },
     {
@@ -847,11 +853,11 @@
       "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
         {
-          "text": "Built an application for the federal government with widespread use across Australia.",
+          "text": "Worked as a Full Stack Developer and helped with DevOps to cater to project needs.",
           "active": true
         },
         {
-          "text": "Took on the role of a Full Stack Developer and helped with DevOps to cater to project needs.",
+          "text": "Built an application for the federal government with widespread use across Australia.",
           "active": true
         },
         {
