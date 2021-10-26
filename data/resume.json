@@ -43,7 +43,7 @@
   "summary": [
     {
       "active": true,
-      "text": "Over 6 Years production level experience in React Js and in React Native and co-authored a book on React."
+      "text": "Over 6 Years production level experience in React and React Native and co-authored a book on React."
     },
     {
       "active": true,
@@ -62,7 +62,7 @@
       "text": "Expert in Git and version control and have worked with various CI / CD tools for builds and deployments."
     },
     {
-      "active": false,
+      "active": true,
       "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
     },
     {
