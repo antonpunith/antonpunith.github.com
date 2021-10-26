@@ -903,7 +903,8 @@
     },
     {
       "company": "PwC Australia",
-      "position": "Senior Front End Engineer",
+      "position": "Senior Full Stack Engineer",
+      "realPosition": "Senior Front End Engineer",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://www.pwc.com.au/",
