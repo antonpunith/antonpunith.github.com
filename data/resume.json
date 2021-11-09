@@ -177,7 +177,7 @@
 
   "projects": [
     {
-      "title": "2021 Australian Census",
+      "title": "The 2021 Australian Census",
       "active": true,
       "showFull": true,
       "role": "Senior Front End Engineer",
@@ -849,6 +849,7 @@
       "countryCode": "AU",
       "website": "https://www.pwc.com.au/",
       "startDate": "2020-03-02",
+      "endDate": "2021-11-19",
       "isCurrent": true,
       "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
