@@ -27,7 +27,7 @@
     "html-webpack-template": "^4.0.0",
     "json-loader": "^0.5.4",
     "moment": "^2.29.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react-google-tag-manager": "^1.1.2",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.0",
