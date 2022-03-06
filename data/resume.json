@@ -177,6 +177,29 @@
 
   "projects": [
     {
+      "title": "myDNA Pregnancy App",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Mobile Developer",
+      "headline": "myDNA Pregnancy is a new app that focuses the company's service offering to target pregnant women.",
+      "highlights": [
+        "Created a framework with a React Native common component library being used for both existing App and future apps.",
+        "Helped build inhouse react native capability and best practices.",
+        "Built a new app using the established framework using React native and Typescript.",
+        "Worked on Native app CI/CD with Appcenter."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Typescript",
+        "Redux",
+        "AWS",
+        "Appcenter",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
       "title": "The 2021 Australian Census",
       "active": true,
       "showFull": true,
@@ -843,6 +866,41 @@
   ],
   "work": [
     {
+      "company": "myDNA",
+      "position": "Senior Mobile Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.mydna.life/",
+      "startDate": "2021-11-22",
+      "isCurrent": true,
+      "summary": "Founded by the first qualified clinical geneticist in Australia, myDNA makes genetics accesible to common people using Personalised Medications test.  With just a simple at-home swab test, myDNA delivered actionable science to doctors.",
+      "highlights": [
+        {
+          "text": "Worked as a Senior Mobile Developer and helped build inhouse React Native capability.",
+          "active": true
+        },
+        {
+          "text": "Built a new iOS and Android app for new target audience.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "Evolution Recruitment Solutions Pty Limited",
+        "contact": {
+          "name": "Alan Han",
+          "role": "Senior Consultant"
+        }
+      },
+      "address": "12 River Street, South Yarra VIC 3141",
+      "manager": {
+        "name": "Hyma Uppalapati",
+        "role": "Development Manager",
+        "email": "hyma.uppalapati@genebygene.com",
+        "phone": "0414 650 685"
+      },
+      "showFull": true
+    },
+    {
       "company": "PwC Australia",
       "position": "Senior Front End Engineer",
       "location": "Melbourne",
@@ -850,7 +908,6 @@
       "website": "https://www.pwc.com.au/",
       "startDate": "2020-03-02",
       "endDate": "2021-11-19",
-      "isCurrent": true,
       "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
         {
