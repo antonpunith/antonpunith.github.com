@@ -891,11 +891,11 @@
           "role": "Senior Consultant"
         }
       },
-      "address": "12 River Street, South Yarra VIC 3141",
+      "address": "12 River Street, South Yarra VIC 3141, 627 Chapel St, South Yarra VIC 3141",
       "manager": {
         "name": "Hyma Uppalapati",
         "role": "Development Manager",
-        "email": "hyma.uppalapati@genebygene.com",
+        "email": "hyma.uppalapati@genebygene.com, hyma.uppalapati@mydna.life",
         "phone": "0414 650 685"
       },
       "showFull": true
