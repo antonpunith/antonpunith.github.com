@@ -866,13 +866,27 @@
   ],
   "work": [
     {
+      "company": "AusPost",
+      "position": "Senior Front End Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.mydna.life/",
+      "startDate": "2022-04-04",
+      "isCurrent": true,
+      "summary": "",
+      "highlights": [
+      ],
+
+      "showFull": true
+    },
+    {
       "company": "myDNA (contract via Appscore)",
       "position": "Senior Mobile Developer",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://www.mydna.life/",
       "startDate": "2021-11-22",
-      "isCurrent": true,
+      "endDate": "2022-03-18",
       "summary": "Founded by the first qualified clinical geneticist in Australia, myDNA makes genetics accesible to common people using Personalised Medications test.  With just a simple at-home swab test, myDNA delivered actionable science to doctors.",
       "highlights": [
         {
