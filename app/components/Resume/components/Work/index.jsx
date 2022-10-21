@@ -82,7 +82,7 @@ export default React.createClass({
     const { work } = this.props;
 
     return (
-      <div className="break-before">
+      <div>
         <h2>Work Experience</h2>
         {work.map(this.renderCompanies)}
       </div>
