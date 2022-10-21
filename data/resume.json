@@ -177,6 +177,24 @@
 
   "projects": [
     {
+      "title": "Post+",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Frontend Developer - React js",
+      "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
+      "highlights": [
+        "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
+        "Resolved complex issues given the scale and the composite nature of the architecture.",
+        "Helped the team resolve technical obstacles to facilitate timely delivery."
+      ],
+      "technologies": [
+        "React JS",
+        "Electron",
+        "Typescript",
+        "Redux"
+      ]
+    },
+    {
       "title": "myDNA Pregnancy App",
       "active": true,
       "showFull": true,
@@ -866,17 +884,24 @@
   ],
   "work": [
     {
-      "company": "AusPost",
-      "position": "Senior Front End Developer",
+      "company": "Australia Post",
+      "position": "Senior Frontend Developer - React js",
       "location": "Melbourne",
       "countryCode": "AU",
-      "website": "https://www.mydna.life/",
+      "website": "https://auspost.com.au/",
       "startDate": "2022-04-04",
       "isCurrent": true,
-      "summary": "",
+      "summary": "Australia Post's ambition for the Post Office is to be a leading edge marketplace that connects Australians with the world.",
       "highlights": [
+        {
+          "text": "Worked on the next generation POS (Point Of Sale) system for AusPost which encompases various systems.",
+          "active": true
+        },
+        {
+          "text": "Built various features and resolved complex issues due to the magnitude of the solution and services.",
+          "active": true
+        }
       ],
-
       "showFull": true
     },
     {
