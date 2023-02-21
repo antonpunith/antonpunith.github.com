@@ -1,38 +1,143 @@
-.App {
-  text-align: center;
+@import url(https://fonts.googleapis.com/css?family=Tinos:400,400italic,700);
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  max-width: 1000px;
+  padding: 0 20px;
+  margin: 0 auto;
+  font-family: "Tinos", serif;
+  color: #444;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1,
+h2,
+h3,
+h4,
+th {
+  font-weight: normal;
+  color: #0c3b76;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+h2 {
+  margin: 0.8em 0 0.2em;
+}
+
+a {
+  color: #2771cc;
+}
+
+a[href*="//"]
+{
+  margin: 0 5px;
+}
+
+.header {
+  margin: 1rem 0;
+}
+
+.name {
+  margin: 0;
+}
+
+@media (min-width: 480px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+@media (min-width: 480px) {
+  .skillTitle {
+    width: 175px;
+  }
+}
+
+.companyDetailItem {
+  padding: 0.5em 0;
+}
+
+.summary {
+  margin: 0.5em 0;
+}
+
+.highLights {
+  margin: 0;
+  padding: 0.5em 0 0.5em 2em;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  padding: 10px;
+  text-align: left;
+}
+
+.table-bordered td,
+.table-bordered th {
+  border: solid 1px #ccc;
+}
+.text-right {
+  text-align: right;
+}
+.spaced-text {
+  line-height: 1.5em;
+}
+@media all {
+  .page-break {
+    display: none;
+  }
+}
+@media print {
+  .page-break {
+    display: block;
+    page-break-before: always;
+  }
+  .break-before {
+    page-break-before: always;
+  }
+  .dont-break {
+    page-break-inside: avoid;
+  }
+}
+@media print {
+  body {
+    color: #111;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  th {
+    color: #072850;
+  }
+  a {
+    color: #154a8b;
+    text-decoration: none;
+  }
+}
+.projectTitle {
+  margin: 1rem 0 0;
+}
+.projectHeader {
+  font-style: italic;
+  margin: 5px 0;
+}
+.projectHighlights {
+  margin: 0.5em 0 0;
+}
+.techStack {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 0.9em;
 }
-
-.App-link {
-  color: #61dafb;
+.techStackList {
+  margin: 5px 0;
+  padding-left: 10px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.projectsList {
+  margin: 5px 0;
 }
