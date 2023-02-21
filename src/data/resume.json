@@ -1,0 +1,1274 @@
+{
+  "basics": {
+    "name": "Anton Punith",
+    "email": "antonpunith@gmail.com",
+    "phone": "0478006189",
+    "label": "Front End Developer",
+    "picture": "",
+    "website": "https://antonpunith.github.io/",
+    "location": {
+      "address": "2/177 Peel Street Kew",
+      "postalCode": "VIC",
+      "city": "Melbourne",
+      "countryCode": "au",
+      "region": "Melbourne"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "antonpunith",
+        "url": "https://www.linkedin.com/in/antonpunith"
+      },
+      {
+        "network": "github",
+        "username": "antonpunith",
+        "url": "https://github.com/antonpunith"
+      }
+    ]
+  },
+  "headlines": [
+    {
+      "active": true,
+      "position": "Versatile UI / Front End developer",
+      "careerStart": "2008-08-05",
+      "skill": "front-end development for web and devices and co-author of a book on React"
+    }
+  ],
+  "objectives": [
+    {
+      "active": true,
+      "text": "Seeking a position among top-notch team of developers, to utilize my skills, and abilities to create cutting-edge applications for mobile and web. The ideal position would challenge me to learn and adapt, and fulfil my cravings to learn new technologies and constantly self-improve."
+    }
+  ],
+  "summary": [
+    {
+      "active": true,
+      "text": "Over 6 Years production level experience in React and React Native and co-authored a book on React."
+    },
+    {
+      "active": true,
+      "text": "Expert in JavaScript, ES2015+, React JS, Redux, Flux, Typescript, GraphQL, npm, Node js, HTML5, CSS, SASS, LESS."
+    },
+    {
+      "active": true,
+      "text": "Full stack developer with various technologies like PHP, JavaScript and Java and cloud."
+    },
+    {
+      "active": true,
+      "text": "Good experience working on the latest Serverless & Headless architechture with Cloud native apps on AWS and Google ecosystems and have implemented Jamstack."
+    },
+    {
+      "active": true,
+      "text": "Expert in Git and version control and have worked with various CI / CD tools for builds and deployments."
+    },
+    {
+      "active": true,
+      "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
+    },
+    {
+      "active": true,
+      "text": "Experience building npm packages and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
+    },
+    {
+      "active": true,
+      "text": "Experience in UI / UX  Design and expert at design tools like Sketch, Photoshop and Illustrator."
+    },
+    {
+      "active": false,
+      "text": "An earnest believer in clean coding standards and conventions, semantic HTML and CSS, accessibility, W3C standards and best practices."
+    },
+    {
+      "active": true,
+      "text": "Proficient with unit testing and build automation with Node, Grunt, Gulp and Webpack."
+    },
+    {
+      "active": true,
+      "text": "Worked using a variety of Agile techniques like Scrum, Kanban and Certified SAFe® 4 Practitioner."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Operating Systems",
+      "values": [
+        { "name": "Mac (Preference) ", "active": true },
+        { "name": "Linux", "active": true },
+        { "name": "Windows", "active": true }
+      ]
+    },
+    {
+      "title": "Languages / Frameworks",
+      "values": [
+        { "name": "JavaScript", "active": true },
+        { "name": "Typescript", "active": true },
+        { "name": "React JS", "active": true },
+        { "name": "HTML5", "active": true },
+        { "name": "CSS3", "active": true },
+        { "name": "eslint", "active": true },
+        { "name": "Redux", "active": true },
+        { "name": "Flux", "active": true },
+        { "name": "GraphQL", "active": true },
+        { "name": "Webpack", "active": true },
+        { "name": "Jest", "active": true },
+        { "name": "Python", "active": true },
+        { "name": "Grunt", "active": true },
+        { "name": "Gulp", "active": true },
+        { "name": "Selenium with Python", "active": true },
+        { "name": "jQuery", "active": true },
+        { "name": "SASS", "active": true },
+        { "name": "LESS", "active": true },
+        { "name": "Karma", "active": true },
+        { "name": "Jasmine", "active": true },
+        { "name": "Twitter Bootstrap", "active": true },
+        { "name": "Alt Flux", "active": true },
+        { "name": "Docker", "active": true },
+        { "name": "Vagrant", "active": true },
+        { "name": "PHP", "active": true },
+        { "name": "MySQL", "active": true },
+        { "name": "XML", "active": true },
+        { "name": "Maven", "active": true },
+        { "name": "Jenkins", "active": true },
+        { "name": "dojo", "active": true },
+        { "name": "Angular Js", "active": true },
+        { "name": "Moustache JS", "active": true },
+        { "name": "Handlebars JS", "active": true },
+        { "name": "JSON", "active": false },
+        { "name": "Ajax", "active": false }
+      ]
+    },
+    {
+      "title": "Source Control, Servers and Devops Tools",
+      "values": [
+        { "name": "Git", "active": true },
+        { "name": "Git CLI", "active": true },
+        { "name": "Azure Devops", "active": true },
+        { "name": "Azure Pipelines", "active": true },
+        { "name": "Jira", "active": true },
+        { "name": "Confluence", "active": true },
+        { "name": "AWS", "active": true },
+        { "name": "Firebase (Google)", "active": true },
+        { "name": "bash scripting", "active": true },
+        { "name": "Bamboo", "active": true },
+        { "name": "SourceTree", "active": true }
+      ]
+    },
+    {
+      "title": "Tools & Software",
+      "values": [
+        { "name": "Visual Studio Code", "active": true },
+        { "name": "IntelliJ IDEA", "active": true },
+        { "name": "Visual Studio", "active": true },
+        { "name": "Sketch", "active": true },
+        { "name": "Figma", "active": true },
+        { "name": "Photoshop", "active": true },
+        { "name": "Illustrator", "active": true },
+        { "name": "Zeplin", "active": true },
+        { "name": "Atom", "active": true },
+        { "name": "Sublime Text", "active": false },
+        { "name": "Drupal", "active": true },
+        { "name": "SilverStripe", "active": true },
+        { "name": "Umbraco", "active": true },
+        { "name": "WordPress", "active": true },
+        { "name": "Magento", "active": true },
+        { "name": "Joomla", "active": false },
+        { "name": "Zencart", "active": false }
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Post+",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Frontend Developer - React js",
+      "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
+      "highlights": [
+        "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
+        "Resolved complex issues given the scale and the composite nature of the architecture.",
+        "Helped the team resolve technical obstacles to facilitate timely delivery."
+      ],
+      "technologies": [
+        "React JS",
+        "Electron",
+        "Typescript",
+        "Redux"
+      ]
+    },
+    {
+      "title": "myDNA Pregnancy App",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Mobile Developer",
+      "headline": "myDNA Pregnancy is a new app that focuses the company's service offering to target pregnant women.",
+      "highlights": [
+        "Created a framework with a React Native common component library being used for both existing App and future apps.",
+        "Helped build inhouse react native capability and best practices.",
+        "Built a new app using the established framework using React native and Typescript.",
+        "Worked on Native app CI/CD with Appcenter."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Typescript",
+        "Redux",
+        "AWS",
+        "Appcenter",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
+      "title": "The 2021 Australian Census",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Front End Engineer",
+      "headline": "The 2021 Census was a great success for Australian Bureau of Statistics (ABS) and PwC with over 8 million submissions.",
+      "highlights": [
+        "Helped build applications for heavy traffic using serverless and headless architechture.",
+        "Took ownership of delivery of critical modules for the project and worked on continous deployments using CI/CD pipelines with bamboo and AWS.",
+        "Took up full stack development and wrote Lambda in Java to complement React JS in the front-end to deliver a robust application.",
+        "Liased with the clients and stake holder to fast pace the traditionally slow process and improve quality.",
+        "Was involved in Devops and support, throughout the tenure of live period.",
+        "Worked on assesibilty to earn a AA rating and the project has recieved accolades in media as a giant leap for digital accessibility in Australia for a Government undertaking."
+      ],
+      "technologies": [
+        "React JS",
+        "Typescript",
+        "Redux",
+        "AWS",
+        "Java",
+        "Drupal",
+        "Node js"
+      ],
+      "media": [
+        "https://www.innovationaus.com/census-2021-breaks-ground-on-accessibility/",
+        "https://www.sbs.com.au/news/australia-s-2021-census-is-the-most-accessible-yet-for-deaf-and-vision-impaired-people"
+      ]
+    },
+    {
+      "title": "The React Workshop",
+      "active": true,
+      "showFull": true,
+      "role": "Co-Author",
+      "headline": "The React Workshop is a book published by Packt, a leading global publisher of technology books for computer programmers. The book is aimed at programming beginners and allows users to learn in a practical, hands-on way. I have authored two chapters in the book about React Components and State and Props in React.",
+      "highlights": [
+        "Explored and analysed the philosophy behind application developement and in particular React Development.",
+        "Delved deep into React to understand the inner workings which will help me further in my journey with React.",
+        "Created engaging content and worked with SMEs and editors to match the required high quality standards.",
+        "Created demo applications that would both intrigue the learners' interest and teach the skills in React"
+      ],
+      "link": [
+        {
+          "url": "https://www.amazon.com.au/dp/183864556X?ie=UTF8&n=2490359051",
+          "title": "The React Workshop on Amazon"
+        }
+      ],
+      "technologies": ["React JS"]
+    },
+    {
+      "title": "GetgoingPT",
+      "link": [
+        {
+          "url": "https://www.getgoingpt.com.au/",
+          "title": "www.getgoingpt.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Full Stack Developer / Solutions Architect",
+      "headline": "Get Going are on a mission to make our communities healthier and happier, and to reflect their brand and values, we built them a new site",
+      "highlights": [
+        "Headless CMS and Serverless Architecture to provide optimum and fast experience.",
+        "Fully automated CI/CD & headless e-commerce with BigCommerce",
+        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "Node js",
+        "GSAP",
+        "Azure Devops",
+        "BigCommerce",
+        "Firebase",
+        "Figma",
+        "Lambda, EC2, Amplify, S3 from AWS"
+      ]
+    },
+    {
+      "title": "Leonardo Fernandez Jewellery",
+      "link": [
+        {
+          "url": "https://www.leonardofernandez.com.au/",
+          "title": "leonardofernandez.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Full Stack Developer / Solutions Architect",
+      "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
+      "highlights": [
+        "Built a high performing website using Jamstack which is an architecture designed to make the web faster, more secure, and easier to scale.",
+        "Full Stack JavaScript with front-end built on Gatsby with React and Typescript and back-end on Strapi and node.",
+        "Serverless Cloud Functions to allow for user interactions and persistent storage."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "Node js",
+        "GSAP",
+        "Azure Devops",
+        "headless",
+        "Firebase",
+        "Sketch",
+        "Zeplin",
+        "Cloud Functions"
+      ]
+    },
+    {
+      "title": "Custom Fleet Drive",
+      "link": [
+        {
+          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
+          "title": "iOS app"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
+          "title": "Android app"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Mobile Application Developer - React Native",
+      "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
+      "highlights": [
+        "Led the native development effort, dictating best practices and strategy",
+        "Built development environment from scratch including mock APIs for the Greenfields project.",
+        "User Authentication and APIs with OAuth 2.0.",
+        "Push Notification to targeted users with AWS integration."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Redux",
+        "Thunk",
+        "OAuth2",
+        "Express",
+        "AWS"
+      ]
+    },
+    {
+      "title": "ANOMSX",
+      "active": true,
+      "showFull": true,
+      "role": "Senior React Developer",
+      "headline": "ANOMSX is a a modern and streamlined web application built to assist our airport customers in efficiently and effectively managing their environmental impact.",
+      "highlights": [
+        "A complex application with requirement to visualize huge data on screen and map, challenging the limits of what a web application can do.",
+        "Built a design system as an npm package to be used accross projects in the organisation.",
+        "Created build and release pipelines in Azure for Continous Integration and Continous Deployment.",
+        "Worked on various components and custom state management with Flux, also extensively worked on maps with MapBox and Deck.gl."
+      ],
+      "technologies": [
+        "React JS",
+        "Flux",
+        "GraphQL",
+        "MapBox",
+        "Deck.gl",
+        "Typescript",
+        "Azure DevOPs"
+      ]
+    },
+    {
+      "title": "Dusk&Dawn",
+      "link": [
+        {
+          "url": "https://duskanddawn.com.au/",
+          "title": "duskanddawn.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead",
+      "headline": "A successfull e-commerce platform to launch a new brand of matteresses in the consumer market",
+      "highlights": [
+        "Built the e-commerce solution from scratch to empower the new brand.",
+        "Worked on integrations with various systems for payments, emails, shipping, analytics and content publishing",
+        "Built custom widgets like cart and shipping check to enhance the user experience",
+        "Created a headless CMS system to help the client build a custom theme beyond what the SAAS platform allowed",
+        "Built multiple CI/CD pipelines to cater for multiple components of the system to allow a seamless experience for the client."
+      ],
+      "technologies": [
+        "BigCommerce",
+        "Vue",
+        "JavaScript",
+        "node",
+        "Azure Devops",
+        "SilverStripe",
+        "Sketch",
+        "Zeplin"
+      ]
+    },
+    {
+      "title": "Solotel multisite",
+      "link": [
+        {
+          "url": "https://www.ariasydney.com.au/",
+          "title": "Aria"
+        },
+        {
+          "url": "https://www.solotel.com.au/",
+          "title": "Solotel"
+        },
+        {
+          "url": "https://www.barangaroohouse.com.au/",
+          "title": "Barangaroo House"
+        }
+      ],
+      "active": true,
+      "showFull": false,
+      "role": "Front End Developer - Vue js",
+      "headline": "Solotel is one of Australia's largest hospitality groups with venues in Brisbane and Sydney. For it's 30+ restaurants, bars, pubs, bistros, Solotel needed implementation of a new customer facing Digital Platform including a new Reservation Management System (Dimmi), CMS (Drupal 8), and rebuild their 30+ websites.",
+      "highlights": [
+        "Led the front end development for the project.",
+        "Built drupal components in twig and worked on integration.",
+        "Built many vue components used across the sites and using multiple configurations."
+      ],
+      "technologies": [
+        "Vue js",
+        "SASS",
+        "Drupal",
+        "Node",
+        "Twig",
+        "Docker",
+        "Lando",
+        "Drush",
+        "Ahoy CLI"
+      ]
+    },
+    {
+      "title": "my.monash",
+      "link": [
+        {
+          "url": "https://my.monash/",
+          "title": "https://my.monash"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Senior Front-end Developer - React js",
+      "headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
+      "highlights": [
+        "Application used by over a hundred thousand users every day.",
+        "Worked in a cohesive, fast-paced team with SAFe agile, working with the business to deliver features.",
+        "Development along with unit and functional testing, operations support."
+      ],
+      "technologies": [
+        "React JS",
+        "LESS",
+        "Node",
+        "Jest",
+        "Selenium with Python"
+      ]
+    },
+    {
+      "title": "My online profile",
+      "link": [
+        {
+          "url": "https://antonpunith.github.io/",
+          "title": "antonpunith.github.io"
+        }
+      ],
+      "active": true,
+      "showFull": false,
+      "headline": "My online profile built with JSON and REACT. I love the fact that the JSON has all the nitty-gritty details like dates, but can be hidden in view or can have different views.",
+      "highlights": [
+        "Built from scratch to better understand Webpack and React and continue working with ES2015.",
+        "Component-based SPA to allow easy maintenance and to change or add features."
+      ],
+      "technologies": ["React", "Webpack", "ES2015 using Babel", "SASS", "Node"]
+    },
+    {
+      "title": "Persuit",
+      "active": false,
+      "showFull": false,
+      "role": "Front-end Developer - React js",
+      "headline": "PERSUIT™ is a secure, online marketplace for client organisations and leading firms to resource secondments, bank legal hours and manage RFPs. Persuit is a revolutionary approach in the way these top-notch professionals are hired. This app would be a huge improvement from the current system which is handled in email inboxes and over the phone.",
+      "highlights": [
+        "Built complex and simple features with new and existing components in react according to the specs. Wrote unit tests for testable features.",
+        "Styled various features and pages of the project using SASS, with support for mobile, tablet and desktop form factors.",
+        "Worked with an excellent team of developers to strict coding and development process standards. "
+      ],
+      "technologies": [
+        "React with Alt",
+        "Webpack",
+        "ES2015 using Babel",
+        "SASS",
+        "Node",
+        "Vagrant",
+        "Karma"
+      ]
+    },
+    {
+      "title": "Griffith Hack",
+      "link": [
+        {
+          "url": "https://www.griffithhack.com/",
+          "title": "griffithhack.com"
+        }
+      ],
+      "active": false,
+      "showFull": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Griffith Hack has been the leading Australian-based IP firm, little known outside the intellectual property industry. This exercise was to reposition the brand with colourful new visual identity and bold brand strategy.",
+      "highlights": [
+        "Built pages and objects with relationships and schema. Created layouts and styling for the pages to match the design, keeping a modular approach for reusability.",
+        "Built customisable templates to allow the client to change the layouts, themes, colours, images and content of the pages easily.",
+        "Custom AJAX for multiple pages with complex tagging and filtering mechanism."
+      ],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "Icon Fonts",
+        "Bower",
+        "Grunt",
+        "Compass",
+        "JavaScript",
+        "jQuery"
+      ]
+    },
+    {
+      "title": "Lovemark",
+      "link": [
+        {
+          "url": "https://lovemark.com.au/",
+          "title": "lovemark.com.au"
+        }
+      ],
+      "role": "React Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Lifespace Probiotics",
+      "link": [
+        {
+          "url": "https://www.lifespaceprobiotics.com/en/",
+          "title": "www.lifespaceprobiotics.com"
+        }
+      ],
+      "role": "React Developer",
+      "active": false,
+      "showFull": false
+    },
+    {
+      "title": "Australian Home Care Services",
+      "link": [
+        {
+          "url": "https://ahcs.org.au",
+          "title": "ahcs.org.au"
+        }
+      ],
+      "role": "Full Stack Developer",
+      "active": false,
+      "showFull": false
+    },
+
+    {
+      "title": "Thermann",
+      "link": [
+        {
+          "url": "https://www.thermann.com.au/",
+          "title": "www.thermann.com.au"
+        }
+      ],
+      "role": "Front-end Developer",
+      "headline": "Thermann Hot water systems were launched by Reece in the Australian Market. Although being a large site, the deliverables for the site were static pages with assets. So this was built with Smarty PHP templates which then built a static version written into HTML and CSS.",
+      "highlights": [],
+      "technologies": [
+        "AngularJS",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery",
+        "Smarty(PHP)"
+      ],
+      "active": false,
+      "showFull": false
+    },
+    {
+      "title": "Whitbread Insurance Brokers",
+      "link": [
+        {
+          "url": "https://whitbread.com.au/",
+          "title": "whitbread.com.au"
+        }
+      ],
+      "active": false,
+      "showFull": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Whitbread Insurance Brokers has been the trusted advisor to commercial and family businesses since 1978. This was another rebranding project.",
+      "highlights": [
+        "Built the website with various pages, layouts and features according to the rebranded designs.",
+        "Custom AJAX for multiple features and with a filtering mechanism for the Social media posts.",
+        "Custom Lucene search with a custom layout.",
+        "Multiple contact forms on different pages to customisable contacts."
+      ],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ]
+    },
+    {
+      "title": "ShineWing",
+      "link": [
+        {
+          "url": "https://shinewing.com.au/",
+          "title": "shinewing.com.au"
+        }
+      ],
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "In February 2015, Australian accounting firm, Moore Stephens Melbourne, became part of ShineWing International, China’s largest indigenous accounting firm - forming ShineWing Australia.",
+      "highlights": [],
+      "technologies": [
+        "SilverStripe",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery",
+        "SASS"
+      ],
+      "active": false,
+      "showFull": false
+    },
+    {
+      "title": "Healthy Together Victoria",
+      "link": [
+        {
+          "url": "https://healthytogether.vic.gov.au/",
+          "title": "healthytogether.vic.gov.au"
+        }
+      ],
+      "role": "Front-end Developer",
+      "headline": "The Program Victorian Government intiative to bring communities together in a united effort for better health.",
+      "highlights": [
+        "Being a government site, the focus was cross browser compatibility and accessibility while making the website still look good and interactive."
+      ],
+      "technologies": ["HTML5", "SASS", "JavaScript", "jQuery"],
+      "active": false,
+      "showFull": true
+    },
+    {
+      "title": "Reece Group",
+      "link": [
+        {
+          "url": "https://www.reecegroup.com.au/",
+          "title": "www.reecegroup.com.au"
+        }
+      ],
+      "headline": "",
+      "active": false
+    },
+    {
+      "title": "Reece Limited",
+      "link": [
+        {
+          "url": "https://www.reece.com.au/aboutus/history",
+          "title": "www.reece.com.au"
+        }
+      ],
+      "role": "Front-end Developer",
+      "active": true,
+      "showFull": false
+    },
+    {
+      "title": "Hatch Growth",
+      "link": [
+        {
+          "url": "https://hatchgrowth.com.au/",
+          "title": "hatchgrowth.com.au"
+        }
+      ],
+      "active": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "",
+      "highlights": [],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
+      "showFull": false
+    },
+    {
+      "title": "Corrs Chambers Westgarth",
+      "link": [
+        {
+          "url": "https://www.corrs.com.au/",
+          "title": "www.corrs.com.au"
+        }
+      ],
+      "active": false,
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "Corrs is a top tier legal firm in Australia, with people with a lot of eperience in every sector. This site was one of the largest site by content and it challenged the limits of using SilverStripe and the server stack.",
+      "highlights": [
+        "Developed various features and pages according to the spec.",
+        "Worked on analytics and controlling robots crawling the website.",
+        "Wrote algoriths for various features like popularity",
+        "Worked on custom search."
+      ],
+      "technologies": [
+        "SilverStripe",
+        "SASS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
+      "showFull": false
+    },
+    {
+      "title": "Russell Kennedy",
+      "link": [
+        {
+          "url": "https://www.rk.com.au/",
+          "title": "www.rk.com.au"
+        }
+      ],
+      "role": "Front-end Developer / Full Stack Developer",
+      "headline": "",
+      "highlights": [],
+      "technologies": [
+        "SilverStripe",
+        "LESS",
+        "Bootstrap",
+        "JavaScript",
+        "jQuery"
+      ],
+      "active": false,
+      "showFull": false
+    },
+    {
+      "title": "Arquilla Wine",
+      "link": [
+        {
+          "url": "https://www.arquilla-wine.com/",
+          "title": "www.arquilla-wine.com"
+        }
+      ],
+      "role": "Front-end Developer / Full Stack Developer",
+      "active": false
+    },
+    {
+      "title": "TD Bank Android Application",
+      "active": false,
+      "showFull": true,
+      "role": "UI Lead",
+      "headline": "The engagement was to port TD Bank iPad application, which was built in-house, to Android and to make it responsive so as to fit all mobile and tablet form factors.",
+      "highlights": [
+        "Assess the current application and retrofit the page into mobile by making necessary changes.",
+        "Customize the existing Dojo widgets to run on various form factors with performance optimization to run on Android Devices using IBM Worklight and Eclipse."
+      ],
+      "technologies": [
+        "IBM Worklight",
+        "HTML5",
+        "CSS3",
+        "Dojo",
+        "Eclipse",
+        "SVN",
+        "Android SDK"
+      ]
+    },
+    {
+      "title": "Thermeco window systems",
+      "link": [
+        {
+          "url": "https://thermeco.com.au/",
+          "title": "thermeco.com.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "Landers & Rogers Lawyers",
+      "link": [
+        {
+          "url": "https://landers.com.au/",
+          "title": "landers.com.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "Victorian Opera",
+      "link": [
+        {
+          "url": "https://victorianopera.com.au/",
+          "title": "victorianopera.com.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "The Enchanted Ball",
+      "link": [
+        {
+          "url": "https://enchantedball.com.au/",
+          "title": "enchantedball.com.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "",
+      "link": [
+        {
+          "url": "https://vaccho.org.au/",
+          "title": "vaccho.org.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "link": [
+        {
+          "url": "https://globalenglish.com/",
+          "title": "globalenglish.com"
+        }
+      ],
+      "active": false
+    },
+    {
+      "link": [
+        {
+          "url": "https://ayurvedapura.com/",
+          "title": "ayurvedapura.com"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "One Lingo (APP)",
+      "link": [
+        {
+          "url": "https://apps.globalenglish.com/lingo/",
+          "title": "apps.globalenglish.com/lingo"
+        }
+      ],
+      "active": false
+    },
+    {
+      "title": "Euro Window",
+      "link": [
+        {
+          "url": "https://eurowindow.com.au/",
+          "title": "eurowindow.com.au"
+        }
+      ],
+      "active": false
+    },
+    {
+      "link": [
+        {
+          "url": "https://antonpunith.github.com/jQuery-Canvas-Charts/",
+          "title": "antonpunith.github.com/jQuery-Canvas-Charts"
+        }
+      ],
+      "active": false
+    }
+  ],
+  "work": [
+    {
+      "company": "Australia Post",
+      "position": "Senior Frontend Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://auspost.com.au/",
+      "startDate": "2022-04-04",
+      "isCurrent": true,
+      "summary": "Australia Post's ambition for the Post Office is to be a leading edge marketplace that connects Australians with the world.",
+      "highlights": [
+        {
+          "text": "Worked on the next generation POS (Point Of Sale) system for AusPost which encompases various systems.",
+          "active": true
+        },
+        {
+          "text": "Built various features and resolved complex issues due to the magnitude of the solution and services.",
+          "active": true
+        }
+      ],
+      "showFull": true
+    },
+    {
+      "company": "myDNA (contract via Appscore)",
+      "position": "Senior Mobile Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.mydna.life/",
+      "startDate": "2021-11-22",
+      "endDate": "2022-03-18",
+      "summary": "Founded by the first qualified clinical geneticist in Australia, myDNA makes genetics accesible to common people using Personalised Medications test.  With just a simple at-home swab test, myDNA delivered actionable science to doctors.",
+      "highlights": [
+        {
+          "text": "Worked as a Senior Mobile Developer and helped build inhouse React Native capability.",
+          "active": true
+        },
+        {
+          "text": "Built a new iOS and Android app for new target audience.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "Evolution Recruitment Solutions Pty Limited",
+        "contact": {
+          "name": "Alan Han",
+          "role": "Senior Consultant"
+        }
+      },
+      "address": "12 River Street, South Yarra VIC 3141, 627 Chapel St, South Yarra VIC 3141",
+      "manager": {
+        "name": "Hyma Uppalapati",
+        "role": "Development Manager",
+        "email": "hyma.uppalapati@genebygene.com, hyma.uppalapati@mydna.life",
+        "phone": "0414 650 685"
+      },
+      "showFull": true
+    },
+    {
+      "company": "PwC Australia",
+      "position": "Senior Front End Engineer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.pwc.com.au/",
+      "startDate": "2020-03-02",
+      "endDate": "2021-11-19",
+      "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
+      "highlights": [
+        {
+          "text": "Worked as a Full Stack Developer and helped with DevOps to cater to project needs.",
+          "active": true
+        },
+        {
+          "text": "Built an application for the federal government with widespread use across Australia.",
+          "active": true
+        },
+        {
+          "text": "Worked on different approaches and paradigms to solve challenges and implemented serverless architecture.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "Evolution Recruitment Solutions Pty Limited",
+        "contact": {
+          "name": "Michael Sarchet",
+          "role": "Senior Consultant"
+        }
+      },
+      "address": "3/818 Bourke St, Docklands VIC 3008",
+      "manager": {
+        "name": "Matthew Muscroft",
+        "role": "Senior Manager - Technology Consulting"
+      },
+      "showFull": true
+    },
+    {
+      "company": "EMS Bruel & Kjaer",
+      "position": "Senior React Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.emsbk.com/",
+      "startDate": "2019-02-12",
+      "endDate": "2019-12-13",
+      "isCurrent": false,
+      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, eliminating the need to purchase, integrate and maintain complex solutions.",
+      "highlights": [
+        {
+          "text": "Built a complex web application that visualises large data sets and related geospatial data.",
+          "active": true
+        },
+        {
+          "text": "Worked on the latest and the greatest in technology like React, GraphQL, Typescript, Mapbox, Deck.gl.",
+          "active": true
+        },
+        {
+          "text": "Resolved engineering challenges arising due to the amount of data and limitations of web and DOM.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "Finite IT Recruitment Solutions",
+        "contact": {
+          "name": "Maria Ktori",
+          "role": "Account Director"
+        }
+      },
+      "address": "12/432 St Kilda Rd, Melbourne VIC 3004",
+      "manager": {
+        "name": "Ben Hounslow",
+        "role": "Principal Software Architect & Team Leader"
+      },
+      "showFull": true
+    },
+    {
+      "company": "Avanade (Loud & Clear)",
+      "position": "Senior Front End Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
+      "startDate": "2018-09-03",
+      "endDate": "2019-01-25",
+      "isCurrent": false,
+      "summary": "Loud&Clear (now part of Avanade) is a team of digital natives who love building future-ready businesses. They do this by combining design thinking, data-driven insights and well-drilled development capabilities to build products and platforms that inspire and capture the imagination.",
+      "highlights": [
+        {
+          "text": "Worked on Drupal 8 multisite with Vue js and Sitecore 9 applications.",
+          "active": true
+        },
+        {
+          "text": "Led the front end development for projects.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "AllSquares",
+        "contact": {
+          "name": "Julien Viard",
+          "role": "Managing Director"
+        }
+      },
+      "address": "83/89 William St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Luke Deylen",
+        "role": "Front End Lead"
+      },
+      "showFull": true
+    },
+    {
+      "company": "Custom Fleet",
+      "position": "Mobile Application Developer - React Native",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.customfleet.com.au/",
+      "startDate": "2018-05-07",
+      "endDate": "2018-08-31",
+      "isCurrent": false,
+      "summary": "Custom Fleet, part of Element Fleet Management is Australia and New Zealand’s premier fleet management organisation and has global reach across more than 40 countries.",
+      "highlights": [
+        {
+          "text": "Built Custom Fleet's first mobile app for the Australian market.",
+          "active": true
+        },
+
+        {
+          "text": "Championed agile and scrum methodology and successfully completed the React Native Greenfields project in time.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "FourQuarters Recruitment Pty Ltd",
+        "contact": {
+          "name": "Jessica Orrey",
+          "role": "Consultant - Technology Division"
+        }
+      },
+      "address": "Level 11/333 Collins St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Bradley David",
+        "role": "Project Manager"
+      },
+      "showFull": true
+    },
+    {
+      "company": "Monash University",
+      "position": "Senior Web Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://www.monash.edu/",
+      "startDate": "2016-08-08",
+      "endDate": "2018-05-04",
+      "summary": "Monash university being Australia's largest university has complex business processes and systems. Worked for Student First Program that delivers services that are easier, simpler and faster for students and staff.",
+      "highlights": [
+        {
+          "text": "Worked with various stakeholders and involved all phases of feature development",
+          "active": true
+        },
+        {
+          "text": "Worked on a React JS Project, Node and npm packages",
+          "active": false
+        },
+        {
+          "text": "Huge focus on Agile methodologies and development using Scaled Agile Frame Execution (SAFe).",
+          "active": true
+        },
+        {
+          "text": "Did user research to build tools that would benefit them the most with iterative development.",
+          "active": true
+        }
+      ],
+      "agency": {
+        "name": "Greythorn",
+        "contact": {
+          "name": "Michael Boyd",
+          "role": "Principal Consultant"
+        }
+      },
+      "address": "Level 11/333 Collins St, Melbourne VIC 3000",
+      "manager": {
+        "name": "Bradley David",
+        "role": "Project Manager"
+      },
+      "showFull": true
+    },
+    {
+      "company": "Persuit",
+      "position": "Front End Developer - React js",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://persuit.com/",
+      "startDate": "2015-09-14",
+      "endDate": "2016-06-08",
+      "summary": "PERSUIT is an outside counsel management platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice",
+      "summary1": "PERSUIT is a marketplace that caters to the needs of both sides of a legal relationship – the branded firms and the large and complex organisations who need their services. It is a private online real-time RFP and bidding platform which enables client organizations to scope and receive competitive and easy to compare proposals from their law firms of choice.",
+      "highlights": [
+        {
+          "text": "React JS SPA (single page application) with Node and Webpack.",
+          "active": false
+        },
+        {
+          "text": "Worked in a challenging environment with cutting edge technologies and adapted various new technologies and best practices.",
+          "active": true
+        },
+        {
+          "text": "Implemented agile and scrum methodology and adopted a hybrid process meeting the project needs.",
+          "active": true
+        },
+        {
+          "text": "Excelled in use of GIT, and extensively used git for code quality control with branching, reviews, merge, and feature release.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "company": "Trout Creative Thinking",
+      "position": "Front End Developer",
+      "location": "Melbourne",
+      "countryCode": "AU",
+      "website": "https://trout.com.au/",
+      "startDate": "2013-09-30",
+      "endDate": "2015-09-11",
+      "summary": "Trout is a digital agency with diverse team of creative thinkers. They work with many famous brands and little companies that want to be great.",
+      "highlights": [
+        {
+          "text": "Built numerous interactive websites and applications for various clients of Trout as both Front End and Full Stack Developer",
+          "active": true
+        },
+        {
+          "text": "Improved development practices and dictated best practices. Worked to optimize websites using various techniques.",
+          "active": true
+        }
+      ]
+    },
+    {
+      "company": "Cognizant Technology Solutions Pvt Ltd",
+      "position": "Associate - Projects",
+      "location": "Hyderabad",
+      "countryCode": "IN",
+      "website": "https://cognizant.com/",
+      "startDate": "2012-07-11",
+      "endDate": "2013-09-13",
+      "summary1": "Cognizant is a Fortune 500 company with huge development centers in India and in 2015",
+      "summary": "Cognizant was named world's fourth most admired IT services company by Fortune magazine in 2015, and I worked for Cognizant Interactive a branch that caters to the front-end needs of multiple projects.",
+      "highlights": [
+        {
+          "text": "Ensuring adherence to software quality standards and best practices and keep the team motivated and productive.",
+          "active": true
+        },
+        {
+          "text": "To ensure the features developed by the team are produced to the highest possible quality in the fastest possible time.",
+          "active": false
+        },
+        {
+          "text": "Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
+          "active": false
+        },
+        {
+          "text": "Evaluate different technologies and techniques and suggest the most optimum frameworks and architecture for projects. Provide solutions and support to different projects and developers on different areas like Responsive Web design, design, approaches and framework.",
+          "active": true
+        },
+        {
+          "text": "Train freshers and juniors in emmerging technologies.",
+          "active": false
+        }
+      ]
+    },
+    {
+      "company": "Global English India Pvt Limited",
+      "position": "Senior UI Developer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "https://www.globalenglish.com/",
+      "startDate": "2010-01-20",
+      "endDate": "2012-06-30",
+      "summary": "Now acquired by Pearson and rebranded to Person English, the company focuses on building a digital platform to enable learning and improving english for working professionals of different language skill levels.",
+      "highlights": [
+        {
+          "text": "Conceptualize and design the user interface for enhancement of the web/mobile applications and create wireframes. Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS",
+          "active": true
+        },
+        {
+          "text": "Worked in high performing small Agile teams with scrum, building features of high business value.",
+          "active": true
+        },
+        {
+          "text": "Develop cross-browser compatible applications with clean hand-coded XHTML and CSS and enhance UI with JQuery effects, Ajax and other dynamic content with clean CSS",
+          "active": false
+        }
+      ]
+    },
+    {
+      "company": "Netaxis IT Solutions P Ltd.",
+      "position": "Web designer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "",
+      "startDate": "2008-08-05",
+      "endDate": "2010-01-18",
+      "summary": "I started my career at Netaxis designing and building website templates for various CMSs.",
+      "highlights": [
+        {
+          "text": "Design and develop layouts for PHP based web-applications and CMS like Magento, Zen Cart, Joomla, Wordpress and Drupal using clean hand coded XHTML, JavaScript, jQuery, AJAX and CSS. Also, ensure cross-browser compatibility and debugging.",
+          "active": true
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "company": "Webwoggle Solutions",
+      "position": "Software Developer",
+      "location": "Chennai",
+      "countryCode": "IN",
+      "website": "",
+      "startDate": "2007-03-01",
+      "endDate": "2010-01-18",
+      "highlights": [
+        "Saw end-to-end development right from gathering requirement, analysis, design, implementation, debugging to deployment."
+      ],
+      "hidden": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "MGIT (JNTU)",
+      "location": "Hyderabad",
+      "countryCode": "IN",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Technology",
+      "endDate": "2007-08-30"
+    }
+  ]
+}
