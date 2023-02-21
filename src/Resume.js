@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
-import axios from "axios";
 import resumeJSON from "./data/resume.json";
+import resumeFullStack from "./data/resume-full-stack.json";
 import {
   Header,
   Headline,
@@ -14,13 +14,7 @@ import {
 } from "./components";
 
 export const Resume = () => {
-
   const [resumeData, setResumeData] = useState(resumeJSON);
-
-  if (window.location.hostname !== "localhost") {
-    axios.get("https://antonpunith.github.io/data/resume.json")
-    .then(response => {setResumeData(response.data);})
-  }
 
   return (
     <div className="App">
@@ -32,6 +26,22 @@ export const Resume = () => {
       <Skills skills={resumeData.skills} />
       <Work work={resumeData.work} />
       <Projects projects={resumeData.projects} />
+      <div className="sr-hidden buttons">
+        <button
+          onClick={() => {
+            setResumeData(resumeJSON);
+          }}
+        >
+          FE
+        </button>
+        <button
+          onClick={() => {
+            setResumeData(resumeFullStack);
+          }}
+        >
+          FS
+        </button>
+      </div>
     </div>
   );
-}
+};

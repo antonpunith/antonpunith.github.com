@@ -52,35 +52,35 @@ const renderTechnologies = (project) => {
   );
 };
 
-let projectList = [];
-
-const renderProjects = (project, key) => {
-    if (!project.active) {
-      return null;
-    }
-    if (!project.showFull) {
-      projectList.push(project);
-      return null;
-    } else {
-      return (
-        <div key={key}>
-          <h3 className="projectTitle">
-            <strong>{project.title} </strong>
-            {renderProjectLink(project)} | {renderRole(project)}
-          </h3>
-
-          {project.headline}
-          {renderHighlights(project)}
-          {renderTechnologies(project)}
-        </div>
-      );
-    }
+const renderProjects = (projectList) => (project, key) => {
+  if (!project.active) {
+    return null;
   }
+  if (!project.showFull) {
+    projectList.push(project);
+    return null;
+  } else {
+    return (
+      <div key={key}>
+        <h3 className="projectTitle">
+          <strong>{project.title} </strong>
+          {renderProjectLink(project)} | {renderRole(project)}
+        </h3>
 
-export const Projects = ({ projects }) => (
+        {project.headline}
+        {renderHighlights(project)}
+        {renderTechnologies(project)}
+      </div>
+    );
+  }
+};
+
+export const Projects = ({ projects }) => {
+  let projectList = [];
+  return (
   <div>
     <h2>Projects</h2>
-    {projects.map(renderProjects)}
+    {projects.map(renderProjects(projectList))}
     <ProjectLinks projectLinks={projectList} />
   </div>
-);
+)};

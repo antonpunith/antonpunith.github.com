@@ -29,9 +29,9 @@
   "headlines": [
     {
       "active": true,
-      "position": "Versatile UI / Front End developer",
+      "position": "Versatile developer",
       "careerStart": "2008-08-05",
-      "skill": "front-end development for web and devices and co-author of a book on React"
+      "skill": "application development for web and devices and co-author of a book on React"
     }
   ],
   "objectives": [
@@ -216,7 +216,8 @@
       "title": "The 2021 Australian Census",
       "active": true,
       "showFull": true,
-      "role": "Senior Front End Engineer",
+      "role": "Senior Full Stack Engineer",
+      "realRole": "Senior Front End Engineer",
       "headline": "The 2021 Census was a great success for Australian Bureau of Statistics (ABS) and PwC with over 8 million submissions.",
       "highlights": [
         "Helped build applications for heavy traffic using serverless and headless architechture.",
@@ -936,7 +937,8 @@
     },
     {
       "company": "PwC Australia",
-      "position": "Senior Front End Engineer",
+      "position": "Senior Full Stack Engineer",
+      "realPosition": "Senior Front End Engineer",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://www.pwc.com.au/",

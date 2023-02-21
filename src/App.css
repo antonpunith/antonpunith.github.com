@@ -103,6 +103,9 @@ table th {
   .dont-break {
     page-break-inside: avoid;
   }
+  .sr-hidden {
+    display: none;
+  }
 }
 @media print {
   body {
@@ -140,4 +143,14 @@ table th {
 }
 .projectsList {
   margin: 5px 0;
+}
+
+.buttons {
+  padding-top: 20px;
+  opacity: 0;
+  transition:opacity ease 500ms;
+  transition-delay: 2s;
+}
+.buttons:hover {
+  opacity: 1;
 }
