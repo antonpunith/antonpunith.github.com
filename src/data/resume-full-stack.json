@@ -177,6 +177,37 @@
 
   "projects": [
     {
+      "title": "IHYP",
+      "link": [
+        {
+          "url": "https://apps.apple.com/au/app/ihyp-i-hear-your-pain/id6449281369",
+          "title": "iOS"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.ozzi.IHYP&hl=en_AU&gl=US",
+          "title": "Android"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Tech Lead",
+      "headline": "IHYP is a new mobile app in the medical domain with a vision to improve legacy process using a revolutionary approach",
+      "highlights": [
+        "Lead the development of the app dictating the best practices to be used and resolving all technical challenges",
+        "Continuing to work with the stakeholders to best resolve requirements into technical features.",
+        "Worked on complex features to cater for the bespoke requirements given the nature of the project."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Typescript",
+        "Redux",
+        "Appcenter",
+        "iOS",
+        "Android"
+      ]
+    },
+    {
       "title": "Post+",
       "active": true,
       "showFull": true,
@@ -185,12 +216,22 @@
       "highlights": [
         "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
         "Resolved complex issues given the scale and the composite nature of the architecture.",
-        "Helped the team resolve technical obstacles to facilitate timely delivery."
+        "Worked on various integrations with complex systems and cloud for CI / CD."
       ],
       "technologies": ["React JS", "Electron", "Typescript", "Redux"]
     },
     {
       "title": "myDNA Pregnancy App",
+      "link": [
+        {
+          "url": "https://apps.apple.com/us/app/mydna-pregnancy/id1600769438",
+          "title": "iOS"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=viacord.mydna.mobile&hl=en&gl=US",
+          "title": "Android"
+        }
+      ],
       "active": true,
       "showFull": true,
       "role": "Senior Mobile Developer",
@@ -270,7 +311,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Full Stack Developer / Solutions Architect",
       "headline": "Get Going are on a mission to make our communities healthier and happier, and to reflect their brand and values, we built them a new site",
       "highlights": [
@@ -300,7 +341,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Full Stack Developer / Solutions Architect",
       "headline": "A brand new website to create a new digital identity for the artisans who craft bespoke jewellery.",
       "highlights": [
@@ -327,11 +368,11 @@
       "link": [
         {
           "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
-          "title": "iOS app"
+          "title": "iOS"
         },
         {
           "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
-          "title": "Android app"
+          "title": "Android"
         }
       ],
       "active": true,
@@ -385,7 +426,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Tech Lead",
       "headline": "A successfull e-commerce platform to launch a new brand of matteresses in the consumer market",
       "highlights": [
@@ -452,7 +493,7 @@
         }
       ],
       "active": true,
-      "showFull": true,
+      "showFull": false,
       "role": "Senior Front-end Developer - React js",
       "headline": "my.monash provides convenient access to important information and personalised services on desktop and via the App. For its users, my.monash not only provides easy access to dynamic, real-time information and frequently accessed services but also personalised content. It has a seamless transition between desktop and mobile devices.",
       "highlights": [
@@ -1043,7 +1084,7 @@
         "name": "Luke Deylen",
         "role": "Front End Lead"
       },
-      "showFull": true
+      "showFull": false
     },
     {
       "company": "Custom Fleet",
@@ -1078,7 +1119,7 @@
         "name": "Bradley David",
         "role": "Project Manager"
       },
-      "showFull": true
+      "showFull": false
     },
     {
       "company": "Monash University",
@@ -1119,7 +1160,7 @@
         "name": "Bradley David",
         "role": "Project Manager"
       },
-      "showFull": true
+      "showFull": false
     },
     {
       "company": "Persuit",

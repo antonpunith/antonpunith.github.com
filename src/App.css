@@ -147,7 +147,7 @@ table th {
 
 .buttons {
   padding-top: 20px;
-  opacity: 0;
+  opacity: 0.3;
   transition:opacity ease 500ms;
   transition-delay: 2s;
 }
