@@ -43,7 +43,7 @@
   "summary": [
     {
       "active": true,
-      "text": "Over 7 Years production level experience in React and React Native and co-authored a book on React."
+      "text": "Over 8 Years production level experience in React and React Native and co-authored a book on React."
     },
     {
       "active": true,
@@ -55,11 +55,11 @@
     },
     {
       "active": true,
-      "text": "Good experience working on the latest Serverless & Headless architechture with Cloud native apps on AWS and Google ecosystems and have implemented Jamstack."
+      "text": "Expert in Git and version control and DevOps with various CI / CD tools for builds and deployments."
     },
     {
       "active": true,
-      "text": "Expert in Git and version control and have worked with various CI / CD tools for builds and deployments."
+      "text": "Good experience working on the latest Serverless & Headless architechture with Cloud native apps on AWS and Google ecosystems and have implemented Jamstack."
     },
     {
       "active": true,
@@ -140,11 +140,11 @@
       "values": [
         { "name": "Git", "active": true },
         { "name": "Git CLI", "active": true },
+        { "name": "AWS", "active": true },
         { "name": "Azure Devops", "active": true },
         { "name": "Azure Pipelines", "active": true },
         { "name": "Jira", "active": true },
         { "name": "Confluence", "active": true },
-        { "name": "AWS", "active": true },
         { "name": "Firebase (Google)", "active": true },
         { "name": "bash scripting", "active": true },
         { "name": "Bamboo", "active": true },
@@ -193,8 +193,8 @@
       "headline": "IHYP is a new mobile app in the medical domain with a vision to improve legacy process using a revolutionary approach",
       "highlights": [
         "Lead the development of the app dictating the best practices to be used and resolving all technical challenges",
-        "Continuing to work with the stakeholders to best resolve requirements into technical features.",
-        "Worked on complex features to cater for the bespoke requirements given the nature of the project."
+        "Worked on complex features to cater for the bespoke requirements given the nature of the project.",
+        "Used React Native with Typescript, Appcenter for CI/CD and Firebase for Serverless functions and NoSQL database."
       ],
       "technologies": [
         "React JS",
@@ -203,7 +203,8 @@
         "Redux",
         "Appcenter",
         "iOS",
-        "Android"
+        "Android",
+        "Firebase"
       ]
     },
     {
@@ -214,10 +215,10 @@
       "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
       "highlights": [
         "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
-        "Resolved complex issues given the scale and the composite nature of the architecture.",
-        "Worked on various integrations with complex systems and cloud for CI / CD."
+        "Worked on various integrations with complex systems and deployments with CI / CD using GitLab Pipelines and AWS",
+        "Resolved complex issues given the scale and the composite nature of the architecture."
       ],
-      "technologies": ["React JS", "Electron", "Typescript", "Redux"]
+      "technologies": ["React JS", "Electron", "Typescript", "Redux", "AWS"]
     },
     {
       "title": "myDNA Pregnancy App",
@@ -238,8 +239,8 @@
       "highlights": [
         "Created a framework with a React Native common component library being used for both existing App and future apps.",
         "Helped build inhouse react native capability and best practices.",
-        "Built a new app using the established framework using React native and Typescript.",
-        "Worked on Native app CI/CD with Appcenter."
+        "Setup DevOps for Native apps CI/CD with Appcenter.",
+        "Built a new app using the established framework using React native and Typescript."
       ],
       "technologies": [
         "React JS",
@@ -933,7 +934,7 @@
           "active": true
         },
         {
-          "text": "Built various features and resolved complex issues due to the magnitude of the solution and services.",
+          "text": "Built various features, worked on DevOps with GitLab and resolved complex issues due to the magnitude of the solution and services.",
           "active": true
         }
       ],
@@ -950,7 +951,7 @@
       "summary": "Founded by the first qualified clinical geneticist in Australia, myDNA makes genetics accesible to common people using Personalised Medications test.  With just a simple at-home swab test, myDNA delivered actionable science to doctors.",
       "highlights": [
         {
-          "text": "Worked as a Senior Mobile Developer and helped build inhouse React Native capability.",
+          "text": "Worked as a Senior Mobile Developer and helped create inhouse React Native capability along with DevOps.",
           "active": true
         },
         {
@@ -985,11 +986,11 @@
       "summary": "PwC Australia brings together people, business, technology and ideas to build trust in society and solve important problems. One of the Big Four, PwC ranks as the second-largest professional services network in the world. ",
       "highlights": [
         {
-          "text": "Worked as a Full Stack Developer and helped with DevOps to cater to project needs.",
+          "text": "Worked as a Full Stack Developer and DevOps to cater to project needs.",
           "active": true
         },
         {
-          "text": "Built an application for the federal government with widespread use across Australia.",
+          "text": "Built an application for the federal government with widespread use across Australia on AWS.",
           "active": true
         },
         {
@@ -1020,14 +1021,15 @@
       "startDate": "2019-02-12",
       "endDate": "2019-12-13",
       "isCurrent": false,
-      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions. With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, eliminating the need to purchase, integrate and maintain complex solutions.",
+      "summary": "EMS Bruel & Kjaer is a global provider of continuous environmental monitoring services and solutions.",
+      "summary2": "With Business as a Service (BAAS) model, they simplify operations for customers and provide a complete service, eliminating the need to purchase, integrate and maintain complex solutions.",
       "highlights": [
         {
           "text": "Built a complex web application that visualises large data sets and related geospatial data.",
           "active": true
         },
         {
-          "text": "Worked on the latest and the greatest in technology like React, GraphQL, Typescript, Mapbox, Deck.gl.",
+          "text": "Worked on React, GraphQL, Typescript, Mapbox, Deck.gl, DevOps with Azure DevOps",
           "active": true
         },
         {
@@ -1054,7 +1056,7 @@
       "position": "Senior Front End Developer - React js",
       "location": "Melbourne",
       "countryCode": "AU",
-      "website": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
+      "websiteD": "https://www.avanade.com/en-au/about-avanade/approach/digital-studio",
       "startDate": "2018-09-03",
       "endDate": "2019-01-25",
       "isCurrent": false,
