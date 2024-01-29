@@ -47,15 +47,15 @@
     },
     {
       "active": true,
-      "text": "Expert in JavaScript, ES2015+, React JS, Redux, Flux, Typescript, GraphQL, npm, Node js, HTML5, CSS, SASS, LESS."
+      "text": "Expert in JavaScript, ES2015+, React JS, Redux, Flux, Typescript, Vue.js, GraphQL, npm, Node js, HTML5, CSS, SASS, LESS."
     },
     {
       "active": true,
-      "text": "Full stack developer with various technologies like PHP, JavaScript and Java and cloud."
+      "text": "Expert in Git and version control and DevOps with various CI / CD tools for builds and cloud based deployments."
     },
     {
       "active": true,
-      "text": "Expert in Git and version control and DevOps with various CI / CD tools for builds and deployments."
+      "text": "Full stack developer with various technologies like JavaScript, PHP and Java and cloud."
     },
     {
       "active": true,
@@ -100,7 +100,8 @@
       "values": [
         { "name": "JavaScript", "active": true },
         { "name": "Typescript", "active": true },
-        { "name": "React JS", "active": true },
+        { "name": "React.JS", "active": true },
+        { "name": "Vue.JS", "active": true },
         { "name": "HTML5", "active": true },
         { "name": "CSS3", "active": true },
         { "name": "eslint", "active": true },

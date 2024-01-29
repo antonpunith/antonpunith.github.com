@@ -14,7 +14,7 @@ import {
 } from "./components";
 
 export const Resume = () => {
-  const [resumeData, setResumeData] = useState(resumeJSON);
+  const [resumeData, setResumeData] = useState(resumeFullStack);
 
   return (
     <div className="App">
@@ -29,17 +29,17 @@ export const Resume = () => {
       <div className="sr-hidden buttons">
         <button
           onClick={() => {
-            setResumeData(resumeJSON);
-          }}
-        >
-          FE
-        </button>
-        <button
-          onClick={() => {
             setResumeData(resumeFullStack);
           }}
         >
           FS
+        </button>
+        <button
+          onClick={() => {
+            setResumeData(resumeJSON);
+          }}
+        >
+          FE
         </button>
       </div>
     </div>
