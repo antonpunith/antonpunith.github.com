@@ -285,6 +285,38 @@
       ]
     },
     {
+      "title": "Custom Fleet Drive",
+      "link": [
+        {
+          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
+          "title": "iOS"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
+          "title": "Android"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Mobile Application Developer - React Native",
+      "headline": "CustomFleet provide fleet management and leasing solutions, needed a mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, on iOS and Android.",
+      "highlights": [
+        "Led the native development effort, dictating best practices and strategy",
+        "Built development environment from scratch including mock APIs for the Greenfields project.",
+        "User Authentication and APIs with OAuth 2.0.",
+        "Push Notification to targeted users with AWS integration."
+      ],
+      "technologies": [
+        "React JS",
+        "React Native",
+        "Redux",
+        "Thunk",
+        "OAuth2",
+        "Express",
+        "AWS"
+      ]
+    },
+    {
       "title": "The React Workshop",
       "active": true,
       "showFull": true,
@@ -363,38 +395,6 @@
         "Sketch",
         "Zeplin",
         "Cloud Functions"
-      ]
-    },
-    {
-      "title": "Custom Fleet Drive",
-      "link": [
-        {
-          "url": "https://itunes.apple.com/au/app/custom-fleet-drive/id1433863425",
-          "title": "iOS"
-        },
-        {
-          "url": "https://play.google.com/store/apps/details?id=com.customfleet.mobileapp",
-          "title": "Android"
-        }
-      ],
-      "active": true,
-      "showFull": true,
-      "role": "Mobile Application Developer - React Native",
-      "headline": "CustomFleet who provide fleet management and leasing solutions, needed a brand new mobile application for their customers across Australia and New Zealand to make the management of fleet efficient, and will be available on iOS and Android.",
-      "highlights": [
-        "Led the native development effort, dictating best practices and strategy",
-        "Built development environment from scratch including mock APIs for the Greenfields project.",
-        "User Authentication and APIs with OAuth 2.0.",
-        "Push Notification to targeted users with AWS integration."
-      ],
-      "technologies": [
-        "React JS",
-        "React Native",
-        "Redux",
-        "Thunk",
-        "OAuth2",
-        "Express",
-        "AWS"
       ]
     },
     {

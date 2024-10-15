@@ -176,6 +176,19 @@
   ],
   "projects": [
     {
+      "title": "Post+",
+      "active": true,
+      "showFull": true,
+      "role": "Senior Frontend Developer - React js",
+      "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
+      "highlights": [
+        "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
+        "Worked on various integrations using Micro Frontend (MFE) architecture and deployments with CI / CD using GitLab Pipelines and AWS",
+        "Resolved complex requirements mainly working on the MFE host given the scale and the composite nature of the architecture."
+      ],
+      "technologies": ["React JS", "Electron", "Typescript", "Redux", "AWS"]
+    },
+    {
       "title": "IHYP",
       "link": [
         {
@@ -206,19 +219,6 @@
         "Android",
         "Firebase"
       ]
-    },
-    {
-      "title": "Post+",
-      "active": true,
-      "showFull": true,
-      "role": "Senior Frontend Developer - React js",
-      "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
-      "highlights": [
-        "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
-        "Worked on various integrations using Micro Frontend (MFE) architecture and deployments with CI / CD using GitLab Pipelines and AWS",
-        "Resolved complex requirements mainly working on the MFE host given the scale and the composite nature of the architecture."
-      ],
-      "technologies": ["React JS", "Electron", "Typescript", "Redux", "AWS"]
     },
     {
       "title": "myDNA Pregnancy App",
