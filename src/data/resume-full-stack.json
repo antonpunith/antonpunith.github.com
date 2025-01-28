@@ -29,9 +29,9 @@
   "headlines": [
     {
       "active": true,
-      "position": "Versatile developer",
+      "position": "Versatile full stack developer",
       "careerStart": "2008-08-05",
-      "skill": "application development for web and devices and co-author of a book on React"
+      "skill": "web and mobile application development, specializing in React and React Native and co-author of a book on React"
     }
   ],
   "objectives": [
@@ -42,8 +42,12 @@
   ],
   "summary": [
     {
-      "active": true,
+      "active": false,
       "text": "Over 9 Years production level experience in React and React Native and co-authored a book on React."
+    },
+    {
+      "active": true,
+      "text": "Highly proficient in front-end technologies like React.js, React Native and TypeScript, coupled with hands-on experience in backend frameworks and languages, including Node.js, Java, and PHP. "
     },
     {
       "active": true,
@@ -54,24 +58,24 @@
       "text": "Expert in Git and version control and DevOps with various CI / CD tools for builds and cloud based deployments."
     },
     {
-      "active": true,
+      "active": false,
       "text": "Full stack developer with various technologies like JavaScript, PHP and Java and cloud."
     },
     {
       "active": true,
-      "text": "Good experience working on the latest Serverless & Headless architechture with Cloud native apps on AWS and Google ecosystems and have implemented Jamstack."
+      "text": "Extensive experience with modern Serverless and Headless architectures, developing cloud-native applications on AWS and Google ecosystems, and implementing Jamstack solutions."
     },
     {
       "active": true,
-      "text": "In-depth knowledge of Responsive web design techniques, cross-browser compatibility and browser quirks, cross-device compatibility, SEO and site optimisation."
+      "text": "Extensive knowledge of responsive web design, cross-device compatibility, modern SEO practices, accessibility, and performance optimization for enhanced user experience."
     },
     {
       "active": true,
-      "text": "Experience building npm packages and building HTML5 single page applications (SPA) and web applications using RESTful and GraphQL API."
+      "text": "Adept at integrating APIs and microservices, leveraging RESTful and GraphQL APIs along with AWS services like Lambda, DynamoDB, and API Gateway to deliver robust serverless solutions."
     },
     {
       "active": true,
-      "text": "Experience in UI / UX  Design and expert at design tools like Sketch, Photoshop and Illustrator."
+      "text": "Skilled in collaborating with UX/UI designers to create user-friendly interfaces, ensuring technical feasibility, and experienced in using design tools like Sketch, Photoshop, and Illustrator."
     },
     {
       "active": false,
@@ -98,9 +102,10 @@
     {
       "title": "Languages / Frameworks",
       "values": [
+        { "name": "React.JS", "active": true },
+        { "name": "React Native", "active": true },
         { "name": "JavaScript", "active": true },
         { "name": "Typescript", "active": true },
-        { "name": "React.JS", "active": true },
         { "name": "Vue.JS", "active": true },
         { "name": "HTML5", "active": true },
         { "name": "CSS3", "active": true },
@@ -191,12 +196,13 @@
       ],
       "active": true,
       "showFull": true,
-      "role": "Tech Lead",
-      "headline": "IHYP is a new mobile app in the medical domain with a vision to improve legacy process using a revolutionary approach",
+      "role": "Lead Mobile Developer",
+      "headline": "IHYP is an innovative mobile app in the medical field that enables practitioners to assess and quantify pain levels using sound, paving the way for improved pain management strategies through data-driven insights.",
       "highlights": [
-        "Lead the development of the app dictating the best practices to be used and resolving all technical challenges",
-        "Worked on complex features to cater for the bespoke requirements given the nature of the project.",
-        "Used React Native with Typescript, Appcenter for CI/CD and Firebase for Serverless functions and NoSQL database."
+        "Led the development of the app, establishing best practices and overcoming technical challenges related to complex user authentication, secure login flows, and role-based access management.",
+        "Designed and implemented a robust user management system, including features for role-based permissions and granular access control, to ensure secure data handling in a healthcare setting.",
+        "Integrated comprehensive logging and monitoring solutions, enabling detailed tracking of user activity and system performance for compliance and operational transparency.",
+        "Utilized React Native with TypeScript for mobile development, Appcenter for CI/CD, and Firebase for serverless functions and NoSQL database, ensuring scalability and real-time data handling across user sessions."
       ],
       "technologies": [
         "React JS",
@@ -213,12 +219,12 @@
       "title": "Post+",
       "active": true,
       "showFull": true,
-      "role": "Senior Frontend Developer - React js",
-      "headline": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
+      "role": "Senior Full-Stack Developer",
+      "headline": "Contributed to the development of Australia Post's next-generation POS (Point of Sale) system, a comprehensive platform supporting various integrated services.",
       "highlights": [
-        "Worked on various functional and non functional requirements for the POS system with React Js and Electron.",
-        "Worked on various integrations using Micro Frontend (MFE) architecture and deployments with CI / CD using GitLab Pipelines and AWS",
-        "Resolved complex requirements mainly working on the MFE host given the scale and the composite nature of the architecture."
+        "Led the development of both functional and non-functional requirements for the POS system using React.js, Electron, and AWS, ensuring a robust and scalable solution.",
+        "Implemented Micro Frontend (MFE) architecture, enabling modular integration and enhanced maintainability. Utilized GitLab Pipelines and AWS for efficient CI/CD workflows and deployment automation.",
+        "Tackled complex system requirements and optimizations, focusing on the MFE host to resolve scalability and integration challenges within the composite architecture, ensuring seamless interaction between services."
       ],
       "technologies": ["React JS", "Electron", "Typescript", "Redux", "AWS"]
     },
@@ -237,12 +243,12 @@
       "active": true,
       "showFull": true,
       "role": "Senior Mobile Developer",
-      "headline": "myDNA Pregnancy is a new app that focuses the company's service offering to target pregnant women.",
+      "headline": "mmyDNA Pregnancy is an innovative app that tailors the company's services to meet the unique needs of pregnant women.",
       "highlights": [
-        "Created a framework with a React Native common component library being used for both existing App and future apps.",
-        "Helped build inhouse react native capability and best practices.",
-        "Setup DevOps for Native apps CI/CD with Appcenter.",
-        "Built a new app using the established framework using React native and Typescript."
+        "Developed a reusable framework and a common component library in React Native, streamlining development for both the existing app and future applications.",
+        "Played a key role in building the in-house React Native capability, establishing best practices to ensure scalable and maintainable code.",
+        "Implemented DevOps processes for mobile app CI/CD pipelines using Appcenter, ensuring efficient and reliable app delivery.",
+        "Delivered the myDNA Pregnancy app, leveraging the established framework with React Native and TypeScript to create a seamless user experience tailored to the needs of expectant mothers."
       ],
       "technologies": [
         "React JS",
@@ -267,7 +273,6 @@
         "Took ownership of delivery of critical modules for the project and worked on continous deployments using CI/CD pipelines with bamboo and AWS.",
         "Took up full stack development and wrote Lambda in Java to complement React JS in the front-end to deliver a robust application.",
         "Liased with the clients and stake holder to fast pace the traditionally slow process and improve quality.",
-        "Was involved in Devops and support, throughout the tenure of live period.",
         "Worked on assesibilty to earn a AA rating and the project has recieved accolades in media as a giant leap for digital accessibility in Australia for a Government undertaking."
       ],
       "technologies": [
@@ -924,20 +929,29 @@
   "work": [
     {
       "company": "Australia Post",
-      "position": "Senior Frontend Developer - React js",
+      "position": "Senior Full-Stack Developer",
       "location": "Melbourne",
       "countryCode": "AU",
       "website": "https://auspost.com.au/",
       "startDate": "2022-04-04",
-      "isCurrent": true,
-      "summary": "Australia Post's ambition for the Post Office is to be a leading edge marketplace that connects Australians with the world.",
+      "endDate": "2024-11-01",
+      "isCurrent": false,
+      "summary": "Post+ is a new Point Of Sale system that aims to deliver a flexible, modern platform allowing complex services to be delivered through multiple channels and touchpoints, enabling revenue growth and cost efficiencies while remediating risk for Australia Post.",
       "highlights": [
         {
-          "text": "Worked on the next generation POS (Point Of Sale) system for AusPost which encompases various systems.",
+          "text": "Led the design and development of key features for the POS system, working extensively on the Micro Frontend (MFE) host and MFE APIs to enable modular integration and ensuring seamless front-end and back-end integration.",
           "active": true
         },
         {
-          "text": "Built various features, worked on DevOps and resolved complex issues due to the magnitude of the solution and services.",
+          "text": "Implemented and optimized DevOps practices, streamlining deployment pipelines and enhancing system reliability.",
+          "active": true
+        },
+        {
+          "text": "Collaborated closely with cross-functional teams to resolve complex technical challenges, ensuring high scalability and performance across the solution.",
+          "active": true
+        },
+        {
+          "text": "Utilized AWS services and serverless architectures to improve the overall system's flexibility and efficiency.",
           "active": true
         }
       ],
