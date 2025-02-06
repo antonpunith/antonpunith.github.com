@@ -207,12 +207,14 @@
       "technologies": [
         "React JS",
         "React Native",
+        "Firebase",
+        "Express",
+        "Node js",
         "Typescript",
         "Redux",
         "Appcenter",
         "iOS",
-        "Android",
-        "Firebase"
+        "Android"
       ]
     },
     {
@@ -226,7 +228,15 @@
         "Implemented Micro Frontend (MFE) architecture, enabling modular integration and enhanced maintainability. Utilized GitLab Pipelines and AWS for efficient CI/CD workflows and deployment automation.",
         "Tackled complex system requirements and optimizations, focusing on the MFE host to resolve scalability and integration challenges within the composite architecture, ensuring seamless interaction between services."
       ],
-      "technologies": ["React JS", "Electron", "Typescript", "Redux", "AWS"]
+      "technologies": [
+        "React JS",
+        "Electron",
+        "Typescript",
+        "Express",
+        "Node js",
+        "Redux",
+        "AWS"
+      ]
     },
     {
       "title": "myDNA Pregnancy App",
@@ -254,6 +264,8 @@
         "React JS",
         "React Native",
         "Typescript",
+        "Express",
+        "Node js",
         "Redux",
         "AWS",
         "Appcenter",
@@ -278,11 +290,12 @@
       "technologies": [
         "React JS",
         "Typescript",
+        "Express",
+        "Node js",
         "Redux",
         "AWS",
         "Java",
-        "Drupal",
-        "Node js"
+        "Drupal"
       ],
       "media": [
         "https://www.innovationaus.com/census-2021-breaks-ground-on-accessibility/",
@@ -315,6 +328,8 @@
         "React JS",
         "React Native",
         "Redux",
+        "Express",
+        "Node",
         "Thunk",
         "OAuth2",
         "Express",
@@ -350,7 +365,7 @@
         }
       ],
       "active": true,
-      "showFull": false,
+      "showFull": true,
       "role": "Full Stack Developer / Solutions Architect",
       "headline": "Get Going are on a mission to make our communities healthier and happier, and to reflect their brand and values, we built them a new site",
       "highlights": [
@@ -362,6 +377,7 @@
         "React",
         "Gatsby",
         "Strapi",
+        "Firebase",
         "Node js",
         "GSAP",
         "Azure Devops",
