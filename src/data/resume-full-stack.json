@@ -357,6 +357,33 @@
       "technologies": ["React JS"]
     },
     {
+      "title": "TastyOne",
+      "link": [
+        {
+          "url": "https://www.tastyone.com.au/",
+          "title": "www.tastyone.com.au"
+        }
+      ],
+      "active": true,
+      "showFull": true,
+      "role": "Full Stack Developer / Solutions Architect",
+      "headline": "As part of TastyOne’s rebranding efforts, we built a fresh and dynamic website to reflect their new identity.",
+      "highlights": [
+        "Headless website built using Gatsby for fast and seamless user experience.",
+        "CMS powered by Strapi to enable easy content management.",
+        "Hosted on Firebase with backend functions handled using Firebase Functions.",
+        "Enhanced user engagement with custom-built sliders and GSAP-powered parallax animations."
+      ],
+      "technologies": [
+        "React",
+        "Gatsby",
+        "Strapi",
+        "Firebase",
+        "Node.js",
+        "GSAP"
+      ]
+    },
+    {
       "title": "GetgoingPT",
       "link": [
         {
@@ -382,7 +409,6 @@
         "GSAP",
         "Azure Devops",
         "BigCommerce",
-        "Firebase",
         "Figma",
         "Lambda, EC2, Amplify, S3 from AWS"
       ]
